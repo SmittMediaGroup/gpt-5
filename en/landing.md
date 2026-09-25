@@ -20,15 +20,17 @@ I measure how often "Search with Alice", GigaChat, YandexGPT, ChatGPT and Perple
 
 If you sell to Russian-speaking audiences, most of your buyers search on Yandex. StatCounter puts Yandex at roughly 70–73% of search in Russia in 2026 (StatCounter, https://gs.statcounter.com/search-engine-market-share/all/russian-federation, checked 2026-09-25 via search snippets; confirm the latest monthly figure before publishing). Yandex Search now answers many queries with an AI summary ("Search with Alice"), and that summary names a handful of companies.
 
-The AI-visibility dashboards your agency already uses (Profound, Peec AI, Otterly, Semrush's AI toolkit, Ahrefs Brand Radar, Scrunch) track ChatGPT, Google AI Overviews, Perplexity, Gemini and Copilot. From their published engine lists, none of them queries Alice or GigaChat. So a brand can look fine in ChatGPT and still be missing from the AI answer that most Russian searchers actually see. It can also go the other way.
+The AI-visibility dashboards your agency already uses (Profound, Peec AI, Otterly, Semrush's AI toolkit, Ahrefs Brand Radar, Scrunch) track ChatGPT, Google AI Overviews, Perplexity, Gemini and Copilot. From their published engine lists, none of them queries Alice or GigaChat. So what a brand sees in ChatGPT may not match the AI answer that most Russian searchers actually see.
 
-On 25 September 2026 I measured seven local companies in Irkutsk (Russia) and Bishkek (Kyrgyzstan). Some findings:
+One measured case, from my pilot run on 25 September 2026 (Nomad Car Rental, a car-rental company in Bishkek, Kyrgyzstan):
 
-- **YandexGPT and GigaChat, queried through their APIs without web search, didn't name any company at all.** On these queries the "plain" models are silent. The surface that does name brands is Search with Alice.
-- **Search with Alice and ChatGPT did not always agree.** In this pilot the gap in share of mentions between the two looked large for some companies (the largest was for a car-rental company). [Before publishing: insert the per-company gaps only if they are statistically significant, with n answers per system and the 95% interval, from `metodika/tri-cifry.md`.]
-- This was a small pilot on one date, so treat it as a preliminary observation, not a finding. That's why every number in my reports comes with its sample size and an interval, and differences inside the margin of error are reported as such.
+[needed from owner: Nomad Car Rental's consent to be named in sales copy; otherwise say "a car-rental company in Bishkek"]
 
-The takeaway: you can't infer Russian-language AI visibility from ChatGPT data. It has to be measured separately.
+- **Search with Alice named the company in 39 of 48 answers (81%, 95% Wilson interval 68–90%). ChatGPT named it in 29 of 96 answers (30%, 22–40%).**
+- **The difference is +51 percentage points, 95% Newcombe interval +34.6 to +62.9.** The interval doesn't include zero, so this is unlikely to be sampling noise. It stays clear of zero even after correcting for repeated prompts.
+- **This is one company on one date: a pilot case, not a pattern.** For two other companies in the same run, the difference between Alice and ChatGPT was within the margin of error, and I report it that way. YandexGPT and GigaChat, queried through their APIs, answer without web search, so I report them separately and don't compare them with Alice.
+
+The takeaway: in at least one measured case, ChatGPT data said little about what Alice shows. Russian-language AI visibility has to be measured separately.
 
 ---
 
@@ -52,7 +54,7 @@ The report is a PDF (English, or Russian on request) plus a spreadsheet with eve
 
 **Sections:**
 
-1. **Summary on one page.** Where the brand stands per AI system, the three biggest gaps against competitors, and the three most important false claims.
+1. **Summary on one page.** Where the brand stands per AI system, the differences against competitors that exceed the margin of error (if any), and the three most important false claims.
 2. **Method.** Questions, systems, dates, number of answers, session settings, and the smallest difference this sample can detect.
 3. **Share of mentions by system,** for the brand and competitors, with intervals (example below).
 4. **Sentiment and position.** How the brand is described when it is named, and whether it is named first, in the middle, or last.
