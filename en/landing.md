@@ -1,6 +1,6 @@
 # Landing page copy (EN)
 
-> Status: draft, 2026-09-25. Copy is written in first person singular. Placeholders are in [square brackets]. The pricing rationale at the end of the file is internal and must be removed before publishing.
+> Status: draft, 2026-09-25. Copy is written in first person singular. Placeholders are in [square brackets].
 
 ---
 
@@ -18,15 +18,15 @@ I measure how often "Search with Alice", GigaChat, YandexGPT, ChatGPT and Perple
 
 ## The problem
 
-If you sell to Russian-speaking audiences, most of your buyers search on Yandex. StatCounter puts Yandex at roughly 70–73% of search in Russia in 2026 (sources in the internal note below). Yandex Search now answers many queries with an AI summary ("Search with Alice"), and that summary names a handful of companies.
+If you sell to Russian-speaking audiences, most of your buyers search on Yandex. StatCounter puts Yandex at roughly 70–73% of search in Russia in 2026 (StatCounter, https://gs.statcounter.com/search-engine-market-share/all/russian-federation, checked 2026-09-25 via search snippets; confirm the latest monthly figure before publishing). Yandex Search now answers many queries with an AI summary ("Search with Alice"), and that summary names a handful of companies.
 
 The AI-visibility dashboards your agency already uses (Profound, Peec AI, Otterly, Semrush's AI toolkit, Ahrefs Brand Radar, Scrunch) track ChatGPT, Google AI Overviews, Perplexity, Gemini and Copilot. From their published engine lists, none of them queries Alice or GigaChat. So a brand can look fine in ChatGPT and still be missing from the AI answer that most Russian searchers actually see. It can also go the other way.
 
 On 25 September 2026 I measured seven local companies in Irkutsk (Russia) and Bishkek (Kyrgyzstan). Some findings:
 
 - **YandexGPT and GigaChat, queried through their APIs without web search, didn't name any company at all.** On these queries the "plain" models are silent. The surface that does name brands is Search with Alice.
-- **Search with Alice and ChatGPT disagreed a lot.** The gap in share of mentions between the two was **+51 percentage points** for a car-rental company, **+22** for a house builder and **−20** for a plant nursery (negative means ChatGPT named the brand more often).
-- These samples were small, so treat the gaps as indicative, not precise. That's why every number in my reports comes with an interval.
+- **Search with Alice and ChatGPT did not always agree.** In this pilot the gap in share of mentions between the two looked large for some companies (the largest was for a car-rental company). [Before publishing: insert the per-company gaps only if they are statistically significant, with n answers per system and the 95% interval, from `metodika/tri-cifry.md`.]
+- This was a small pilot on one date, so treat it as a preliminary observation, not a finding. That's why every number in my reports comes with its sample size and an interval, and differences inside the margin of error are reported as such.
 
 The takeaway: you can't infer Russian-language AI visibility from ChatGPT data. It has to be measured separately.
 
@@ -130,42 +130,3 @@ Agencies and companies that market to Russian-speaking audiences. Payment is by 
 ## Disclaimer (short, for the footer)
 
 AI systems generate answers probabilistically, and their outputs change over time, by location, by account and by session. My measurements describe the answers collected on the stated dates under the stated protocol. They aren't a forecast or a guarantee of future visibility, traffic or sales. Differences smaller than the reported intervals shouldn't be treated as real. Recommendations are advisory. I don't serve sanctioned persons or entities, and each buyer checks their own compliance obligations.
-
----
----
-
-## Pricing rationale (internal, not for publishing)
-
-**Exchange rate.** I use **≈85 RUB per USD**. The Bank of Russia rate was 84.1975 on 20.09.2026 and 86.1909 on 08.09.2026 (snippets: https://myfin.by/currency/cb-rf/usd/20-09-2026, https://amp.rbc.ru/rbcnews/quote/07/09/2026/6a9ebd709a79470691929e2e; checked 2026-09-25; the official cbr.ru page was not opened). Before quoting, I replace this with the rate for the invoice date.
-
-- 19,900 RUB (Irkutsk local) ≈ **$234**
-- 39,900 RUB (B2B across Russia, includes re-measure) ≈ **$469**
-
-**Western benchmarks** (monthly subscriptions, from `research-rynok/02-instrumenty.md`; all checked 2026-09-25, **snippet only**, not the full pages):
-
-| Tool | Entry / mid tier | Covers Alice / GigaChat? | Source |
-|---|---|---|---|
-| Profound | Starter $99/mo (ChatGPT only, annual billing); Growth $399/mo | No | https://www.tryprofound.com/pricing (snippet) |
-| Peec AI | Starter €85, Pro €205, Advanced €425 /mo | No | https://peec.ai/pricing (snippet) |
-| Otterly.AI | Lite $29, Standard $189, Premium $489 /mo | No | https://help.otterly.ai/pricing-of-otterlyai (snippet) |
-| Semrush AI Visibility Toolkit | $99/mo per domain (annual) | No | https://www.semrush.com/pricing/ai/ (snippet) |
-| Ahrefs Brand Radar | $199/mo per platform index, $699 all | No | https://ahrefs.com/brand-radar (snippet) |
-| Scrunch | $250–300/mo Starter | No | https://scrunch.com/pricing/ (snippet) |
-
-**Logic.**
-- **Snapshot $190.** Just under the local 19,900 RUB (≈$234), but smaller in scope (10 questions, 3 systems). It sits between one month of Otterly Standard ($189) and one month of Profound Growth ($399), so it's easy for an agency to approve without a procurement cycle. It works as the paid "first step" and as material for a pitch.
-- **Audit $490.** Roughly the B2B RUB price (≈$469) rounded up. It's about one month of Profound Growth or Otterly Premium, yet it covers systems those tools don't. It also includes manual fact-checking and an English report. It's a one-off, not a subscription, which is easier to resell to a client.
-- **Audit + Re-measure $690.** In Russia the re-measure is bundled into 39,900 RUB. For international buyers I split it out, so the headline Audit price stays under $500 and the before/after proof is a visible upgrade (+$200). This is the tier I actually want to sell.
-- **Why not higher?** I'm new to international buyers, I have no reviews on Western directories, and a Russia-based seller adds friction for the buyer (payments, compliance checks). The price has to compensate for that. I'll revisit after 3–5 paid projects.
-- **Why not lower?** Raw measurement is cheap (Russian services charge ~2–12 RUB per AI answer). What I sell is the method, the fact-check and the interpretation. Going below ~$150 would compete with dashboards on their terms.
-- **Floor for discounts:** no lower than $390 for an Audit (agency volume), because each Audit costs about 2 working days plus API and search costs.
-
-**Search-share sources** (for the "Problem" section; checked 2026-09-25, snippet only):
-- StatCounter, Russia, all devices: https://gs.statcounter.com/search-engine-market-share/all/russian-federation. Snippets quoting StatCounter give Yandex 72.37–72.69% (2026) and 73.04% (April 2026), via https://searchendurance.com/yandex-statistics/, https://www.seo-russia.com/resources/russian-search-market-share/ and https://inclient.ru/search-engine-russia-stats/.
-- TAdviser headline: Yandex 74.4% (period not visible in the snippet): https://www.tadviser.ru/index.php/Статья:Интернет-поиск_в_России
-- Yandex Radar (Yandex's own data): https://radar.yandex.ru/. The page wasn't opened, so no data on the figure.
-- LiveInternet: no data (not found in this session).
-- Kazakhstan, StatCounter: Google 73.64%, Yandex 24.78%, and 28.31% in May 2026 (snippet): https://gs.statcounter.com/search-engine-market-share/all/kazakhstan
-- The published copy says "roughly 70–73%" rather than a single figure. Before publishing, open the StatCounter page and use the latest monthly number.
-
-**Measurement claims to double-check before publishing:** the +51 / +22 / −20 pp gaps come from the 25.09.2026 run. Put the sample size per company next to them (n per system) in any public case study.

@@ -82,13 +82,23 @@
 1. **Yandex Search API, генеративный ответ:** `POST https://searchapi.api.cloud.yandex.net/v2/gen/search` (S16, S18). Ответ строит модель YandexGPT по выдаче Яндекса. Приходят `message.content`, `sources[]{url,title,used}`, `search_queries`, `is_answer_rejected`, `is_bullet_answer`. Каждый запрос без состояния: контекст задаётся только массивом `messages`, поэтому передаю одну реплику `ROLE_USER`. **Поля региона в `GenSearchRequest` нет**, есть только `search_type` (домен `SEARCH_TYPE_RU`), фильтры и `metadata`. Задать Иркутск здесь нельзя. Стоимость: 5,08 ₽ за запрос, квота 10 000 в месяц (S18, сниппет).
    Важно: это **не тот же** ответ, что видит человек в «Поиске с Алисой», совпадение я не проверял. В отчёте называю его «генеративный ответ Yandex Search API».
 2. **Yandex Search API, обычная выдача:** `POST https://searchapi.api.cloud.yandex.net/v2/web/search` с `region: "63"` (Иркутск, S19), `l10n: LOCALIZATION_RU`, `responseFormat: FORMAT_XML`. Ответ приходит в `rawData` (base64 от XML). Это показатель «есть ли бренд в топе Яндекса по Иркутску», по нему я проверяю источник, откуда генеративный ответ мог бы взять бренд.
-3. **Интерфейс «Поиска с Алисой» — ручной протокол** (рекомендую его, автоматизацию — только как схему):
+3. **Интерфейс «Поиска с Алисой» — только ручной протокол.** Браузерную автоматизацию (Playwright, Selenium и т. п.) я не использую: решение от 25.09.2026. Как собираю:
    - отдельный профиль браузера или окно инкогнито, **без входа в Яндекс ID**, cookies пустые (новый профиль на каждую серию; между запросами закрываю окно);
    - URL вида `https://yandex.ru/search/?text=<запрос>&lr=63`: регион задан параметром, а не определяется по IP;
    - язык интерфейса русский, часовой пояс Иркутска, VPN выключен, провайдер и IP записываю (IP всё равно влияет на антибот и может влиять на регион);
    - сохраняю полный скриншот и HTML, текст генеративного блока переношу руками;
    - если появилась капча («запросы похожи на автоматические»), прогон недействителен.
-   - Об условиях сервиса. По сниппету Пользовательского соглашения (S25), Яндекс вправе запрещать автоматические обращения к своим сервисам. Дословный пункт я не проверил: страница заблокирована прокси. Поэтому автоматизацию браузера (Playwright, Selenium) по yandex.ru **считаю способной нарушить условия** и включаю её только вручную, единичными запросами, по явному флагу. Официальный путь для автоматики — Search API (условия: S26, текст не читал).
+   - Об условиях сервиса. По сниппету Пользовательского соглашения (S25), Яндекс вправе запрещать автоматические обращения к своим сервисам (дословный пункт не проверен, страница заблокирована прокси). Поэтому интерфейс Алисы снимаю только руками: каждый запрос вводит человек, в обычном темпе, без скриптов. Официальный путь для автоматики — Search API (условия: S26, текст не читал).
+   - Объём: ручной сбор медленный, поэтому число ответов Алисы в аудите меньше, чем у API-систем. Интервал по Алисе считаю на её собственном n и в отчёте пишу это n отдельно.
+
+   **Как ручной сбор раскрывается в отчёте** (обязательный блок для строки «Поиск с Алисой»):
+   - способ: «вручную в браузере, без входа в Яндекс ID, новый профиль / инкогнито на каждую серию»;
+   - браузер и версия, ОС, регион `lr=63` в URL, IP-провайдер, VPN выключен;
+   - дата и интервал времени сбора (местное время Иркутска);
+   - число запросов × повторов и итоговое n ответов;
+   - сколько раз блок генеративного ответа не появился (такие запросы считаю отдельно, в долю не смешиваю) и была ли капча;
+   - где лежат скриншоты и HTML-копии каждого ответа (клиент может запросить любой);
+   - кто собирал и что разметка упоминаний сделана по тексту скриншота.
 
 ### 2.3 GigaChat (API Сбера)
 
@@ -173,7 +183,7 @@ Perplexity Search API | api.perplexity.ai/search                        | —   
 
 ## 5. Код
 
-Все файлы лежат в `metodika/code/`. Зависимость — только `httpx`; для браузерной схемы ещё `playwright`. Ключи берутся из переменных окружения: `YC_API_KEY`, `YC_FOLDER_ID`, `GIGACHAT_CREDENTIALS`, `GIGACHAT_SCOPE`, `GIGACHAT_CA_BUNDLE_FILE`, `OPENAI_API_KEY`, `OPENAI_MODEL`, `PERPLEXITY_API_KEY`. Каждый вызов дописывает строку в `runs.jsonl` (путь задаётся `VIS_LOG_PATH`). Ключи и токены в журнал не пишутся. Проверка: `python3 -m py_compile` для всех файлов проходит; разбор ответов проверен на заглушках (httpx 0.28), живых вызовов не было.
+Все файлы лежат в `metodika/code/`. Зависимость — только `httpx`. Кода для интерфейса Алисы нет намеренно: он снимается только вручную (раздел 2.2). Ключи берутся из переменных окружения: `YC_API_KEY`, `YC_FOLDER_ID`, `GIGACHAT_CREDENTIALS`, `GIGACHAT_SCOPE`, `GIGACHAT_CA_BUNDLE_FILE`, `OPENAI_API_KEY`, `OPENAI_MODEL`, `PERPLEXITY_API_KEY`. Каждый вызов дописывает строку в `runs.jsonl` (путь задаётся `VIS_LOG_PATH`). Ключи и токены в журнал не пишутся. Проверка: `python3 -m py_compile` для всех файлов проходит; разбор ответов проверен на заглушках (httpx 0.28), живых вызовов не было.
 
 ### 5.0 Общие утилиты — `code/common.py`
 
@@ -458,76 +468,6 @@ if __name__ == "__main__":
     print(r["text"])
     for s in r["sources"]:
         print("-", s["url"])
-```
-
-### 5.3 «Поиск с Алисой» в браузере — схема, без гарантий — `code/alisa_browser_protocol.py`
-
-```python
-"""«Поиск с Алисой» в браузере: СХЕМА фиксации чистой сессии через Playwright.
-
-Без гарантий. Автоматизированные запросы к yandex.ru могут нарушать Пользовательское
-соглашение сервисов Яндекса (yandex.ru/legal/rules) и упираются в капчу. Официальный
-программный путь — Yandex Search API (yandex_search_clean.py). Запуск только
-вручную, единичные запросы, по явному флагу ALLOW_BROWSER_AUTOMATION=1.
-Селектор генеративного блока не проверен: сохраняем скриншот и HTML целиком,
-разметку делаем руками.
-"""
-from __future__ import annotations
-
-import os
-import pathlib
-import urllib.parse
-
-from common import log_run, new_run_id, now_utc, prompt_hash
-
-OUT_DIR = pathlib.Path(os.environ.get("ALISA_OUT_DIR", "alisa_captures"))
-
-
-def capture_alisa(query: str, lr: str = "63") -> dict:
-    if os.environ.get("ALLOW_BROWSER_AUTOMATION") != "1":
-        raise RuntimeError("Выключено. Сначала прочитайте раздел про условия сервиса.")
-    from playwright.sync_api import sync_playwright  # pip install playwright; playwright install chromium
-
-    OUT_DIR.mkdir(parents=True, exist_ok=True)
-    run_id = new_run_id()
-    url = "https://yandex.ru/search/?" + urllib.parse.urlencode({"text": query, "lr": lr})
-    started = now_utc()
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False)
-        # Новый контекст = чистый профиль: без cookies, localStorage и входа в аккаунт.
-        context = browser.new_context(
-            locale="ru-RU",
-            timezone_id="Asia/Irkutsk",
-            viewport={"width": 1366, "height": 900},
-        )
-        page = context.new_page()
-        page.goto(url, wait_until="domcontentloaded", timeout=60_000)
-        page.wait_for_timeout(8_000)  # генеративный блок догружается асинхронно
-        shot = OUT_DIR / f"{run_id}.png"
-        html = OUT_DIR / f"{run_id}.html"
-        page.screenshot(path=str(shot), full_page=True)
-        html.write_text(page.content(), encoding="utf-8")
-        cookies_before_close = len(context.cookies())
-        final_url = page.url
-        context.close()
-        browser.close()
-
-    record = {
-        "run_id": run_id,
-        "system": "alisa_browser",
-        "started_utc": started,
-        "endpoint": url,
-        "final_url": final_url,  # если тут showcaptcha — прогон недействителен
-        "params": {"lr": lr, "locale": "ru-RU", "timezone": "Asia/Irkutsk", "logged_in": False},
-        "clean_session": True,
-        "cookies_set_during_run": cookies_before_close,
-        "prompt_sha": prompt_hash(query),
-        "artifacts": [str(shot), str(html)],
-        "text": "",  # заполняется вручную по скриншоту
-        "sources": [],
-    }
-    log_run(record)
-    return record
 ```
 
 ### 5.4 GigaChat — `code/gigachat_clean.py`
@@ -912,5 +852,5 @@ if __name__ == "__main__":
 6. Температура дефолтная (не передаётся) для метрики видимости; прогоны с `temperature=0`/`seed` помечены как технические.
 7. Сгенерированы новое маркер-слово и канареечный бренд; засев стоит в начале прогона, проверка — в конце.
 8. Порядок промптов перемешан, seed перемешивания записан; количество повторов N ≥ 3.
-9. Для браузерного снимка Алисы: новый профиль или инкогнито, вход в Яндекс ID не выполнен, cookies пустые, в URL `lr=63`, капчи нет.
+9. Для ручного сбора Алисы: новый профиль или инкогнито, вход в Яндекс ID не выполнен, cookies пустые, в URL `lr=63`, капчи нет, скриншот и HTML каждого ответа сохранены, n ответов записано.
 10. После прогона проверил контроль: маркер не всплыл, у канарейки 0 упоминаний, `thread_id` у GigaChat пуст. Заполнил блок «Условия замера». Если контроль не пройден, прогон в отчёт не идёт.
