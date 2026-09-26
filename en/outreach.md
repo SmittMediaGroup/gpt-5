@@ -14,7 +14,7 @@ Dear [Name],
 
 I measure brand visibility in Russian-language AI answers: Yandex "Search with Alice", GigaChat, ChatGPT and Perplexity.
 One observation relevant to your client [Client]: [fact: query, AI system, date, who was named].
-Western tools such as Profound or Peec AI don't query Alice or GigaChat, so this gap usually goes unnoticed.
+Western tools such as Profound or Peec AI don't query Alice or GigaChat, so their dashboards won't show this.
 My audit reports shares of mentions with confidence intervals, lists false claims, and re-measures after 7–14 days (white-label available).
 Would a free one-page snapshot for [Client] be useful for your next client call?
 
@@ -31,7 +31,7 @@ Hi [Name],
 
 I ran a few Russian-language questions in your client's niche through Yandex's AI answers and ChatGPT.
 Here's what came up: [fact: query, AI system, date, who was named].
-In my tests Alice and ChatGPT often disagree, sometimes by 20–50 points on small samples, so one tool can't tell you both.
+In one measured case (a Bishkek car-rental firm, 25 Sep 2026) Alice named it in 39 of 48 answers vs 29 of 96 in ChatGPT: +51 points, 95% interval +34.6 to +62.9. One case, not a pattern, but one tool can't tell you both.
 I do this as a one-person studio: fixed price, raw answers included, and your logo on the report if you want.
 Happy to send the full snapshot, no strings. Want it?
 
