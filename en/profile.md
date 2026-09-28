@@ -19,9 +19,9 @@ Alternatives (all ≤70 characters):
 - Russian-Language AI Search Audit: Yandex Alice, GigaChat, ChatGPT (66)
 - GEO Audit for Russian-Speaking Markets: Alice, GigaChat, ChatGPT (63)
 
-## Overview (1,108 characters, measured with Python `len()`)
+## Overview (1,251 characters, measured with Python `len()`)
 
-Your client may look fine in ChatGPT and still be missing from the AI answer most Russian-speaking buyers see: Yandex "Search with Alice". Western AI-visibility tools don't query Alice or GigaChat. I do.
+ChatGPT data may say little about Yandex "Search with Alice", the AI answer most Russian-speaking buyers see. In one measured case (a car-rental firm, 25 Sep 2026) Alice named the brand in 39 of 48 answers, ChatGPT in 29 of 96: +51 points, 95% interval +34.6 to +62.9. One case, not a pattern. Western AI-visibility tools don't query Alice. I do.
 
 I run one-off audits of brand visibility in Russian-language AI answers across Search with Alice, GigaChat, YandexGPT, ChatGPT and Perplexity. I write 40-50 real buyer questions with you, ask each one several times in clean sessions, and report:
 - share of mentions for the brand and up to 5 competitors, with 95% confidence intervals (Wilson)
