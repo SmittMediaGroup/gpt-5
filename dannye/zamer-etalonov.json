@@ -1,0 +1,3878 @@
+[
+ {
+  "fayl": "buildinamsterdam.com-390.png",
+  "colorfulness": 16.7,
+  "verdikt": "чуть красочно",
+  "L_sredn": 85.2,
+  "S_sredn": 0.016,
+  "nasyshchennye_%": 2.2,
+  "yarkiy_cvet_%": 1.7,
+  "polunasyshch_%": 1.0,
+  "neytralnye_%": 96.8,
+  "temnye_V<0.25_%": 12.3,
+  "svetlye_V>0.85_%": 82.1,
+  "dominanty": [
+   {
+    "hex": "#ffffff",
+    "dolya_%": 79.7,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#000000",
+    "dolya_%": 10.6,
+    "S": 0.0,
+    "V": 0.0,
+    "H": 0
+   },
+   {
+    "hex": "#604f3f",
+    "dolya_%": 3.3,
+    "S": 0.34,
+    "V": 0.38,
+    "H": 29
+   },
+   {
+    "hex": "#a9a9a7",
+    "dolya_%": 2.6,
+    "S": 0.01,
+    "V": 0.66,
+    "H": 60
+   },
+   {
+    "hex": "#ebedea",
+    "dolya_%": 1.7,
+    "S": 0.01,
+    "V": 0.93,
+    "H": 100
+   },
+   {
+    "hex": "#010000",
+    "dolya_%": 1.2,
+    "S": 1.0,
+    "V": 0.0,
+    "H": 0
+   }
+  ]
+ },
+ {
+  "fayl": "buildinamsterdam.com.png",
+  "colorfulness": 8.6,
+  "verdikt": "не красочно",
+  "L_sredn": 46.9,
+  "S_sredn": 0.003,
+  "nasyshchennye_%": 0.5,
+  "yarkiy_cvet_%": 0.4,
+  "polunasyshch_%": 0.0,
+  "neytralnye_%": 99.5,
+  "temnye_V<0.25_%": 52.1,
+  "svetlye_V>0.85_%": 45.1,
+  "dominanty": [
+   {
+    "hex": "#000000",
+    "dolya_%": 50.9,
+    "S": 0.0,
+    "V": 0.0,
+    "H": 0
+   },
+   {
+    "hex": "#ffffff",
+    "dolya_%": 43.3,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#c5c5c5",
+    "dolya_%": 1.6,
+    "S": 0.0,
+    "V": 0.77,
+    "H": 0
+   },
+   {
+    "hex": "#5c5246",
+    "dolya_%": 1.5,
+    "S": 0.24,
+    "V": 0.36,
+    "H": 33
+   },
+   {
+    "hex": "#f4f4f4",
+    "dolya_%": 1.2,
+    "S": 0.0,
+    "V": 0.96,
+    "H": 0
+   },
+   {
+    "hex": "#010000",
+    "dolya_%": 0.9,
+    "S": 1.0,
+    "V": 0.0,
+    "H": 0
+   }
+  ]
+ },
+ {
+  "fayl": "dixonbaxi.com-390.png",
+  "colorfulness": 57.0,
+  "verdikt": "средне",
+  "L_sredn": 76.8,
+  "S_sredn": 0.122,
+  "nasyshchennye_%": 19.3,
+  "yarkiy_cvet_%": 13.1,
+  "polunasyshch_%": 3.0,
+  "neytralnye_%": 77.7,
+  "temnye_V<0.25_%": 18.2,
+  "svetlye_V>0.85_%": 74.0,
+  "dominanty": [
+   {
+    "hex": "#fdfcf8",
+    "dolya_%": 54.3,
+    "S": 0.02,
+    "V": 0.99,
+    "H": 48
+   },
+   {
+    "hex": "#090908",
+    "dolya_%": 19.8,
+    "S": 0.11,
+    "V": 0.04,
+    "H": 60
+   },
+   {
+    "hex": "#7cc694",
+    "dolya_%": 12.7,
+    "S": 0.37,
+    "V": 0.78,
+    "H": 139
+   },
+   {
+    "hex": "#c2fea0",
+    "dolya_%": 10.4,
+    "S": 0.37,
+    "V": 1.0,
+    "H": 98
+   },
+   {
+    "hex": "#fffffc",
+    "dolya_%": 1.2,
+    "S": 0.01,
+    "V": 1.0,
+    "H": 60
+   },
+   {
+    "hex": "#fffeef",
+    "dolya_%": 0.9,
+    "S": 0.06,
+    "V": 1.0,
+    "H": 56
+   }
+  ]
+ },
+ {
+  "fayl": "dixonbaxi.com.png",
+  "colorfulness": 50.7,
+  "verdikt": "средне",
+  "L_sredn": 81.8,
+  "S_sredn": 0.111,
+  "nasyshchennye_%": 15.8,
+  "yarkiy_cvet_%": 10.6,
+  "polunasyshch_%": 4.8,
+  "neytralnye_%": 79.5,
+  "temnye_V<0.25_%": 11.8,
+  "svetlye_V>0.85_%": 77.4,
+  "dominanty": [
+   {
+    "hex": "#fdfcf8",
+    "dolya_%": 57.8,
+    "S": 0.02,
+    "V": 0.99,
+    "H": 48
+   },
+   {
+    "hex": "#2b1f22",
+    "dolya_%": 16.0,
+    "S": 0.28,
+    "V": 0.17,
+    "H": 345
+   },
+   {
+    "hex": "#a8cdb2",
+    "dolya_%": 14.3,
+    "S": 0.18,
+    "V": 0.8,
+    "H": 136
+   },
+   {
+    "hex": "#d1fe99",
+    "dolya_%": 7.4,
+    "S": 0.4,
+    "V": 1.0,
+    "H": 87
+   },
+   {
+    "hex": "#fdfcf6",
+    "dolya_%": 3.1,
+    "S": 0.03,
+    "V": 0.99,
+    "H": 51
+   },
+   {
+    "hex": "#fffffd",
+    "dolya_%": 0.9,
+    "S": 0.01,
+    "V": 1.0,
+    "H": 60
+   }
+  ]
+ },
+ {
+  "fayl": "drinkolipop.com-390.png",
+  "colorfulness": 69.7,
+  "verdikt": "довольно красочно",
+  "L_sredn": 62.1,
+  "S_sredn": 0.406,
+  "nasyshchennye_%": 55.0,
+  "yarkiy_cvet_%": 13.7,
+  "polunasyshch_%": 7.0,
+  "neytralnye_%": 38.0,
+  "temnye_V<0.25_%": 5.8,
+  "svetlye_V>0.85_%": 53.3,
+  "dominanty": [
+   {
+    "hex": "#ffffff",
+    "dolya_%": 25.8,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#5b0c1d",
+    "dolya_%": 25.6,
+    "S": 0.87,
+    "V": 0.36,
+    "H": 347
+   },
+   {
+    "hex": "#f2a1c1",
+    "dolya_%": 15.0,
+    "S": 0.33,
+    "V": 0.95,
+    "H": 336
+   },
+   {
+    "hex": "#bd5d5d",
+    "dolya_%": 10.9,
+    "S": 0.51,
+    "V": 0.74,
+    "H": 0
+   },
+   {
+    "hex": "#4e4441",
+    "dolya_%": 10.5,
+    "S": 0.17,
+    "V": 0.31,
+    "H": 14
+   },
+   {
+    "hex": "#fffff3",
+    "dolya_%": 7.1,
+    "S": 0.05,
+    "V": 1.0,
+    "H": 60
+   }
+  ]
+ },
+ {
+  "fayl": "drinkolipop.com.png",
+  "colorfulness": 72.5,
+  "verdikt": "довольно красочно",
+  "L_sredn": 60.6,
+  "S_sredn": 0.456,
+  "nasyshchennye_%": 73.0,
+  "yarkiy_cvet_%": 14.6,
+  "polunasyshch_%": 5.3,
+  "neytralnye_%": 21.7,
+  "temnye_V<0.25_%": 5.4,
+  "svetlye_V>0.85_%": 59.8,
+  "dominanty": [
+   {
+    "hex": "#ff9ec8",
+    "dolya_%": 31.0,
+    "S": 0.38,
+    "V": 1.0,
+    "H": 334
+   },
+   {
+    "hex": "#5f0b21",
+    "dolya_%": 26.8,
+    "S": 0.88,
+    "V": 0.37,
+    "H": 344
+   },
+   {
+    "hex": "#fffbf5",
+    "dolya_%": 20.4,
+    "S": 0.04,
+    "V": 1.0,
+    "H": 36
+   },
+   {
+    "hex": "#924c4f",
+    "dolya_%": 13.1,
+    "S": 0.48,
+    "V": 0.57,
+    "H": 357
+   },
+   {
+    "hex": "#ce9fa1",
+    "dolya_%": 4.3,
+    "S": 0.23,
+    "V": 0.81,
+    "H": 357
+   },
+   {
+    "hex": "#e7d0cd",
+    "dolya_%": 2.3,
+    "S": 0.11,
+    "V": 0.91,
+    "H": 7
+   }
+  ]
+ },
+ {
+  "fayl": "drinkpoppi.com-390.png",
+  "colorfulness": 155.3,
+  "verdikt": "предельно красочно",
+  "L_sredn": 69.4,
+  "S_sredn": 0.757,
+  "nasyshchennye_%": 89.5,
+  "yarkiy_cvet_%": 78.5,
+  "polunasyshch_%": 2.5,
+  "neytralnye_%": 7.9,
+  "temnye_V<0.25_%": 1.1,
+  "svetlye_V>0.85_%": 48.7,
+  "dominanty": [
+   {
+    "hex": "#93a418",
+    "dolya_%": 22.7,
+    "S": 0.85,
+    "V": 0.64,
+    "H": 67
+   },
+   {
+    "hex": "#9ed339",
+    "dolya_%": 22.7,
+    "S": 0.73,
+    "V": 0.83,
+    "H": 81
+   },
+   {
+    "hex": "#337830",
+    "dolya_%": 12.8,
+    "S": 0.6,
+    "V": 0.47,
+    "H": 117
+   },
+   {
+    "hex": "#e8fba7",
+    "dolya_%": 11.4,
+    "S": 0.33,
+    "V": 0.98,
+    "H": 74
+   },
+   {
+    "hex": "#bc1175",
+    "dolya_%": 9.7,
+    "S": 0.91,
+    "V": 0.74,
+    "H": 325
+   },
+   {
+    "hex": "#30a295",
+    "dolya_%": 9.4,
+    "S": 0.7,
+    "V": 0.64,
+    "H": 173
+   }
+  ]
+ },
+ {
+  "fayl": "drinkpoppi.com.png",
+  "colorfulness": 152.6,
+  "verdikt": "предельно красочно",
+  "L_sredn": 64.4,
+  "S_sredn": 0.818,
+  "nasyshchennye_%": 96.8,
+  "yarkiy_cvet_%": 85.2,
+  "polunasyshch_%": 1.0,
+  "neytralnye_%": 2.2,
+  "temnye_V<0.25_%": 0.2,
+  "svetlye_V>0.85_%": 35.6,
+  "dominanty": [
+   {
+    "hex": "#91da3e",
+    "dolya_%": 18.7,
+    "S": 0.72,
+    "V": 0.85,
+    "H": 88
+   },
+   {
+    "hex": "#0a955e",
+    "dolya_%": 14.5,
+    "S": 0.93,
+    "V": 0.58,
+    "H": 156
+   },
+   {
+    "hex": "#036734",
+    "dolya_%": 13.2,
+    "S": 0.97,
+    "V": 0.4,
+    "H": 149
+   },
+   {
+    "hex": "#5ccf36",
+    "dolya_%": 12.7,
+    "S": 0.74,
+    "V": 0.81,
+    "H": 105
+   },
+   {
+    "hex": "#d60f87",
+    "dolya_%": 11.9,
+    "S": 0.93,
+    "V": 0.84,
+    "H": 324
+   },
+   {
+    "hex": "#44ba34",
+    "dolya_%": 10.0,
+    "S": 0.72,
+    "V": 0.73,
+    "H": 113
+   }
+  ]
+ },
+ {
+  "fayl": "farmgirlflowers.com-390.png",
+  "colorfulness": 5.1,
+  "verdikt": "не красочно",
+  "L_sredn": 97.8,
+  "S_sredn": 0.001,
+  "nasyshchennye_%": 0.2,
+  "yarkiy_cvet_%": 0.1,
+  "polunasyshch_%": 0.1,
+  "neytralnye_%": 99.8,
+  "temnye_V<0.25_%": 1.0,
+  "svetlye_V>0.85_%": 95.9,
+  "dominanty": [
+   {
+    "hex": "#ffffff",
+    "dolya_%": 93.6,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#3f3f42",
+    "dolya_%": 1.3,
+    "S": 0.05,
+    "V": 0.26,
+    "H": 240
+   },
+   {
+    "hex": "#79797e",
+    "dolya_%": 1.1,
+    "S": 0.04,
+    "V": 0.49,
+    "H": 240
+   },
+   {
+    "hex": "#ececed",
+    "dolya_%": 1.0,
+    "S": 0.0,
+    "V": 0.93,
+    "H": 240
+   },
+   {
+    "hex": "#c7c7ca",
+    "dolya_%": 1.0,
+    "S": 0.01,
+    "V": 0.79,
+    "H": 240
+   },
+   {
+    "hex": "#9797a3",
+    "dolya_%": 1.0,
+    "S": 0.07,
+    "V": 0.64,
+    "H": 240
+   }
+  ]
+ },
+ {
+  "fayl": "farmgirlflowers.com.png",
+  "colorfulness": 59.9,
+  "verdikt": "довольно красочно",
+  "L_sredn": 76.0,
+  "S_sredn": 0.194,
+  "nasyshchennye_%": 27.0,
+  "yarkiy_cvet_%": 18.4,
+  "polunasyshch_%": 4.0,
+  "neytralnye_%": 69.1,
+  "temnye_V<0.25_%": 6.1,
+  "svetlye_V>0.85_%": 59.5,
+  "dominanty": [
+   {
+    "hex": "#ffffff",
+    "dolya_%": 33.6,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#ededec",
+    "dolya_%": 14.9,
+    "S": 0.0,
+    "V": 0.93,
+    "H": 60
+   },
+   {
+    "hex": "#905f41",
+    "dolya_%": 14.3,
+    "S": 0.55,
+    "V": 0.56,
+    "H": 23
+   },
+   {
+    "hex": "#261b41",
+    "dolya_%": 12.2,
+    "S": 0.58,
+    "V": 0.25,
+    "H": 257
+   },
+   {
+    "hex": "#bbb8ad",
+    "dolya_%": 9.1,
+    "S": 0.07,
+    "V": 0.73,
+    "H": 47
+   },
+   {
+    "hex": "#dbbca6",
+    "dolya_%": 8.8,
+    "S": 0.24,
+    "V": 0.86,
+    "H": 25
+   }
+  ]
+ },
+ {
+  "fayl": "flowerbx.com-390.png",
+  "colorfulness": 13.3,
+  "verdikt": "не красочно",
+  "L_sredn": 97.5,
+  "S_sredn": 0.015,
+  "nasyshchennye_%": 1.8,
+  "yarkiy_cvet_%": 1.0,
+  "polunasyshch_%": 2.2,
+  "neytralnye_%": 96.0,
+  "temnye_V<0.25_%": 0.7,
+  "svetlye_V>0.85_%": 96.3,
+  "dominanty": [
+   {
+    "hex": "#ffffff",
+    "dolya_%": 88.1,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#f9f9f8",
+    "dolya_%": 4.9,
+    "S": 0.0,
+    "V": 0.98,
+    "H": 60
+   },
+   {
+    "hex": "#625b61",
+    "dolya_%": 2.8,
+    "S": 0.07,
+    "V": 0.38,
+    "H": 309
+   },
+   {
+    "hex": "#cacccb",
+    "dolya_%": 2.0,
+    "S": 0.01,
+    "V": 0.8,
+    "H": 150
+   },
+   {
+    "hex": "#edf6f9",
+    "dolya_%": 1.2,
+    "S": 0.05,
+    "V": 0.98,
+    "H": 195
+   },
+   {
+    "hex": "#fdf5e0",
+    "dolya_%": 0.5,
+    "S": 0.11,
+    "V": 0.99,
+    "H": 43
+   }
+  ]
+ },
+ {
+  "fayl": "flowerbx.com.png",
+  "colorfulness": 5.0,
+  "verdikt": "не красочно",
+  "L_sredn": 99.4,
+  "S_sredn": 0.003,
+  "nasyshchennye_%": 0.2,
+  "yarkiy_cvet_%": 0.1,
+  "polunasyshch_%": 0.7,
+  "neytralnye_%": 99.1,
+  "temnye_V<0.25_%": 0.1,
+  "svetlye_V>0.85_%": 98.8,
+  "dominanty": [
+   {
+    "hex": "#ffffff",
+    "dolya_%": 96.2,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#f9f9f9",
+    "dolya_%": 1.4,
+    "S": 0.0,
+    "V": 0.98,
+    "H": 0
+   },
+   {
+    "hex": "#827e81",
+    "dolya_%": 0.8,
+    "S": 0.03,
+    "V": 0.51,
+    "H": 315
+   },
+   {
+    "hex": "#d6d6d6",
+    "dolya_%": 0.8,
+    "S": 0.0,
+    "V": 0.84,
+    "H": 0
+   },
+   {
+    "hex": "#f1f4f5",
+    "dolya_%": 0.6,
+    "S": 0.02,
+    "V": 0.96,
+    "H": 195
+   },
+   {
+    "hex": "#fffffb",
+    "dolya_%": 0.1,
+    "S": 0.02,
+    "V": 1.0,
+    "H": 60
+   }
+  ]
+ },
+ {
+  "fayl": "freddiesflowers.com-390.png",
+  "colorfulness": 15.1,
+  "verdikt": "чуть красочно",
+  "L_sredn": 85.4,
+  "S_sredn": 0.035,
+  "nasyshchennye_%": 4.7,
+  "yarkiy_cvet_%": 2.5,
+  "polunasyshch_%": 2.1,
+  "neytralnye_%": 93.3,
+  "temnye_V<0.25_%": 7.1,
+  "svetlye_V>0.85_%": 74.9,
+  "dominanty": [
+   {
+    "hex": "#ffffff",
+    "dolya_%": 46.9,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#f5f1ed",
+    "dolya_%": 18.1,
+    "S": 0.03,
+    "V": 0.96,
+    "H": 30
+   },
+   {
+    "hex": "#aeac98",
+    "dolya_%": 10.8,
+    "S": 0.13,
+    "V": 0.68,
+    "H": 55
+   },
+   {
+    "hex": "#e6e5e3",
+    "dolya_%": 9.9,
+    "S": 0.01,
+    "V": 0.9,
+    "H": 40
+   },
+   {
+    "hex": "#3a3932",
+    "dolya_%": 9.8,
+    "S": 0.14,
+    "V": 0.23,
+    "H": 53
+   },
+   {
+    "hex": "#f8f7f6",
+    "dolya_%": 2.2,
+    "S": 0.01,
+    "V": 0.97,
+    "H": 30
+   }
+  ]
+ },
+ {
+  "fayl": "freddiesflowers.com.png",
+  "colorfulness": 50.1,
+  "verdikt": "средне",
+  "L_sredn": 70.4,
+  "S_sredn": 0.266,
+  "nasyshchennye_%": 40.3,
+  "yarkiy_cvet_%": 19.5,
+  "polunasyshch_%": 20.6,
+  "neytralnye_%": 39.1,
+  "temnye_V<0.25_%": 2.0,
+  "svetlye_V>0.85_%": 37.1,
+  "dominanty": [
+   {
+    "hex": "#ffffff",
+    "dolya_%": 21.7,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#8a8c57",
+    "dolya_%": 21.5,
+    "S": 0.38,
+    "V": 0.55,
+    "H": 62
+   },
+   {
+    "hex": "#999162",
+    "dolya_%": 18.0,
+    "S": 0.36,
+    "V": 0.6,
+    "H": 51
+   },
+   {
+    "hex": "#f5f2ee",
+    "dolya_%": 13.3,
+    "S": 0.03,
+    "V": 0.96,
+    "H": 34
+   },
+   {
+    "hex": "#b5b191",
+    "dolya_%": 10.4,
+    "S": 0.2,
+    "V": 0.71,
+    "H": 53
+   },
+   {
+    "hex": "#5f5a30",
+    "dolya_%": 9.8,
+    "S": 0.49,
+    "V": 0.37,
+    "H": 54
+   }
+  ]
+ },
+ {
+  "fayl": "graza.co-390.png",
+  "colorfulness": 40.9,
+  "verdikt": "умеренно",
+  "L_sredn": 30.8,
+  "S_sredn": 0.393,
+  "nasyshchennye_%": 50.1,
+  "yarkiy_cvet_%": 3.2,
+  "polunasyshch_%": 24.1,
+  "neytralnye_%": 25.8,
+  "temnye_V<0.25_%": 24.7,
+  "svetlye_V>0.85_%": 5.0,
+  "dominanty": [
+   {
+    "hex": "#6b5f49",
+    "dolya_%": 19.1,
+    "S": 0.32,
+    "V": 0.42,
+    "H": 39
+   },
+   {
+    "hex": "#494a4a",
+    "dolya_%": 16.1,
+    "S": 0.01,
+    "V": 0.29,
+    "H": 180
+   },
+   {
+    "hex": "#513c26",
+    "dolya_%": 13.3,
+    "S": 0.53,
+    "V": 0.32,
+    "H": 31
+   },
+   {
+    "hex": "#030809",
+    "dolya_%": 12.6,
+    "S": 0.67,
+    "V": 0.04,
+    "H": 190
+   },
+   {
+    "hex": "#3a3c39",
+    "dolya_%": 12.5,
+    "S": 0.05,
+    "V": 0.24,
+    "H": 100
+   },
+   {
+    "hex": "#5c4d36",
+    "dolya_%": 10.2,
+    "S": 0.41,
+    "V": 0.36,
+    "H": 36
+   }
+  ]
+ },
+ {
+  "fayl": "graza.co.png",
+  "colorfulness": 30.0,
+  "verdikt": "чуть красочно",
+  "L_sredn": 26.2,
+  "S_sredn": 0.367,
+  "nasyshchennye_%": 39.7,
+  "yarkiy_cvet_%": 0.9,
+  "polunasyshch_%": 26.1,
+  "neytralnye_%": 34.2,
+  "temnye_V<0.25_%": 39.0,
+  "svetlye_V>0.85_%": 2.1,
+  "dominanty": [
+   {
+    "hex": "#5b5754",
+    "dolya_%": 21.3,
+    "S": 0.08,
+    "V": 0.36,
+    "H": 26
+   },
+   {
+    "hex": "#01070b",
+    "dolya_%": 14.9,
+    "S": 0.91,
+    "V": 0.04,
+    "H": 204
+   },
+   {
+    "hex": "#483222",
+    "dolya_%": 12.9,
+    "S": 0.53,
+    "V": 0.28,
+    "H": 25
+   },
+   {
+    "hex": "#2b2c26",
+    "dolya_%": 12.6,
+    "S": 0.14,
+    "V": 0.17,
+    "H": 70
+   },
+   {
+    "hex": "#474847",
+    "dolya_%": 12.6,
+    "S": 0.01,
+    "V": 0.28,
+    "H": 120
+   },
+   {
+    "hex": "#5a4b40",
+    "dolya_%": 9.9,
+    "S": 0.29,
+    "V": 0.35,
+    "H": 25
+   }
+  ]
+ },
+ {
+  "fayl": "hellomonday.com-390.png",
+  "colorfulness": 40.0,
+  "verdikt": "умеренно",
+  "L_sredn": 87.8,
+  "S_sredn": 0.06,
+  "nasyshchennye_%": 7.5,
+  "yarkiy_cvet_%": 4.8,
+  "polunasyshch_%": 2.6,
+  "neytralnye_%": 89.9,
+  "temnye_V<0.25_%": 8.7,
+  "svetlye_V>0.85_%": 86.6,
+  "dominanty": [
+   {
+    "hex": "#ffffff",
+    "dolya_%": 81.4,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#9f6c4b",
+    "dolya_%": 4.9,
+    "S": 0.53,
+    "V": 0.62,
+    "H": 24
+   },
+   {
+    "hex": "#070707",
+    "dolya_%": 4.4,
+    "S": 0.0,
+    "V": 0.03,
+    "H": 0
+   },
+   {
+    "hex": "#0e0f13",
+    "dolya_%": 3.1,
+    "S": 0.26,
+    "V": 0.07,
+    "H": 228
+   },
+   {
+    "hex": "#2b1f31",
+    "dolya_%": 2.8,
+    "S": 0.37,
+    "V": 0.19,
+    "H": 280
+   },
+   {
+    "hex": "#ddb691",
+    "dolya_%": 2.3,
+    "S": 0.34,
+    "V": 0.87,
+    "H": 29
+   }
+  ]
+ },
+ {
+  "fayl": "hellomonday.com.png",
+  "colorfulness": 1.2,
+  "verdikt": "не красочно",
+  "L_sredn": 96.0,
+  "S_sredn": 0.0,
+  "nasyshchennye_%": 0.0,
+  "yarkiy_cvet_%": 0.0,
+  "polunasyshch_%": 0.1,
+  "neytralnye_%": 99.9,
+  "temnye_V<0.25_%": 3.4,
+  "svetlye_V>0.85_%": 95.2,
+  "dominanty": [
+   {
+    "hex": "#ffffff",
+    "dolya_%": 94.5,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#000000",
+    "dolya_%": 2.9,
+    "S": 0.0,
+    "V": 0.0,
+    "H": 0
+   },
+   {
+    "hex": "#676768",
+    "dolya_%": 0.7,
+    "S": 0.01,
+    "V": 0.41,
+    "H": 240
+   },
+   {
+    "hex": "#b4b4b4",
+    "dolya_%": 0.6,
+    "S": 0.0,
+    "V": 0.71,
+    "H": 0
+   },
+   {
+    "hex": "#1c1c1c",
+    "dolya_%": 0.5,
+    "S": 0.0,
+    "V": 0.11,
+    "H": 0
+   },
+   {
+    "hex": "#eeeeed",
+    "dolya_%": 0.5,
+    "S": 0.0,
+    "V": 0.93,
+    "H": 60
+   }
+  ]
+ },
+ {
+  "fayl": "igloo.inc-390.png",
+  "colorfulness": 5.3,
+  "verdikt": "не красочно",
+  "L_sredn": 67.7,
+  "S_sredn": 0.096,
+  "nasyshchennye_%": 0.0,
+  "yarkiy_cvet_%": 0.0,
+  "polunasyshch_%": 0.0,
+  "neytralnye_%": 100.0,
+  "temnye_V<0.25_%": 0.0,
+  "svetlye_V>0.85_%": 0.1,
+  "dominanty": [
+   {
+    "hex": "#a0a5b1",
+    "dolya_%": 99.6,
+    "S": 0.1,
+    "V": 0.69,
+    "H": 222
+   },
+   {
+    "hex": "#a3a8b4",
+    "dolya_%": 0.1,
+    "S": 0.09,
+    "V": 0.71,
+    "H": 222
+   },
+   {
+    "hex": "#e8ebed",
+    "dolya_%": 0.1,
+    "S": 0.02,
+    "V": 0.93,
+    "H": 204
+   },
+   {
+    "hex": "#a1a6b2",
+    "dolya_%": 0.1,
+    "S": 0.1,
+    "V": 0.7,
+    "H": 222
+   },
+   {
+    "hex": "#aaaeb9",
+    "dolya_%": 0.1,
+    "S": 0.08,
+    "V": 0.73,
+    "H": 224
+   },
+   {
+    "hex": "#a1a6b1",
+    "dolya_%": 0.0,
+    "S": 0.09,
+    "V": 0.69,
+    "H": 221
+   }
+  ]
+ },
+ {
+  "fayl": "igloo.inc.png",
+  "colorfulness": 5.1,
+  "verdikt": "не красочно",
+  "L_sredn": 67.5,
+  "S_sredn": 0.096,
+  "nasyshchennye_%": 0.0,
+  "yarkiy_cvet_%": 0.0,
+  "polunasyshch_%": 0.0,
+  "neytralnye_%": 100.0,
+  "temnye_V<0.25_%": 0.0,
+  "svetlye_V>0.85_%": 0.0,
+  "dominanty": [
+   {
+    "hex": "#a0a6b1",
+    "dolya_%": 48.2,
+    "S": 0.1,
+    "V": 0.69,
+    "H": 219
+   },
+   {
+    "hex": "#a0a5b1",
+    "dolya_%": 15.6,
+    "S": 0.1,
+    "V": 0.69,
+    "H": 222
+   },
+   {
+    "hex": "#9ea4af",
+    "dolya_%": 10.5,
+    "S": 0.1,
+    "V": 0.69,
+    "H": 219
+   },
+   {
+    "hex": "#9fa5b0",
+    "dolya_%": 9.7,
+    "S": 0.1,
+    "V": 0.69,
+    "H": 219
+   },
+   {
+    "hex": "#9da3ae",
+    "dolya_%": 8.6,
+    "S": 0.1,
+    "V": 0.68,
+    "H": 219
+   },
+   {
+    "hex": "#9ca1ad",
+    "dolya_%": 7.2,
+    "S": 0.1,
+    "V": 0.68,
+    "H": 222
+   }
+  ]
+ },
+ {
+  "fayl": "koto.studio-390.png",
+  "colorfulness": 82.4,
+  "verdikt": "очень красочно",
+  "L_sredn": 37.4,
+  "S_sredn": 0.359,
+  "nasyshchennye_%": 43.6,
+  "yarkiy_cvet_%": 22.3,
+  "polunasyshch_%": 12.4,
+  "neytralnye_%": 44.0,
+  "temnye_V<0.25_%": 35.5,
+  "svetlye_V>0.85_%": 38.1,
+  "dominanty": [
+   {
+    "hex": "#000000",
+    "dolya_%": 26.5,
+    "S": 0.0,
+    "V": 0.0,
+    "H": 0
+   },
+   {
+    "hex": "#ddd8ed",
+    "dolya_%": 18.2,
+    "S": 0.09,
+    "V": 0.93,
+    "H": 254
+   },
+   {
+    "hex": "#592579",
+    "dolya_%": 14.6,
+    "S": 0.69,
+    "V": 0.47,
+    "H": 277
+   },
+   {
+    "hex": "#c9768e",
+    "dolya_%": 13.1,
+    "S": 0.41,
+    "V": 0.79,
+    "H": 343
+   },
+   {
+    "hex": "#2f0d48",
+    "dolya_%": 12.0,
+    "S": 0.82,
+    "V": 0.28,
+    "H": 275
+   },
+   {
+    "hex": "#f4decc",
+    "dolya_%": 7.8,
+    "S": 0.16,
+    "V": 0.96,
+    "H": 27
+   }
+  ]
+ },
+ {
+  "fayl": "koto.studio.png",
+  "colorfulness": 40.4,
+  "verdikt": "умеренно",
+  "L_sredn": 42.8,
+  "S_sredn": 0.467,
+  "nasyshchennye_%": 95.6,
+  "yarkiy_cvet_%": 57.7,
+  "polunasyshch_%": 2.4,
+  "neytralnye_%": 2.0,
+  "temnye_V<0.25_%": 6.2,
+  "svetlye_V>0.85_%": 1.0,
+  "dominanty": [
+   {
+    "hex": "#573a2d",
+    "dolya_%": 17.0,
+    "S": 0.48,
+    "V": 0.34,
+    "H": 19
+   },
+   {
+    "hex": "#af7d5e",
+    "dolya_%": 14.4,
+    "S": 0.46,
+    "V": 0.69,
+    "H": 23
+   },
+   {
+    "hex": "#a67356",
+    "dolya_%": 12.9,
+    "S": 0.48,
+    "V": 0.65,
+    "H": 22
+   },
+   {
+    "hex": "#855741",
+    "dolya_%": 12.9,
+    "S": 0.51,
+    "V": 0.52,
+    "H": 19
+   },
+   {
+    "hex": "#bf8866",
+    "dolya_%": 11.7,
+    "S": 0.47,
+    "V": 0.75,
+    "H": 23
+   },
+   {
+    "hex": "#93684d",
+    "dolya_%": 11.3,
+    "S": 0.48,
+    "V": 0.58,
+    "H": 23
+   }
+  ]
+ },
+ {
+  "fayl": "locomotive.ca-390.png",
+  "colorfulness": 15.1,
+  "verdikt": "чуть красочно",
+  "L_sredn": 98.1,
+  "S_sredn": 0.02,
+  "nasyshchennye_%": 3.3,
+  "yarkiy_cvet_%": 2.2,
+  "polunasyshch_%": 1.6,
+  "neytralnye_%": 95.1,
+  "temnye_V<0.25_%": 0.0,
+  "svetlye_V>0.85_%": 95.9,
+  "dominanty": [
+   {
+    "hex": "#ffffff",
+    "dolya_%": 94.1,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#418960",
+    "dolya_%": 1.7,
+    "S": 0.53,
+    "V": 0.54,
+    "H": 146
+   },
+   {
+    "hex": "#4f8a5c",
+    "dolya_%": 1.3,
+    "S": 0.43,
+    "V": 0.54,
+    "H": 133
+   },
+   {
+    "hex": "#8bb9a9",
+    "dolya_%": 1.0,
+    "S": 0.25,
+    "V": 0.73,
+    "H": 159
+   },
+   {
+    "hex": "#dedec4",
+    "dolya_%": 0.7,
+    "S": 0.12,
+    "V": 0.87,
+    "H": 60
+   },
+   {
+    "hex": "#f3f8f2",
+    "dolya_%": 0.7,
+    "S": 0.02,
+    "V": 0.97,
+    "H": 110
+   }
+  ]
+ },
+ {
+  "fayl": "locomotive.ca.png",
+  "colorfulness": 6.9,
+  "verdikt": "не красочно",
+  "L_sredn": 99.5,
+  "S_sredn": 0.005,
+  "nasyshchennye_%": 0.7,
+  "yarkiy_cvet_%": 0.4,
+  "polunasyshch_%": 0.6,
+  "neytralnye_%": 98.7,
+  "temnye_V<0.25_%": 0.0,
+  "svetlye_V>0.85_%": 98.9,
+  "dominanty": [
+   {
+    "hex": "#ffffff",
+    "dolya_%": 98.2,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#438454",
+    "dolya_%": 0.4,
+    "S": 0.49,
+    "V": 0.52,
+    "H": 136
+   },
+   {
+    "hex": "#eef1e8",
+    "dolya_%": 0.3,
+    "S": 0.04,
+    "V": 0.95,
+    "H": 80
+   },
+   {
+    "hex": "#acccbe",
+    "dolya_%": 0.3,
+    "S": 0.16,
+    "V": 0.8,
+    "H": 154
+   },
+   {
+    "hex": "#78a581",
+    "dolya_%": 0.3,
+    "S": 0.27,
+    "V": 0.65,
+    "H": 132
+   },
+   {
+    "hex": "#549879",
+    "dolya_%": 0.2,
+    "S": 0.45,
+    "V": 0.6,
+    "H": 153
+   }
+  ]
+ },
+ {
+  "fayl": "lusion.co-390.png",
+  "colorfulness": 0.0,
+  "verdikt": "не красочно",
+  "L_sredn": 0.4,
+  "S_sredn": 0.0,
+  "nasyshchennye_%": 0.0,
+  "yarkiy_cvet_%": 0.0,
+  "polunasyshch_%": 0.0,
+  "neytralnye_%": 100.0,
+  "temnye_V<0.25_%": 99.5,
+  "svetlye_V>0.85_%": 0.3,
+  "dominanty": [
+   {
+    "hex": "#000000",
+    "dolya_%": 99.2,
+    "S": 0.0,
+    "V": 0.0,
+    "H": 0
+   },
+   {
+    "hex": "#333333",
+    "dolya_%": 0.2,
+    "S": 0.0,
+    "V": 0.2,
+    "H": 0
+   },
+   {
+    "hex": "#ffffff",
+    "dolya_%": 0.2,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#141414",
+    "dolya_%": 0.1,
+    "S": 0.0,
+    "V": 0.08,
+    "H": 0
+   },
+   {
+    "hex": "#d3d3d3",
+    "dolya_%": 0.1,
+    "S": 0.0,
+    "V": 0.83,
+    "H": 0
+   },
+   {
+    "hex": "#767676",
+    "dolya_%": 0.1,
+    "S": 0.0,
+    "V": 0.46,
+    "H": 0
+   }
+  ]
+ },
+ {
+  "fayl": "lusion.co.png",
+  "colorfulness": 0.5,
+  "verdikt": "не красочно",
+  "L_sredn": 3.8,
+  "S_sredn": 0.0,
+  "nasyshchennye_%": 0.0,
+  "yarkiy_cvet_%": 0.0,
+  "polunasyshch_%": 0.0,
+  "neytralnye_%": 100.0,
+  "temnye_V<0.25_%": 96.0,
+  "svetlye_V>0.85_%": 3.7,
+  "dominanty": [
+   {
+    "hex": "#000000",
+    "dolya_%": 95.8,
+    "S": 0.0,
+    "V": 0.0,
+    "H": 0
+   },
+   {
+    "hex": "#f7f7f7",
+    "dolya_%": 1.3,
+    "S": 0.0,
+    "V": 0.97,
+    "H": 0
+   },
+   {
+    "hex": "#f7f7f9",
+    "dolya_%": 0.7,
+    "S": 0.01,
+    "V": 0.98,
+    "H": 240
+   },
+   {
+    "hex": "#fafafd",
+    "dolya_%": 0.6,
+    "S": 0.01,
+    "V": 0.99,
+    "H": 240
+   },
+   {
+    "hex": "#f8f8fb",
+    "dolya_%": 0.6,
+    "S": 0.01,
+    "V": 0.98,
+    "H": 240
+   },
+   {
+    "hex": "#fefefe",
+    "dolya_%": 0.4,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   }
+  ]
+ },
+ {
+  "fayl": "mailchimp.com-390.png",
+  "colorfulness": 58.4,
+  "verdikt": "средне",
+  "L_sredn": 21.9,
+  "S_sredn": 0.457,
+  "nasyshchennye_%": 78.2,
+  "yarkiy_cvet_%": 6.9,
+  "polunasyshch_%": 4.9,
+  "neytralnye_%": 16.9,
+  "temnye_V<0.25_%": 73.5,
+  "svetlye_V>0.85_%": 6.1,
+  "dominanty": [
+   {
+    "hex": "#241c15",
+    "dolya_%": 22.6,
+    "S": 0.42,
+    "V": 0.14,
+    "H": 28
+   },
+   {
+    "hex": "#19150c",
+    "dolya_%": 19.8,
+    "S": 0.52,
+    "V": 0.1,
+    "H": 42
+   },
+   {
+    "hex": "#65614c",
+    "dolya_%": 16.9,
+    "S": 0.25,
+    "V": 0.4,
+    "H": 50
+   },
+   {
+    "hex": "#1d190f",
+    "dolya_%": 11.4,
+    "S": 0.48,
+    "V": 0.11,
+    "H": 43
+   },
+   {
+    "hex": "#110e07",
+    "dolya_%": 11.3,
+    "S": 0.59,
+    "V": 0.07,
+    "H": 42
+   },
+   {
+    "hex": "#beb15e",
+    "dolya_%": 8.6,
+    "S": 0.51,
+    "V": 0.75,
+    "H": 52
+   }
+  ]
+ },
+ {
+  "fayl": "mailchimp.com.png",
+  "colorfulness": 30.6,
+  "verdikt": "чуть красочно",
+  "L_sredn": 20.6,
+  "S_sredn": 0.387,
+  "nasyshchennye_%": 43.5,
+  "yarkiy_cvet_%": 1.8,
+  "polunasyshch_%": 32.1,
+  "neytralnye_%": 24.4,
+  "temnye_V<0.25_%": 71.6,
+  "svetlye_V>0.85_%": 0.9,
+  "dominanty": [
+   {
+    "hex": "#868478",
+    "dolya_%": 19.8,
+    "S": 0.1,
+    "V": 0.53,
+    "H": 51
+   },
+   {
+    "hex": "#221a13",
+    "dolya_%": 14.1,
+    "S": 0.44,
+    "V": 0.13,
+    "H": 28
+   },
+   {
+    "hex": "#1b1712",
+    "dolya_%": 13.9,
+    "S": 0.33,
+    "V": 0.11,
+    "H": 33
+   },
+   {
+    "hex": "#3a3328",
+    "dolya_%": 12.5,
+    "S": 0.31,
+    "V": 0.23,
+    "H": 37
+   },
+   {
+    "hex": "#080300",
+    "dolya_%": 12.0,
+    "S": 1.0,
+    "V": 0.03,
+    "H": 22
+   },
+   {
+    "hex": "#0e0f0c",
+    "dolya_%": 11.6,
+    "S": 0.2,
+    "V": 0.06,
+    "H": 80
+   }
+  ]
+ },
+ {
+  "fayl": "stripe.com-390.png",
+  "colorfulness": 78.0,
+  "verdikt": "довольно красочно",
+  "L_sredn": 87.3,
+  "S_sredn": 0.177,
+  "nasyshchennye_%": 24.7,
+  "yarkiy_cvet_%": 18.9,
+  "polunasyshch_%": 9.7,
+  "neytralnye_%": 65.7,
+  "temnye_V<0.25_%": 0.8,
+  "svetlye_V>0.85_%": 94.3,
+  "dominanty": [
+   {
+    "hex": "#ffffff",
+    "dolya_%": 57.1,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#c4b3ef",
+    "dolya_%": 12.8,
+    "S": 0.25,
+    "V": 0.94,
+    "H": 257
+   },
+   {
+    "hex": "#6d4bbb",
+    "dolya_%": 8.8,
+    "S": 0.6,
+    "V": 0.73,
+    "H": 258
+   },
+   {
+    "hex": "#e88fb2",
+    "dolya_%": 7.3,
+    "S": 0.38,
+    "V": 0.91,
+    "H": 336
+   },
+   {
+    "hex": "#fe8ca9",
+    "dolya_%": 5.6,
+    "S": 0.45,
+    "V": 1.0,
+    "H": 345
+   },
+   {
+    "hex": "#faffff",
+    "dolya_%": 3.6,
+    "S": 0.02,
+    "V": 1.0,
+    "H": 180
+   }
+  ]
+ },
+ {
+  "fayl": "stripe.com.png",
+  "colorfulness": 76.0,
+  "verdikt": "довольно красочно",
+  "L_sredn": 90.0,
+  "S_sredn": 0.161,
+  "nasyshchennye_%": 23.0,
+  "yarkiy_cvet_%": 20.5,
+  "polunasyshch_%": 6.4,
+  "neytralnye_%": 70.5,
+  "temnye_V<0.25_%": 0.4,
+  "svetlye_V>0.85_%": 94.8,
+  "dominanty": [
+   {
+    "hex": "#ffffff",
+    "dolya_%": 63.4,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#f38c8c",
+    "dolya_%": 14.9,
+    "S": 0.42,
+    "V": 0.95,
+    "H": 0
+   },
+   {
+    "hex": "#cad4ee",
+    "dolya_%": 8.2,
+    "S": 0.15,
+    "V": 0.93,
+    "H": 223
+   },
+   {
+    "hex": "#a967a4",
+    "dolya_%": 5.8,
+    "S": 0.39,
+    "V": 0.66,
+    "H": 305
+   },
+   {
+    "hex": "#fefffd",
+    "dolya_%": 3.2,
+    "S": 0.01,
+    "V": 1.0,
+    "H": 90
+   },
+   {
+    "hex": "#e3a58f",
+    "dolya_%": 2.3,
+    "S": 0.37,
+    "V": 0.89,
+    "H": 16
+   }
+  ]
+ },
+ {
+  "fayl": "tympanus.net-codrops-390.png",
+  "colorfulness": 14.7,
+  "verdikt": "не красочно",
+  "L_sredn": 97.6,
+  "S_sredn": 0.015,
+  "nasyshchennye_%": 1.8,
+  "yarkiy_cvet_%": 1.1,
+  "polunasyshch_%": 2.1,
+  "neytralnye_%": 96.0,
+  "temnye_V<0.25_%": 0.6,
+  "svetlye_V>0.85_%": 96.6,
+  "dominanty": [
+   {
+    "hex": "#ffffff",
+    "dolya_%": 88.3,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#f9f9f8",
+    "dolya_%": 4.9,
+    "S": 0.0,
+    "V": 0.98,
+    "H": 60
+   },
+   {
+    "hex": "#635d6e",
+    "dolya_%": 2.8,
+    "S": 0.15,
+    "V": 0.43,
+    "H": 261
+   },
+   {
+    "hex": "#cbcccc",
+    "dolya_%": 1.9,
+    "S": 0.0,
+    "V": 0.8,
+    "H": 180
+   },
+   {
+    "hex": "#edf7f9",
+    "dolya_%": 1.0,
+    "S": 0.05,
+    "V": 0.98,
+    "H": 190
+   },
+   {
+    "hex": "#fdf5e1",
+    "dolya_%": 0.6,
+    "S": 0.11,
+    "V": 0.99,
+    "H": 43
+   }
+  ]
+ },
+ {
+  "fayl": "tympanus.net-codrops.png",
+  "colorfulness": 43.2,
+  "verdikt": "умеренно",
+  "L_sredn": 68.7,
+  "S_sredn": 0.15,
+  "nasyshchennye_%": 21.0,
+  "yarkiy_cvet_%": 7.6,
+  "polunasyshch_%": 11.3,
+  "neytralnye_%": 67.7,
+  "temnye_V<0.25_%": 18.2,
+  "svetlye_V>0.85_%": 60.0,
+  "dominanty": [
+   {
+    "hex": "#f7f7f7",
+    "dolya_%": 46.1,
+    "S": 0.0,
+    "V": 0.97,
+    "H": 0
+   },
+   {
+    "hex": "#291d2c",
+    "dolya_%": 26.5,
+    "S": 0.34,
+    "V": 0.17,
+    "H": 288
+   },
+   {
+    "hex": "#a29dba",
+    "dolya_%": 18.4,
+    "S": 0.16,
+    "V": 0.73,
+    "H": 250
+   },
+   {
+    "hex": "#f7f7f6",
+    "dolya_%": 4.1,
+    "S": 0.0,
+    "V": 0.97,
+    "H": 60
+   },
+   {
+    "hex": "#fcfcfa",
+    "dolya_%": 2.8,
+    "S": 0.01,
+    "V": 0.99,
+    "H": 60
+   },
+   {
+    "hex": "#f7f7f8",
+    "dolya_%": 0.9,
+    "S": 0.0,
+    "V": 0.97,
+    "H": 240
+   }
+  ]
+ },
+ {
+  "fayl": "www.bloomandwild.com-390.png",
+  "colorfulness": 39.7,
+  "verdikt": "умеренно",
+  "L_sredn": 66.1,
+  "S_sredn": 0.244,
+  "nasyshchennye_%": 30.5,
+  "yarkiy_cvet_%": 7.3,
+  "polunasyshch_%": 18.0,
+  "neytralnye_%": 51.5,
+  "temnye_V<0.25_%": 12.6,
+  "svetlye_V>0.85_%": 43.0,
+  "dominanty": [
+   {
+    "hex": "#ffffff",
+    "dolya_%": 21.2,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#251d0f",
+    "dolya_%": 12.8,
+    "S": 0.59,
+    "V": 0.15,
+    "H": 38
+   },
+   {
+    "hex": "#ad8b75",
+    "dolya_%": 12.7,
+    "S": 0.32,
+    "V": 0.68,
+    "H": 24
+   },
+   {
+    "hex": "#593c28",
+    "dolya_%": 12.4,
+    "S": 0.55,
+    "V": 0.35,
+    "H": 24
+   },
+   {
+    "hex": "#6e6f5c",
+    "dolya_%": 12.4,
+    "S": 0.17,
+    "V": 0.44,
+    "H": 63
+   },
+   {
+    "hex": "#fdfcfb",
+    "dolya_%": 12.3,
+    "S": 0.01,
+    "V": 0.99,
+    "H": 30
+   }
+  ]
+ },
+ {
+  "fayl": "www.bloomandwild.com.png",
+  "colorfulness": 43.7,
+  "verdikt": "умеренно",
+  "L_sredn": 62.5,
+  "S_sredn": 0.285,
+  "nasyshchennye_%": 34.9,
+  "yarkiy_cvet_%": 10.1,
+  "polunasyshch_%": 24.0,
+  "neytralnye_%": 41.1,
+  "temnye_V<0.25_%": 11.2,
+  "svetlye_V>0.85_%": 36.7,
+  "dominanty": [
+   {
+    "hex": "#ffffff",
+    "dolya_%": 21.0,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#a2775c",
+    "dolya_%": 13.8,
+    "S": 0.43,
+    "V": 0.64,
+    "H": 23
+   },
+   {
+    "hex": "#593824",
+    "dolya_%": 13.5,
+    "S": 0.6,
+    "V": 0.35,
+    "H": 23
+   },
+   {
+    "hex": "#b4ab9e",
+    "dolya_%": 12.1,
+    "S": 0.12,
+    "V": 0.71,
+    "H": 35
+   },
+   {
+    "hex": "#2b2514",
+    "dolya_%": 11.9,
+    "S": 0.53,
+    "V": 0.17,
+    "H": 44
+   },
+   {
+    "hex": "#686148",
+    "dolya_%": 11.0,
+    "S": 0.31,
+    "V": 0.41,
+    "H": 47
+   }
+  ]
+ },
+ {
+  "fayl": "www.chobani.com-390.png",
+  "colorfulness": 58.0,
+  "verdikt": "средне",
+  "L_sredn": 56.5,
+  "S_sredn": 0.345,
+  "nasyshchennye_%": 50.5,
+  "yarkiy_cvet_%": 12.9,
+  "polunasyshch_%": 9.4,
+  "neytralnye_%": 40.1,
+  "temnye_V<0.25_%": 30.3,
+  "svetlye_V>0.85_%": 36.8,
+  "dominanty": [
+   {
+    "hex": "#1a3c34",
+    "dolya_%": 28.5,
+    "S": 0.57,
+    "V": 0.24,
+    "H": 166
+   },
+   {
+    "hex": "#f9f8f6",
+    "dolya_%": 19.2,
+    "S": 0.01,
+    "V": 0.98,
+    "H": 40
+   },
+   {
+    "hex": "#e5ddda",
+    "dolya_%": 16.5,
+    "S": 0.05,
+    "V": 0.9,
+    "H": 16
+   },
+   {
+    "hex": "#c8b6a9",
+    "dolya_%": 11.8,
+    "S": 0.16,
+    "V": 0.78,
+    "H": 25
+   },
+   {
+    "hex": "#832230",
+    "dolya_%": 10.0,
+    "S": 0.74,
+    "V": 0.51,
+    "H": 351
+   },
+   {
+    "hex": "#6c554f",
+    "dolya_%": 7.8,
+    "S": 0.27,
+    "V": 0.42,
+    "H": 12
+   }
+  ]
+ },
+ {
+  "fayl": "www.chobani.com.png",
+  "colorfulness": 118.5,
+  "verdikt": "предельно красочно",
+  "L_sredn": 64.6,
+  "S_sredn": 0.615,
+  "nasyshchennye_%": 74.2,
+  "yarkiy_cvet_%": 58.0,
+  "polunasyshch_%": 14.3,
+  "neytralnye_%": 11.6,
+  "temnye_V<0.25_%": 9.4,
+  "svetlye_V>0.85_%": 65.4,
+  "dominanty": [
+   {
+    "hex": "#dc610f",
+    "dolya_%": 20.9,
+    "S": 0.93,
+    "V": 0.86,
+    "H": 24
+   },
+   {
+    "hex": "#e8761d",
+    "dolya_%": 16.9,
+    "S": 0.88,
+    "V": 0.91,
+    "H": 26
+   },
+   {
+    "hex": "#f5d0a1",
+    "dolya_%": 16.7,
+    "S": 0.34,
+    "V": 0.96,
+    "H": 34
+   },
+   {
+    "hex": "#fcf7ed",
+    "dolya_%": 13.0,
+    "S": 0.06,
+    "V": 0.99,
+    "H": 40
+   },
+   {
+    "hex": "#502d1d",
+    "dolya_%": 12.3,
+    "S": 0.64,
+    "V": 0.31,
+    "H": 19
+   },
+   {
+    "hex": "#f8a438",
+    "dolya_%": 9.2,
+    "S": 0.77,
+    "V": 0.97,
+    "H": 34
+   }
+  ]
+ },
+ {
+  "fayl": "www.fentybeauty.com-390.png",
+  "colorfulness": 101.2,
+  "verdikt": "очень красочно",
+  "L_sredn": 56.8,
+  "S_sredn": 0.515,
+  "nasyshchennye_%": 63.0,
+  "yarkiy_cvet_%": 60.9,
+  "polunasyshch_%": 13.6,
+  "neytralnye_%": 23.5,
+  "temnye_V<0.25_%": 4.2,
+  "svetlye_V>0.85_%": 24.7,
+  "dominanty": [
+   {
+    "hex": "#cc2f76",
+    "dolya_%": 28.8,
+    "S": 0.77,
+    "V": 0.8,
+    "H": 333
+   },
+   {
+    "hex": "#c52866",
+    "dolya_%": 28.6,
+    "S": 0.8,
+    "V": 0.77,
+    "H": 336
+   },
+   {
+    "hex": "#fefdfd",
+    "dolya_%": 18.1,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#cfacb4",
+    "dolya_%": 12.5,
+    "S": 0.17,
+    "V": 0.81,
+    "H": 346
+   },
+   {
+    "hex": "#87515a",
+    "dolya_%": 5.5,
+    "S": 0.4,
+    "V": 0.53,
+    "H": 350
+   },
+   {
+    "hex": "#2d0c16",
+    "dolya_%": 4.9,
+    "S": 0.73,
+    "V": 0.18,
+    "H": 342
+   }
+  ]
+ },
+ {
+  "fayl": "www.fentybeauty.com.png",
+  "colorfulness": 101.3,
+  "verdikt": "очень красочно",
+  "L_sredn": 51.5,
+  "S_sredn": 0.467,
+  "nasyshchennye_%": 57.1,
+  "yarkiy_cvet_%": 55.4,
+  "polunasyshch_%": 12.7,
+  "neytralnye_%": 30.2,
+  "temnye_V<0.25_%": 14.1,
+  "svetlye_V>0.85_%": 20.2,
+  "dominanty": [
+   {
+    "hex": "#cc2d75",
+    "dolya_%": 32.4,
+    "S": 0.78,
+    "V": 0.8,
+    "H": 333
+   },
+   {
+    "hex": "#c62868",
+    "dolya_%": 20.4,
+    "S": 0.8,
+    "V": 0.78,
+    "H": 336
+   },
+   {
+    "hex": "#fbf7f7",
+    "dolya_%": 17.4,
+    "S": 0.02,
+    "V": 0.98,
+    "H": 0
+   },
+   {
+    "hex": "#26181d",
+    "dolya_%": 14.2,
+    "S": 0.37,
+    "V": 0.15,
+    "H": 339
+   },
+   {
+    "hex": "#b68d95",
+    "dolya_%": 11.5,
+    "S": 0.23,
+    "V": 0.71,
+    "H": 348
+   },
+   {
+    "hex": "#6d313c",
+    "dolya_%": 3.2,
+    "S": 0.55,
+    "V": 0.43,
+    "H": 349
+   }
+  ]
+ },
+ {
+  "fayl": "www.figma.com-390.png",
+  "colorfulness": 39.6,
+  "verdikt": "умеренно",
+  "L_sredn": 59.8,
+  "S_sredn": 0.126,
+  "nasyshchennye_%": 18.1,
+  "yarkiy_cvet_%": 6.9,
+  "polunasyshch_%": 6.3,
+  "neytralnye_%": 75.6,
+  "temnye_V<0.25_%": 31.7,
+  "svetlye_V>0.85_%": 49.5,
+  "dominanty": [
+   {
+    "hex": "#ffffff",
+    "dolya_%": 43.9,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#000000",
+    "dolya_%": 22.4,
+    "S": 0.0,
+    "V": 0.0,
+    "H": 0
+   },
+   {
+    "hex": "#847f6e",
+    "dolya_%": 11.5,
+    "S": 0.17,
+    "V": 0.52,
+    "H": 46
+   },
+   {
+    "hex": "#1d1711",
+    "dolya_%": 8.5,
+    "S": 0.41,
+    "V": 0.11,
+    "H": 30
+   },
+   {
+    "hex": "#573726",
+    "dolya_%": 6.3,
+    "S": 0.56,
+    "V": 0.34,
+    "H": 21
+   },
+   {
+    "hex": "#cedad3",
+    "dolya_%": 6.2,
+    "S": 0.06,
+    "V": 0.85,
+    "H": 145
+   }
+  ]
+ },
+ {
+  "fayl": "www.figma.com.png",
+  "colorfulness": 32.0,
+  "verdikt": "чуть красочно",
+  "L_sredn": 76.0,
+  "S_sredn": 0.091,
+  "nasyshchennye_%": 13.9,
+  "yarkiy_cvet_%": 4.4,
+  "polunasyshch_%": 4.8,
+  "neytralnye_%": 81.3,
+  "temnye_V<0.25_%": 17.7,
+  "svetlye_V>0.85_%": 67.6,
+  "dominanty": [
+   {
+    "hex": "#ffffff",
+    "dolya_%": 63.5,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#010101",
+    "dolya_%": 10.5,
+    "S": 0.0,
+    "V": 0.0,
+    "H": 0
+   },
+   {
+    "hex": "#7c6247",
+    "dolya_%": 9.1,
+    "S": 0.43,
+    "V": 0.49,
+    "H": 31
+   },
+   {
+    "hex": "#2f2419",
+    "dolya_%": 8.0,
+    "S": 0.47,
+    "V": 0.18,
+    "H": 30
+   },
+   {
+    "hex": "#93a299",
+    "dolya_%": 3.9,
+    "S": 0.09,
+    "V": 0.64,
+    "H": 144
+   },
+   {
+    "hex": "#d7d4ca",
+    "dolya_%": 3.7,
+    "S": 0.06,
+    "V": 0.84,
+    "H": 46
+   }
+  ]
+ },
+ {
+  "fayl": "www.glossier.com-390.png",
+  "colorfulness": 14.8,
+  "verdikt": "не красочно",
+  "L_sredn": 47.3,
+  "S_sredn": 0.165,
+  "nasyshchennye_%": 25.1,
+  "yarkiy_cvet_%": 0.8,
+  "polunasyshch_%": 11.6,
+  "neytralnye_%": 63.3,
+  "temnye_V<0.25_%": 35.4,
+  "svetlye_V>0.85_%": 27.6,
+  "dominanty": [
+   {
+    "hex": "#7f7f7f",
+    "dolya_%": 24.4,
+    "S": 0.0,
+    "V": 0.5,
+    "H": 0
+   },
+   {
+    "hex": "#ffffff",
+    "dolya_%": 24.0,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#150c0c",
+    "dolya_%": 18.5,
+    "S": 0.43,
+    "V": 0.08,
+    "H": 0
+   },
+   {
+    "hex": "#666364",
+    "dolya_%": 9.7,
+    "S": 0.03,
+    "V": 0.4,
+    "H": 340
+   },
+   {
+    "hex": "#070303",
+    "dolya_%": 9.5,
+    "S": 0.57,
+    "V": 0.03,
+    "H": 0
+   },
+   {
+    "hex": "#291e1f",
+    "dolya_%": 9.5,
+    "S": 0.27,
+    "V": 0.16,
+    "H": 355
+   }
+  ]
+ },
+ {
+  "fayl": "www.glossier.com.png",
+  "colorfulness": 24.9,
+  "verdikt": "чуть красочно",
+  "L_sredn": 48.0,
+  "S_sredn": 0.273,
+  "nasyshchennye_%": 43.4,
+  "yarkiy_cvet_%": 2.1,
+  "polunasyshch_%": 11.9,
+  "neytralnye_%": 44.7,
+  "temnye_V<0.25_%": 38.1,
+  "svetlye_V>0.85_%": 28.4,
+  "dominanty": [
+   {
+    "hex": "#ffffff",
+    "dolya_%": 18.6,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#cfcdd3",
+    "dolya_%": 17.6,
+    "S": 0.03,
+    "V": 0.83,
+    "H": 260
+   },
+   {
+    "hex": "#321c1b",
+    "dolya_%": 15.1,
+    "S": 0.46,
+    "V": 0.2,
+    "H": 3
+   },
+   {
+    "hex": "#221213",
+    "dolya_%": 13.3,
+    "S": 0.47,
+    "V": 0.13,
+    "H": 356
+   },
+   {
+    "hex": "#593834",
+    "dolya_%": 12.4,
+    "S": 0.42,
+    "V": 0.35,
+    "H": 6
+   },
+   {
+    "hex": "#0d0504",
+    "dolya_%": 11.0,
+    "S": 0.69,
+    "V": 0.05,
+    "H": 7
+   }
+  ]
+ },
+ {
+  "fayl": "www.innocentdrinks.co.uk-390.png",
+  "colorfulness": 23.7,
+  "verdikt": "чуть красочно",
+  "L_sredn": 69.4,
+  "S_sredn": 0.133,
+  "nasyshchennye_%": 11.5,
+  "yarkiy_cvet_%": 0.1,
+  "polunasyshch_%": 14.3,
+  "neytralnye_%": 74.2,
+  "temnye_V<0.25_%": 8.0,
+  "svetlye_V>0.85_%": 51.5,
+  "dominanty": [
+   {
+    "hex": "#eeeeee",
+    "dolya_%": 44.3,
+    "S": 0.0,
+    "V": 0.93,
+    "H": 0
+   },
+   {
+    "hex": "#808886",
+    "dolya_%": 31.0,
+    "S": 0.06,
+    "V": 0.53,
+    "H": 165
+   },
+   {
+    "hex": "#474c37",
+    "dolya_%": 16.2,
+    "S": 0.28,
+    "V": 0.3,
+    "H": 74
+   },
+   {
+    "hex": "#f4f4f4",
+    "dolya_%": 3.4,
+    "S": 0.0,
+    "V": 0.96,
+    "H": 0
+   },
+   {
+    "hex": "#ededec",
+    "dolya_%": 3.0,
+    "S": 0.0,
+    "V": 0.93,
+    "H": 60
+   },
+   {
+    "hex": "#efeeef",
+    "dolya_%": 2.1,
+    "S": 0.0,
+    "V": 0.94,
+    "H": 300
+   }
+  ]
+ },
+ {
+  "fayl": "www.innocentdrinks.co.uk.png",
+  "colorfulness": 39.7,
+  "verdikt": "умеренно",
+  "L_sredn": 49.7,
+  "S_sredn": 0.351,
+  "nasyshchennye_%": 34.8,
+  "yarkiy_cvet_%": 0.1,
+  "polunasyshch_%": 31.1,
+  "neytralnye_%": 34.1,
+  "temnye_V<0.25_%": 14.3,
+  "svetlye_V>0.85_%": 18.7,
+  "dominanty": [
+   {
+    "hex": "#efefef",
+    "dolya_%": 19.4,
+    "S": 0.0,
+    "V": 0.94,
+    "H": 0
+   },
+   {
+    "hex": "#56757d",
+    "dolya_%": 17.9,
+    "S": 0.31,
+    "V": 0.49,
+    "H": 192
+   },
+   {
+    "hex": "#3e3e12",
+    "dolya_%": 14.7,
+    "S": 0.71,
+    "V": 0.24,
+    "H": 60
+   },
+   {
+    "hex": "#8a8a85",
+    "dolya_%": 12.0,
+    "S": 0.04,
+    "V": 0.54,
+    "H": 60
+   },
+   {
+    "hex": "#65777c",
+    "dolya_%": 10.5,
+    "S": 0.19,
+    "V": 0.49,
+    "H": 193
+   },
+   {
+    "hex": "#2d2308",
+    "dolya_%": 9.9,
+    "S": 0.82,
+    "V": 0.18,
+    "H": 44
+   }
+  ]
+ },
+ {
+  "fayl": "www.jacquemus.com-390.png",
+  "colorfulness": 8.5,
+  "verdikt": "не красочно",
+  "L_sredn": 98.7,
+  "S_sredn": 0.006,
+  "nasyshchennye_%": 0.8,
+  "yarkiy_cvet_%": 0.5,
+  "polunasyshch_%": 0.9,
+  "neytralnye_%": 98.3,
+  "temnye_V<0.25_%": 0.4,
+  "svetlye_V>0.85_%": 97.8,
+  "dominanty": [
+   {
+    "hex": "#ffffff",
+    "dolya_%": 96.4,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#ecf1ed",
+    "dolya_%": 0.7,
+    "S": 0.02,
+    "V": 0.95,
+    "H": 132
+   },
+   {
+    "hex": "#5c6b7c",
+    "dolya_%": 0.7,
+    "S": 0.26,
+    "V": 0.49,
+    "H": 212
+   },
+   {
+    "hex": "#b9bbb8",
+    "dolya_%": 0.7,
+    "S": 0.02,
+    "V": 0.73,
+    "H": 100
+   },
+   {
+    "hex": "#423d44",
+    "dolya_%": 0.7,
+    "S": 0.1,
+    "V": 0.27,
+    "H": 283
+   },
+   {
+    "hex": "#877871",
+    "dolya_%": 0.5,
+    "S": 0.16,
+    "V": 0.53,
+    "H": 19
+   }
+  ]
+ },
+ {
+  "fayl": "www.jacquemus.com.png",
+  "colorfulness": 3.0,
+  "verdikt": "не красочно",
+  "L_sredn": 99.4,
+  "S_sredn": 0.002,
+  "nasyshchennye_%": 0.0,
+  "yarkiy_cvet_%": 0.0,
+  "polunasyshch_%": 0.5,
+  "neytralnye_%": 99.5,
+  "temnye_V<0.25_%": 0.1,
+  "svetlye_V>0.85_%": 98.7,
+  "dominanty": [
+   {
+    "hex": "#ffffff",
+    "dolya_%": 97.9,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#a5a4a3",
+    "dolya_%": 0.8,
+    "S": 0.01,
+    "V": 0.65,
+    "H": 30
+   },
+   {
+    "hex": "#f5f5f5",
+    "dolya_%": 0.4,
+    "S": 0.0,
+    "V": 0.96,
+    "H": 0
+   },
+   {
+    "hex": "#e6e6e4",
+    "dolya_%": 0.3,
+    "S": 0.01,
+    "V": 0.9,
+    "H": 60
+   },
+   {
+    "hex": "#69686a",
+    "dolya_%": 0.3,
+    "S": 0.02,
+    "V": 0.42,
+    "H": 270
+   },
+   {
+    "hex": "#b9b9ba",
+    "dolya_%": 0.3,
+    "S": 0.01,
+    "V": 0.73,
+    "H": 240
+   }
+  ]
+ },
+ {
+  "fayl": "www.lemonade.com-390.png",
+  "colorfulness": 28.1,
+  "verdikt": "чуть красочно",
+  "L_sredn": 62.4,
+  "S_sredn": 0.056,
+  "nasyshchennye_%": 5.4,
+  "yarkiy_cvet_%": 0.0,
+  "polunasyshch_%": 2.6,
+  "neytralnye_%": 92.1,
+  "temnye_V<0.25_%": 6.2,
+  "svetlye_V>0.85_%": 29.4,
+  "dominanty": [
+   {
+    "hex": "#7f7f7f",
+    "dolya_%": 38.8,
+    "S": 0.0,
+    "V": 0.5,
+    "H": 0
+   },
+   {
+    "hex": "#f4f4f4",
+    "dolya_%": 29.7,
+    "S": 0.0,
+    "V": 0.96,
+    "H": 0
+   },
+   {
+    "hex": "#7b797a",
+    "dolya_%": 15.4,
+    "S": 0.02,
+    "V": 0.48,
+    "H": 330
+   },
+   {
+    "hex": "#532f41",
+    "dolya_%": 12.9,
+    "S": 0.43,
+    "V": 0.33,
+    "H": 330
+   },
+   {
+    "hex": "#807f7f",
+    "dolya_%": 1.9,
+    "S": 0.01,
+    "V": 0.5,
+    "H": 0
+   },
+   {
+    "hex": "#7f7f80",
+    "dolya_%": 0.7,
+    "S": 0.01,
+    "V": 0.5,
+    "H": 240
+   }
+  ]
+ },
+ {
+  "fayl": "www.lemonade.com.png",
+  "colorfulness": 1.4,
+  "verdikt": "не красочно",
+  "L_sredn": 53.4,
+  "S_sredn": 0.002,
+  "nasyshchennye_%": 0.0,
+  "yarkiy_cvet_%": 0.0,
+  "polunasyshch_%": 0.6,
+  "neytralnye_%": 99.4,
+  "temnye_V<0.25_%": 8.1,
+  "svetlye_V>0.85_%": 9.3,
+  "dominanty": [
+   {
+    "hex": "#7f7f7f",
+    "dolya_%": 46.6,
+    "S": 0.0,
+    "V": 0.5,
+    "H": 0
+   },
+   {
+    "hex": "#7b7b7b",
+    "dolya_%": 27.4,
+    "S": 0.0,
+    "V": 0.48,
+    "H": 0
+   },
+   {
+    "hex": "#515151",
+    "dolya_%": 11.9,
+    "S": 0.0,
+    "V": 0.32,
+    "H": 0
+   },
+   {
+    "hex": "#e7e7e7",
+    "dolya_%": 9.5,
+    "S": 0.0,
+    "V": 0.91,
+    "H": 0
+   },
+   {
+    "hex": "#7f7f7e",
+    "dolya_%": 2.5,
+    "S": 0.01,
+    "V": 0.5,
+    "H": 60
+   },
+   {
+    "hex": "#7f7f80",
+    "dolya_%": 2.1,
+    "S": 0.01,
+    "V": 0.5,
+    "H": 240
+   }
+  ]
+ },
+ {
+  "fayl": "www.loewe.com-390.png",
+  "colorfulness": 40.0,
+  "verdikt": "умеренно",
+  "L_sredn": 49.6,
+  "S_sredn": 0.366,
+  "nasyshchennye_%": 43.9,
+  "yarkiy_cvet_%": 2.8,
+  "polunasyshch_%": 13.9,
+  "neytralnye_%": 42.2,
+  "temnye_V<0.25_%": 27.2,
+  "svetlye_V>0.85_%": 30.8,
+  "dominanty": [
+   {
+    "hex": "#f9f9f8",
+    "dolya_%": 21.3,
+    "S": 0.0,
+    "V": 0.98,
+    "H": 60
+   },
+   {
+    "hex": "#033623",
+    "dolya_%": 19.6,
+    "S": 0.94,
+    "V": 0.21,
+    "H": 158
+   },
+   {
+    "hex": "#546865",
+    "dolya_%": 16.9,
+    "S": 0.19,
+    "V": 0.41,
+    "H": 171
+   },
+   {
+    "hex": "#335354",
+    "dolya_%": 12.5,
+    "S": 0.39,
+    "V": 0.33,
+    "H": 182
+   },
+   {
+    "hex": "#051210",
+    "dolya_%": 10.0,
+    "S": 0.72,
+    "V": 0.07,
+    "H": 171
+   },
+   {
+    "hex": "#f3f6f5",
+    "dolya_%": 9.1,
+    "S": 0.01,
+    "V": 0.96,
+    "H": 160
+   }
+  ]
+ },
+ {
+  "fayl": "www.loewe.com.png",
+  "colorfulness": 69.4,
+  "verdikt": "довольно красочно",
+  "L_sredn": 58.4,
+  "S_sredn": 0.53,
+  "nasyshchennye_%": 65.3,
+  "yarkiy_cvet_%": 21.9,
+  "polunasyshch_%": 17.8,
+  "neytralnye_%": 16.9,
+  "temnye_V<0.25_%": 1.8,
+  "svetlye_V>0.85_%": 22.9,
+  "dominanty": [
+   {
+    "hex": "#0b5647",
+    "dolya_%": 20.2,
+    "S": 0.87,
+    "V": 0.34,
+    "H": 168
+   },
+   {
+    "hex": "#ffffff",
+    "dolya_%": 15.8,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#79b2b2",
+    "dolya_%": 15.0,
+    "S": 0.32,
+    "V": 0.7,
+    "H": 180
+   },
+   {
+    "hex": "#0a7045",
+    "dolya_%": 14.0,
+    "S": 0.91,
+    "V": 0.44,
+    "H": 155
+   },
+   {
+    "hex": "#5a999c",
+    "dolya_%": 10.3,
+    "S": 0.42,
+    "V": 0.61,
+    "H": 183
+   },
+   {
+    "hex": "#c1d3c2",
+    "dolya_%": 9.5,
+    "S": 0.09,
+    "V": 0.83,
+    "H": 123
+   }
+  ]
+ },
+ {
+  "fayl": "www.marni.com-390.png",
+  "colorfulness": 16.1,
+  "verdikt": "чуть красочно",
+  "L_sredn": 55.3,
+  "S_sredn": 0.105,
+  "nasyshchennye_%": 15.0,
+  "yarkiy_cvet_%": 0.5,
+  "polunasyshch_%": 14.6,
+  "neytralnye_%": 70.4,
+  "temnye_V<0.25_%": 26.9,
+  "svetlye_V>0.85_%": 37.9,
+  "dominanty": [
+   {
+    "hex": "#ffffff",
+    "dolya_%": 34.2,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#636162",
+    "dolya_%": 27.5,
+    "S": 0.02,
+    "V": 0.39,
+    "H": 330
+   },
+   {
+    "hex": "#281e18",
+    "dolya_%": 15.9,
+    "S": 0.4,
+    "V": 0.16,
+    "H": 22
+   },
+   {
+    "hex": "#050403",
+    "dolya_%": 10.7,
+    "S": 0.4,
+    "V": 0.02,
+    "H": 30
+   },
+   {
+    "hex": "#434345",
+    "dolya_%": 5.8,
+    "S": 0.03,
+    "V": 0.27,
+    "H": 240
+   },
+   {
+    "hex": "#909091",
+    "dolya_%": 2.4,
+    "S": 0.01,
+    "V": 0.57,
+    "H": 240
+   }
+  ]
+ },
+ {
+  "fayl": "www.marni.com.png",
+  "colorfulness": 16.1,
+  "verdikt": "чуть красочно",
+  "L_sredn": 36.3,
+  "S_sredn": 0.182,
+  "nasyshchennye_%": 23.9,
+  "yarkiy_cvet_%": 0.1,
+  "polunasyshch_%": 19.8,
+  "neytralnye_%": 56.2,
+  "temnye_V<0.25_%": 40.3,
+  "svetlye_V>0.85_%": 13.1,
+  "dominanty": [
+   {
+    "hex": "#787878",
+    "dolya_%": 15.7,
+    "S": 0.0,
+    "V": 0.47,
+    "H": 0
+   },
+   {
+    "hex": "#2b2520",
+    "dolya_%": 14.7,
+    "S": 0.26,
+    "V": 0.17,
+    "H": 27
+   },
+   {
+    "hex": "#f9f9f9",
+    "dolya_%": 13.6,
+    "S": 0.0,
+    "V": 0.98,
+    "H": 0
+   },
+   {
+    "hex": "#6b6b6a",
+    "dolya_%": 13.2,
+    "S": 0.01,
+    "V": 0.42,
+    "H": 60
+   },
+   {
+    "hex": "#040303",
+    "dolya_%": 12.8,
+    "S": 0.25,
+    "V": 0.02,
+    "H": 0
+   },
+   {
+    "hex": "#48372c",
+    "dolya_%": 12.6,
+    "S": 0.39,
+    "V": 0.28,
+    "H": 24
+   }
+  ]
+ },
+ {
+  "fayl": "www.oatly.com-390.png",
+  "colorfulness": 14.6,
+  "verdikt": "не красочно",
+  "L_sredn": 52.9,
+  "S_sredn": 0.083,
+  "nasyshchennye_%": 6.2,
+  "yarkiy_cvet_%": 0.9,
+  "polunasyshch_%": 16.8,
+  "neytralnye_%": 77.1,
+  "temnye_V<0.25_%": 29.3,
+  "svetlye_V>0.85_%": 33.5,
+  "dominanty": [
+   {
+    "hex": "#f6f6f6",
+    "dolya_%": 23.1,
+    "S": 0.0,
+    "V": 0.96,
+    "H": 0
+   },
+   {
+    "hex": "#201e1c",
+    "dolya_%": 18.9,
+    "S": 0.12,
+    "V": 0.13,
+    "H": 30
+   },
+   {
+    "hex": "#40403e",
+    "dolya_%": 18.9,
+    "S": 0.03,
+    "V": 0.25,
+    "H": 60
+   },
+   {
+    "hex": "#5e5a53",
+    "dolya_%": 14.7,
+    "S": 0.12,
+    "V": 0.37,
+    "H": 38
+   },
+   {
+    "hex": "#8c8c89",
+    "dolya_%": 14.0,
+    "S": 0.02,
+    "V": 0.55,
+    "H": 60
+   },
+   {
+    "hex": "#fefefe",
+    "dolya_%": 8.3,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   }
+  ]
+ },
+ {
+  "fayl": "www.oatly.com.png",
+  "colorfulness": 7.3,
+  "verdikt": "не красочно",
+  "L_sredn": 48.6,
+  "S_sredn": 0.064,
+  "nasyshchennye_%": 3.7,
+  "yarkiy_cvet_%": 0.0,
+  "polunasyshch_%": 13.8,
+  "neytralnye_%": 82.5,
+  "temnye_V<0.25_%": 21.7,
+  "svetlye_V>0.85_%": 25.3,
+  "dominanty": [
+   {
+    "hex": "#f8f8f8",
+    "dolya_%": 23.8,
+    "S": 0.0,
+    "V": 0.97,
+    "H": 0
+   },
+   {
+    "hex": "#60605e",
+    "dolya_%": 20.9,
+    "S": 0.02,
+    "V": 0.38,
+    "H": 60
+   },
+   {
+    "hex": "#5a5a57",
+    "dolya_%": 17.5,
+    "S": 0.03,
+    "V": 0.35,
+    "H": 60
+   },
+   {
+    "hex": "#323638",
+    "dolya_%": 14.6,
+    "S": 0.11,
+    "V": 0.22,
+    "H": 200
+   },
+   {
+    "hex": "#131313",
+    "dolya_%": 9.8,
+    "S": 0.0,
+    "V": 0.07,
+    "H": 0
+   },
+   {
+    "hex": "#4f4e4c",
+    "dolya_%": 8.1,
+    "S": 0.04,
+    "V": 0.31,
+    "H": 40
+   }
+  ]
+ },
+ {
+  "fayl": "www.obys.agency-390.png",
+  "colorfulness": 0.0,
+  "verdikt": "не красочно",
+  "L_sredn": 0.1,
+  "S_sredn": 0.0,
+  "nasyshchennye_%": 0.0,
+  "yarkiy_cvet_%": 0.0,
+  "polunasyshch_%": 0.0,
+  "neytralnye_%": 100.0,
+  "temnye_V<0.25_%": 99.9,
+  "svetlye_V>0.85_%": 0.1,
+  "dominanty": [
+   {
+    "hex": "#000000",
+    "dolya_%": 99.8,
+    "S": 0.0,
+    "V": 0.0,
+    "H": 0
+   },
+   {
+    "hex": "#fefefe",
+    "dolya_%": 0.0,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#646464",
+    "dolya_%": 0.0,
+    "S": 0.0,
+    "V": 0.39,
+    "H": 0
+   },
+   {
+    "hex": "#060606",
+    "dolya_%": 0.0,
+    "S": 0.0,
+    "V": 0.02,
+    "H": 0
+   },
+   {
+    "hex": "#595959",
+    "dolya_%": 0.0,
+    "S": 0.0,
+    "V": 0.35,
+    "H": 0
+   },
+   {
+    "hex": "#323232",
+    "dolya_%": 0.0,
+    "S": 0.0,
+    "V": 0.2,
+    "H": 0
+   }
+  ]
+ },
+ {
+  "fayl": "www.obys.agency.png",
+  "colorfulness": 0.0,
+  "verdikt": "не красочно",
+  "L_sredn": 1.2,
+  "S_sredn": 0.0,
+  "nasyshchennye_%": 0.0,
+  "yarkiy_cvet_%": 0.0,
+  "polunasyshch_%": 0.0,
+  "neytralnye_%": 100.0,
+  "temnye_V<0.25_%": 98.4,
+  "svetlye_V>0.85_%": 0.4,
+  "dominanty": [
+   {
+    "hex": "#000000",
+    "dolya_%": 97.0,
+    "S": 0.0,
+    "V": 0.0,
+    "H": 0
+   },
+   {
+    "hex": "#121212",
+    "dolya_%": 0.7,
+    "S": 0.0,
+    "V": 0.07,
+    "H": 0
+   },
+   {
+    "hex": "#242424",
+    "dolya_%": 0.4,
+    "S": 0.0,
+    "V": 0.14,
+    "H": 0
+   },
+   {
+    "hex": "#e5e5e5",
+    "dolya_%": 0.4,
+    "S": 0.0,
+    "V": 0.9,
+    "H": 0
+   },
+   {
+    "hex": "#373737",
+    "dolya_%": 0.4,
+    "S": 0.0,
+    "V": 0.22,
+    "H": 0
+   },
+   {
+    "hex": "#515151",
+    "dolya_%": 0.4,
+    "S": 0.0,
+    "V": 0.32,
+    "H": 0
+   }
+  ]
+ },
+ {
+  "fayl": "www.oddbox.co.uk-390.png",
+  "colorfulness": 67.0,
+  "verdikt": "довольно красочно",
+  "L_sredn": 54.9,
+  "S_sredn": 0.406,
+  "nasyshchennye_%": 47.7,
+  "yarkiy_cvet_%": 37.2,
+  "polunasyshch_%": 6.5,
+  "neytralnye_%": 45.7,
+  "temnye_V<0.25_%": 6.5,
+  "svetlye_V>0.85_%": 26.0,
+  "dominanty": [
+   {
+    "hex": "#913d24",
+    "dolya_%": 27.9,
+    "S": 0.75,
+    "V": 0.57,
+    "H": 14
+   },
+   {
+    "hex": "#988d84",
+    "dolya_%": 23.5,
+    "S": 0.13,
+    "V": 0.6,
+    "H": 27
+   },
+   {
+    "hex": "#fceedf",
+    "dolya_%": 20.6,
+    "S": 0.12,
+    "V": 0.99,
+    "H": 31
+   },
+   {
+    "hex": "#4b2e20",
+    "dolya_%": 9.6,
+    "S": 0.57,
+    "V": 0.29,
+    "H": 20
+   },
+   {
+    "hex": "#aba5a1",
+    "dolya_%": 7.3,
+    "S": 0.06,
+    "V": 0.67,
+    "H": 24
+   },
+   {
+    "hex": "#d5623f",
+    "dolya_%": 5.3,
+    "S": 0.7,
+    "V": 0.84,
+    "H": 14
+   }
+  ]
+ },
+ {
+  "fayl": "www.oddbox.co.uk.png",
+  "colorfulness": 67.7,
+  "verdikt": "довольно красочно",
+  "L_sredn": 45.9,
+  "S_sredn": 0.508,
+  "nasyshchennye_%": 64.4,
+  "yarkiy_cvet_%": 54.4,
+  "polunasyshch_%": 4.5,
+  "neytralnye_%": 31.1,
+  "temnye_V<0.25_%": 6.0,
+  "svetlye_V>0.85_%": 9.6,
+  "dominanty": [
+   {
+    "hex": "#913d24",
+    "dolya_%": 50.0,
+    "S": 0.75,
+    "V": 0.57,
+    "H": 14
+   },
+   {
+    "hex": "#b3aba3",
+    "dolya_%": 31.7,
+    "S": 0.09,
+    "V": 0.7,
+    "H": 30
+   },
+   {
+    "hex": "#3c1e11",
+    "dolya_%": 8.2,
+    "S": 0.72,
+    "V": 0.24,
+    "H": 18
+   },
+   {
+    "hex": "#8a614e",
+    "dolya_%": 5.9,
+    "S": 0.43,
+    "V": 0.54,
+    "H": 19
+   },
+   {
+    "hex": "#843d25",
+    "dolya_%": 1.9,
+    "S": 0.72,
+    "V": 0.52,
+    "H": 15
+   },
+   {
+    "hex": "#913d23",
+    "dolya_%": 1.2,
+    "S": 0.76,
+    "V": 0.57,
+    "H": 14
+   }
+  ]
+ },
+ {
+  "fayl": "www.pentagram.com-390.png",
+  "colorfulness": 24.1,
+  "verdikt": "чуть красочно",
+  "L_sredn": 51.4,
+  "S_sredn": 0.107,
+  "nasyshchennye_%": 10.2,
+  "yarkiy_cvet_%": 5.3,
+  "polunasyshch_%": 18.9,
+  "neytralnye_%": 70.9,
+  "temnye_V<0.25_%": 23.9,
+  "svetlye_V>0.85_%": 20.6,
+  "dominanty": [
+   {
+    "hex": "#4e5255",
+    "dolya_%": 16.2,
+    "S": 0.08,
+    "V": 0.33,
+    "H": 206
+   },
+   {
+    "hex": "#ced4da",
+    "dolya_%": 15.8,
+    "S": 0.06,
+    "V": 0.85,
+    "H": 210
+   },
+   {
+    "hex": "#2f3030",
+    "dolya_%": 14.5,
+    "S": 0.02,
+    "V": 0.19,
+    "H": 180
+   },
+   {
+    "hex": "#424b52",
+    "dolya_%": 12.4,
+    "S": 0.2,
+    "V": 0.32,
+    "H": 206
+   },
+   {
+    "hex": "#fafaf9",
+    "dolya_%": 11.9,
+    "S": 0.0,
+    "V": 0.98,
+    "H": 60
+   },
+   {
+    "hex": "#6d8295",
+    "dolya_%": 9.9,
+    "S": 0.27,
+    "V": 0.58,
+    "H": 209
+   }
+  ]
+ },
+ {
+  "fayl": "www.pentagram.com.png",
+  "colorfulness": 33.0,
+  "verdikt": "чуть красочно",
+  "L_sredn": 81.8,
+  "S_sredn": 0.083,
+  "nasyshchennye_%": 4.1,
+  "yarkiy_cvet_%": 3.6,
+  "polunasyshch_%": 14.6,
+  "neytralnye_%": 81.3,
+  "temnye_V<0.25_%": 12.6,
+  "svetlye_V>0.85_%": 79.1,
+  "dominanty": [
+   {
+    "hex": "#e8f8da",
+    "dolya_%": 19.6,
+    "S": 0.12,
+    "V": 0.97,
+    "H": 92
+   },
+   {
+    "hex": "#e8f7f0",
+    "dolya_%": 17.2,
+    "S": 0.06,
+    "V": 0.97,
+    "H": 152
+   },
+   {
+    "hex": "#e8f8e6",
+    "dolya_%": 14.9,
+    "S": 0.07,
+    "V": 0.97,
+    "H": 113
+   },
+   {
+    "hex": "#ffffff",
+    "dolya_%": 14.7,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#222222",
+    "dolya_%": 13.1,
+    "S": 0.0,
+    "V": 0.13,
+    "H": 0
+   },
+   {
+    "hex": "#e4f1a3",
+    "dolya_%": 7.3,
+    "S": 0.32,
+    "V": 0.95,
+    "H": 70
+   }
+  ]
+ },
+ {
+  "fayl": "www.rarebeauty.com-390.png",
+  "colorfulness": 37.0,
+  "verdikt": "умеренно",
+  "L_sredn": 70.5,
+  "S_sredn": 0.174,
+  "nasyshchennye_%": 23.2,
+  "yarkiy_cvet_%": 11.7,
+  "polunasyshch_%": 5.3,
+  "neytralnye_%": 71.4,
+  "temnye_V<0.25_%": 5.2,
+  "svetlye_V>0.85_%": 36.4,
+  "dominanty": [
+   {
+    "hex": "#b9a6a4",
+    "dolya_%": 20.5,
+    "S": 0.11,
+    "V": 0.73,
+    "H": 6
+   },
+   {
+    "hex": "#ffffff",
+    "dolya_%": 18.8,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#a69696",
+    "dolya_%": 16.1,
+    "S": 0.1,
+    "V": 0.65,
+    "H": 0
+   },
+   {
+    "hex": "#fdfbf8",
+    "dolya_%": 13.3,
+    "S": 0.02,
+    "V": 0.99,
+    "H": 36
+   },
+   {
+    "hex": "#4f2a29",
+    "dolya_%": 12.2,
+    "S": 0.48,
+    "V": 0.31,
+    "H": 2
+   },
+   {
+    "hex": "#a47363",
+    "dolya_%": 10.4,
+    "S": 0.4,
+    "V": 0.64,
+    "H": 15
+   }
+  ]
+ },
+ {
+  "fayl": "www.rarebeauty.com.png",
+  "colorfulness": 33.3,
+  "verdikt": "умеренно",
+  "L_sredn": 69.1,
+  "S_sredn": 0.165,
+  "nasyshchennye_%": 18.6,
+  "yarkiy_cvet_%": 9.6,
+  "polunasyshch_%": 5.1,
+  "neytralnye_%": 76.3,
+  "temnye_V<0.25_%": 3.5,
+  "svetlye_V>0.85_%": 20.7,
+  "dominanty": [
+   {
+    "hex": "#bba9a9",
+    "dolya_%": 24.0,
+    "S": 0.1,
+    "V": 0.73,
+    "H": 0
+   },
+   {
+    "hex": "#b7a8a7",
+    "dolya_%": 19.4,
+    "S": 0.09,
+    "V": 0.72,
+    "H": 4
+   },
+   {
+    "hex": "#fdfbf8",
+    "dolya_%": 17.7,
+    "S": 0.02,
+    "V": 0.99,
+    "H": 36
+   },
+   {
+    "hex": "#b0a09f",
+    "dolya_%": 12.5,
+    "S": 0.1,
+    "V": 0.69,
+    "H": 4
+   },
+   {
+    "hex": "#5b342d",
+    "dolya_%": 10.2,
+    "S": 0.51,
+    "V": 0.36,
+    "H": 9
+   },
+   {
+    "hex": "#b58472",
+    "dolya_%": 10.1,
+    "S": 0.37,
+    "V": 0.71,
+    "H": 16
+   }
+  ]
+ },
+ {
+  "fayl": "www.thebouqs.com-390.png",
+  "colorfulness": 4.2,
+  "verdikt": "не красочно",
+  "L_sredn": 99.8,
+  "S_sredn": 0.002,
+  "nasyshchennye_%": 0.2,
+  "yarkiy_cvet_%": 0.1,
+  "polunasyshch_%": 0.2,
+  "neytralnye_%": 99.6,
+  "temnye_V<0.25_%": 0.0,
+  "svetlye_V>0.85_%": 99.7,
+  "dominanty": [
+   {
+    "hex": "#ffffff",
+    "dolya_%": 99.4,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#514752",
+    "dolya_%": 0.2,
+    "S": 0.13,
+    "V": 0.32,
+    "H": 295
+   },
+   {
+    "hex": "#87868b",
+    "dolya_%": 0.1,
+    "S": 0.04,
+    "V": 0.55,
+    "H": 252
+   },
+   {
+    "hex": "#caccc3",
+    "dolya_%": 0.1,
+    "S": 0.04,
+    "V": 0.8,
+    "H": 73
+   },
+   {
+    "hex": "#fdf8ec",
+    "dolya_%": 0.1,
+    "S": 0.07,
+    "V": 0.99,
+    "H": 42
+   },
+   {
+    "hex": "#e7f4f8",
+    "dolya_%": 0.1,
+    "S": 0.07,
+    "V": 0.97,
+    "H": 194
+   }
+  ]
+ },
+ {
+  "fayl": "www.thebouqs.com.png",
+  "colorfulness": 1.0,
+  "verdikt": "не красочно",
+  "L_sredn": 100.0,
+  "S_sredn": 0.0,
+  "nasyshchennye_%": 0.0,
+  "yarkiy_cvet_%": 0.0,
+  "polunasyshch_%": 0.1,
+  "neytralnye_%": 99.9,
+  "temnye_V<0.25_%": 0.0,
+  "svetlye_V>0.85_%": 99.9,
+  "dominanty": [
+   {
+    "hex": "#ffffff",
+    "dolya_%": 99.8,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#abaeb0",
+    "dolya_%": 0.1,
+    "S": 0.03,
+    "V": 0.69,
+    "H": 204
+   },
+   {
+    "hex": "#d9dad8",
+    "dolya_%": 0.1,
+    "S": 0.01,
+    "V": 0.85,
+    "H": 90
+   },
+   {
+    "hex": "#888587",
+    "dolya_%": 0.1,
+    "S": 0.02,
+    "V": 0.53,
+    "H": 320
+   },
+   {
+    "hex": "#ededea",
+    "dolya_%": 0.0,
+    "S": 0.01,
+    "V": 0.93,
+    "H": 60
+   },
+   {
+    "hex": "#f9faf8",
+    "dolya_%": 0.0,
+    "S": 0.01,
+    "V": 0.98,
+    "H": 90
+   }
+  ]
+ },
+ {
+  "fayl": "www.tonyschocolonely.com-390.png",
+  "colorfulness": 158.6,
+  "verdikt": "предельно красочно",
+  "L_sredn": 59.0,
+  "S_sredn": 0.73,
+  "nasyshchennye_%": 74.0,
+  "yarkiy_cvet_%": 72.2,
+  "polunasyshch_%": 1.9,
+  "neytralnye_%": 24.0,
+  "temnye_V<0.25_%": 1.3,
+  "svetlye_V>0.85_%": 59.4,
+  "dominanty": [
+   {
+    "hex": "#0169df",
+    "dolya_%": 29.5,
+    "S": 1.0,
+    "V": 0.87,
+    "H": 212
+   },
+   {
+    "hex": "#0051ac",
+    "dolya_%": 28.7,
+    "S": 1.0,
+    "V": 0.67,
+    "H": 212
+   },
+   {
+    "hex": "#cacec8",
+    "dolya_%": 25.0,
+    "S": 0.03,
+    "V": 0.81,
+    "H": 100
+   },
+   {
+    "hex": "#fff99d",
+    "dolya_%": 10.2,
+    "S": 0.38,
+    "V": 1.0,
+    "H": 56
+   },
+   {
+    "hex": "#6793b8",
+    "dolya_%": 3.0,
+    "S": 0.44,
+    "V": 0.72,
+    "H": 207
+   },
+   {
+    "hex": "#053b78",
+    "dolya_%": 2.4,
+    "S": 0.96,
+    "V": 0.47,
+    "H": 212
+   }
+  ]
+ },
+ {
+  "fayl": "www.tonyschocolonely.com.png",
+  "colorfulness": 128.1,
+  "verdikt": "предельно красочно",
+  "L_sredn": 57.9,
+  "S_sredn": 0.571,
+  "nasyshchennye_%": 58.2,
+  "yarkiy_cvet_%": 56.3,
+  "polunasyshch_%": 1.9,
+  "neytralnye_%": 39.9,
+  "temnye_V<0.25_%": 1.2,
+  "svetlye_V>0.85_%": 22.5,
+  "dominanty": [
+   {
+    "hex": "#0050a8",
+    "dolya_%": 35.7,
+    "S": 1.0,
+    "V": 0.66,
+    "H": 211
+   },
+   {
+    "hex": "#bfbfbf",
+    "dolya_%": 34.9,
+    "S": 0.0,
+    "V": 0.75,
+    "H": 0
+   },
+   {
+    "hex": "#0062d5",
+    "dolya_%": 10.7,
+    "S": 1.0,
+    "V": 0.84,
+    "H": 212
+   },
+   {
+    "hex": "#f0edc1",
+    "dolya_%": 10.5,
+    "S": 0.2,
+    "V": 0.94,
+    "H": 56
+   },
+   {
+    "hex": "#432a50",
+    "dolya_%": 5.0,
+    "S": 0.47,
+    "V": 0.31,
+    "H": 279
+   },
+   {
+    "hex": "#4583b4",
+    "dolya_%": 1.3,
+    "S": 0.62,
+    "V": 0.71,
+    "H": 206
+   }
+  ]
+ },
+ {
+  "fayl": "www.typology.com-390.png",
+  "colorfulness": 22.0,
+  "verdikt": "чуть красочно",
+  "L_sredn": 69.3,
+  "S_sredn": 0.084,
+  "nasyshchennye_%": 11.3,
+  "yarkiy_cvet_%": 2.0,
+  "polunasyshch_%": 8.8,
+  "neytralnye_%": 79.9,
+  "temnye_V<0.25_%": 16.5,
+  "svetlye_V>0.85_%": 39.5,
+  "dominanty": [
+   {
+    "hex": "#ffffff",
+    "dolya_%": 32.1,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#dbd8d9",
+    "dolya_%": 17.3,
+    "S": 0.01,
+    "V": 0.86,
+    "H": 340
+   },
+   {
+    "hex": "#0f0d0d",
+    "dolya_%": 13.9,
+    "S": 0.13,
+    "V": 0.06,
+    "H": 0
+   },
+   {
+    "hex": "#cabfbb",
+    "dolya_%": 13.9,
+    "S": 0.07,
+    "V": 0.79,
+    "H": 16
+   },
+   {
+    "hex": "#a79691",
+    "dolya_%": 11.3,
+    "S": 0.13,
+    "V": 0.65,
+    "H": 14
+   },
+   {
+    "hex": "#513631",
+    "dolya_%": 10.4,
+    "S": 0.4,
+    "V": 0.32,
+    "H": 9
+   }
+  ]
+ },
+ {
+  "fayl": "www.typology.com.png",
+  "colorfulness": 37.4,
+  "verdikt": "умеренно",
+  "L_sredn": 59.2,
+  "S_sredn": 0.201,
+  "nasyshchennye_%": 27.4,
+  "yarkiy_cvet_%": 10.3,
+  "polunasyshch_%": 24.7,
+  "neytralnye_%": 47.9,
+  "temnye_V<0.25_%": 18.7,
+  "svetlye_V>0.85_%": 27.6,
+  "dominanty": [
+   {
+    "hex": "#ffffff",
+    "dolya_%": 16.2,
+    "S": 0.0,
+    "V": 1.0,
+    "H": 0
+   },
+   {
+    "hex": "#d1c5c1",
+    "dolya_%": 14.9,
+    "S": 0.08,
+    "V": 0.82,
+    "H": 15
+   },
+   {
+    "hex": "#131314",
+    "dolya_%": 13.8,
+    "S": 0.05,
+    "V": 0.08,
+    "H": 240
+   },
+   {
+    "hex": "#cdac9d",
+    "dolya_%": 13.4,
+    "S": 0.23,
+    "V": 0.8,
+    "H": 19
+   },
+   {
+    "hex": "#b68b7b",
+    "dolya_%": 12.3,
+    "S": 0.32,
+    "V": 0.71,
+    "H": 16
+   },
+   {
+    "hex": "#402622",
+    "dolya_%": 11.7,
+    "S": 0.47,
+    "V": 0.25,
+    "H": 8
+   }
+  ]
+ }
+]

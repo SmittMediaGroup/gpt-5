@@ -1,0 +1,3908 @@
+[
+ {
+  "url": "https://www.bloomandwild.com/",
+  "ok": true,
+  "status": 200,
+  "finalUrl": "https://www.bloomandwild.com/",
+  "title": "Flower Delivery | Send Flowers Plants & Gifts | Bloom & Wild",
+  "bodyBg": "#ffffff",
+  "bodyColor": "#262626",
+  "bodyFont": "\"Unica 77 LL TT\"",
+  "heads": [
+   {
+    "tag": "h1",
+    "text": "Send flowers. Unleash autumn.",
+    "fontFamily": "\"Tiempos Headline\"",
+    "fontSize": "52px",
+    "fontWeight": "700",
+    "lineHeight": "64px",
+    "letterSpacing": "normal",
+    "color": "#262626",
+    "textTransform": "none"
+   },
+   {
+    "tag": "h2",
+    "text": "Take £10 off your first order*",
+    "fontFamily": "\"Tiempos Headline\"",
+    "fontSize": "44px",
+    "fontWeight": "700",
+    "lineHeight": "56px",
+    "letterSpacing": "normal",
+    "color": "#262626",
+    "textTransform": "none"
+   }
+  ],
+  "topBackgrounds": [
+   [
+    "#ffffff",
+    8912909
+   ],
+   [
+    "#065d4d",
+    774135
+   ],
+   [
+    "#f4e8cd",
+    406908
+   ],
+   [
+    "#f9dfd9",
+    320040
+   ],
+   [
+    "#f9ecd7",
+    258240
+   ],
+   [
+    "#faeeef",
+    242316
+   ],
+   [
+    "#edccce",
+    242316
+   ],
+   [
+    "#dfe9e3",
+    242316
+   ],
+   [
+    "#fdf888",
+    227983
+   ],
+   [
+    "#262626",
+    15808
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#262626",
+    873
+   ],
+   [
+    "#ffffff",
+    94
+   ],
+   [
+    "#534e46",
+    12
+   ],
+   [
+    "#000000",
+    3
+   ],
+   [
+    "#545454",
+    1
+   ],
+   [
+    "#447964",
+    1
+   ]
+  ],
+  "fontFamilies": [
+   "\"Unica 77 LL TT\"",
+   "Unica77, Arial, Helvetica, sans-serif",
+   "\"Tiempos Headline\"",
+   ""
+  ],
+  "videos": 0,
+  "videoSrc": [],
+  "canvases": 0,
+  "canvasWebgl": 0,
+  "imgs": 20,
+  "svgs": 25,
+  "bigType": {
+   "px": 52,
+   "vw": 3.61,
+   "text": "Send flowers. Unleash autumn.",
+   "font": "\"Tiempos Headline\""
+  },
+  "globals": {
+   "gsap": false,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [],
+  "bytesKB": 6924,
+  "byTypeKB": {
+   "image/png": 5923,
+   "application/javascript": 532,
+   "image/webp": 264,
+   "font/woff2": 184,
+   "application/vnd.contentful.delivery.v1+json": 19,
+   "text/html": 0
+  },
+  "requests": 191
+ },
+ {
+  "url": "https://flowerbx.com/",
+  "ok": true,
+  "status": 403,
+  "finalUrl": "https://www.flowerbx.com/?__cf_chl_rt_tk=7V.cUZJjD867oS8sk1O6Lg0UndNay2AGM9oA9iyOjLs-1790918579-1.0.1.1-Owf_u_ZLykU8VUoplvUkdt6petHP4Lt086dZtuiiC9A",
+  "title": "Just a moment...",
+  "bodyBg": null,
+  "bodyColor": "#313131",
+  "bodyFont": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+  "heads": [
+   {
+    "tag": "h1",
+    "text": "www.flowerbx.com",
+    "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "40px",
+    "fontWeight": "600",
+    "lineHeight": "50px",
+    "letterSpacing": "normal",
+    "color": "#313131",
+    "textTransform": "none"
+   },
+   {
+    "tag": "h2",
+    "text": "Performing security verification",
+    "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "fontSize": "24px",
+    "fontWeight": "600",
+    "lineHeight": "30px",
+    "letterSpacing": "normal",
+    "color": "#313131",
+    "textTransform": "none"
+   }
+  ],
+  "topBackgrounds": [],
+  "topTextColors": [
+   [
+    "#313131",
+    30
+   ],
+   [
+    "#0000ee",
+    2
+   ],
+   [
+    "#000000",
+    1
+   ]
+  ],
+  "fontFamilies": [
+   "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+   "Arial",
+   "monospace"
+  ],
+  "videos": 0,
+  "videoSrc": [],
+  "canvases": 0,
+  "canvasWebgl": 0,
+  "imgs": 1,
+  "svgs": 0,
+  "bigType": {
+   "px": 40,
+   "vw": 2.78,
+   "text": "www.flowerbx.com",
+   "font": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\""
+  },
+  "globals": {
+   "gsap": false,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [],
+  "bytesKB": 3,
+  "byTypeKB": {
+   "text/javascript": 1,
+   "image/png": 1,
+   "text/plain": 0,
+   "text/html": 0,
+   "": 0,
+   "application/javascript": 0
+  },
+  "requests": 17
+ },
+ {
+  "url": "https://farmgirlflowers.com/",
+  "ok": true,
+  "status": 200,
+  "finalUrl": "https://farmgirlflowers.com/",
+  "title": "Flower Delivery | Send Flowers | Farmgirl Flowers",
+  "bodyBg": "#ffffff",
+  "bodyColor": "#626262",
+  "bodyFont": "brandon-grotesque, Helvetica, Arial, sans-serif",
+  "heads": [
+   {
+    "tag": "h1",
+    "text": "As Seen on the\n\nToday Show!",
+    "fontFamily": "quincy-cf, Arial, sans-serif",
+    "fontSize": "90px",
+    "fontWeight": "400",
+    "lineHeight": "81px",
+    "letterSpacing": "normal",
+    "color": "#ffffff",
+    "textTransform": "none"
+   },
+   {
+    "tag": "h2",
+    "text": "",
+    "fontFamily": "brandon-grotesque, Arial, sans-serif",
+    "fontSize": "14px",
+    "fontWeight": "700",
+    "lineHeight": "20px",
+    "letterSpacing": "normal",
+    "color": "#000000",
+    "textTransform": "none"
+   }
+  ],
+  "topBackgrounds": [
+   [
+    "#ffffff",
+    2410751
+   ],
+   [
+    "#000000",
+    936255
+   ],
+   [
+    "#f9fafb",
+    268800
+   ],
+   [
+    "#1032cf",
+    51269
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#141414",
+    932
+   ],
+   [
+    "#626262",
+    258
+   ],
+   [
+    "#000000",
+    234
+   ],
+   [
+    "#ffffff",
+    160
+   ],
+   [
+    "#e50077",
+    71
+   ],
+   [
+    "#2a4eef",
+    26
+   ],
+   [
+    "#111827",
+    16
+   ],
+   [
+    "#303030",
+    15
+   ]
+  ],
+  "fontFamilies": [
+   "sans-serif",
+   "brandon-grotesque, Helvetica, Arial, sans-serif",
+   "brandon-grotesque, Arial, sans-serif",
+   "quincy-cf, Arial, sans-serif",
+   ""
+  ],
+  "videos": 1,
+  "videoSrc": [
+   "https://cms-uploads.farmgirlflowers.com/QF_24_FARMGIRL_SPRING_30_DS_04_MASTER_TEXTLESS_2_c8f9c5ea0a.mp4"
+  ],
+  "canvases": 0,
+  "canvasWebgl": 0,
+  "imgs": 49,
+  "svgs": 40,
+  "bigType": {
+   "px": 90,
+   "vw": 6.25,
+   "text": "As Seen on the",
+   "font": "quincy-cf, Arial, sans-serif"
+  },
+  "globals": {
+   "gsap": false,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [
+   "three"
+  ],
+  "bytesKB": 59932,
+  "byTypeKB": {
+   "video/mp4": 56216,
+   "image/webp": 2382,
+   "application/javascript": 808,
+   "application/font-woff2": 308,
+   "text/javascript": 117,
+   "text/css": 48
+  },
+  "requests": 93
+ },
+ {
+  "url": "https://www.thebouqs.com/",
+  "ok": true,
+  "status": 403,
+  "finalUrl": "https://bouqs.com/",
+  "title": "",
+  "bodyBg": null,
+  "bodyColor": "#000000",
+  "bodyFont": "\"Times New Roman\"",
+  "heads": [],
+  "topBackgrounds": [],
+  "topTextColors": [
+   [
+    "#000000",
+    1
+   ]
+  ],
+  "fontFamilies": [
+   "monospace"
+  ],
+  "videos": 0,
+  "videoSrc": [],
+  "canvases": 0,
+  "canvasWebgl": 0,
+  "imgs": 0,
+  "svgs": 0,
+  "bigType": {
+   "px": 13,
+   "vw": 0.9,
+   "text": "Unfortunately Bouqs is not available in Europe",
+   "font": "monospace"
+  },
+  "globals": {
+   "gsap": false,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [],
+  "bytesKB": 0,
+  "byTypeKB": {
+   "text/plain": 0,
+   "text/html": 0
+  },
+  "requests": 2
+ },
+ {
+  "url": "https://freddiesflowers.com/",
+  "ok": true,
+  "status": 200,
+  "finalUrl": "https://www.freddiesflowers.com/",
+  "title": "Flower Delivery | Order Flowers Online | Freddie's Flowers",
+  "bodyBg": null,
+  "bodyColor": null,
+  "bodyFont": "overpass, system-ui, -apple-system, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", sans-serif",
+  "heads": [
+   {
+    "tag": "h1",
+    "text": "Fabulous, fresh, seasonal flowers delivered to your door",
+    "fontFamily": "\"American Typewriter\", serif",
+    "fontSize": "38px",
+    "fontWeight": "400",
+    "lineHeight": "41.28px",
+    "letterSpacing": "normal",
+    "color": "#fdfcfb",
+    "textTransform": "none"
+   },
+   {
+    "tag": "h2",
+    "text": "Standout stems that change with the season",
+    "fontFamily": "\"American Typewriter\", georgia, serif",
+    "fontSize": "35.4376px",
+    "fontWeight": "400",
+    "lineHeight": "44.297px",
+    "letterSpacing": "normal",
+    "color": null,
+    "textTransform": "none"
+   }
+  ],
+  "topBackgrounds": [
+   [
+    "#aba882",
+    886388
+   ],
+   [
+    "#ffffff",
+    374456
+   ],
+   [
+    "#161616",
+    16588
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#161616",
+    1946
+   ],
+   [
+    "#fdfcfb",
+    18
+   ],
+   [
+    "#1a1a1a",
+    5
+   ],
+   [
+    "#284e13",
+    3
+   ],
+   [
+    "#ffffff",
+    1
+   ]
+  ],
+  "fontFamilies": [
+   "sans-serif",
+   "overpass, system-ui, -apple-system, \"Segoe UI\", roboto, \"Helvetica Neue\", arial, \"Noto Sans\", \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", sans-serif",
+   "\"American Typewriter\", serif",
+   "\"American Typewriter\", georgia, serif",
+   "Overpass, sans-serif",
+   "\"Dusty Orange Display\", cursive",
+   "FreddiesFlowersTitle, cursive",
+   "\"American Typewriter\", monospace"
+  ],
+  "videos": 0,
+  "videoSrc": [],
+  "canvases": 0,
+  "canvasWebgl": 0,
+  "imgs": 43,
+  "svgs": 19,
+  "bigType": {
+   "px": 38,
+   "vw": 2.64,
+   "text": "Fabulous, fresh, seasonal flowers delivered to your door",
+   "font": "\"American Typewriter\", serif"
+  },
+  "globals": {
+   "gsap": false,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [
+   "swiper",
+   "next"
+  ],
+  "bytesKB": 1708,
+  "byTypeKB": {
+   "image/webp": 799,
+   "font/woff2": 237,
+   "image/gif": 201,
+   "text/javascript": 190,
+   "image/jpeg": 157,
+   "application/javascript": 81
+  },
+  "requests": 170
+ },
+ {
+  "url": "https://www.oatly.com/",
+  "ok": true,
+  "status": 200,
+  "finalUrl": "https://www.oatly.com/",
+  "title": "the Original Oat Drink Company | Oatly",
+  "bodyBg": "#ffffff",
+  "bodyColor": "#000000",
+  "bodyFont": "\"Margo Pro Regular\", sans-serif",
+  "heads": [
+   {
+    "tag": "h1",
+    "text": "the Original Oat Drink Company",
+    "fontFamily": "\"Margo Pro Regular\", sans-serif",
+    "fontSize": "32px",
+    "fontWeight": "700",
+    "lineHeight": "41.6px",
+    "letterSpacing": "normal",
+    "color": "#000000",
+    "textTransform": "none"
+   },
+   {
+    "tag": "h2",
+    "text": "We know you didn’t come here for cookies",
+    "fontFamily": "\"Margo Pro Regular\", sans-serif",
+    "fontSize": "27px",
+    "fontWeight": "500",
+    "lineHeight": "32.4px",
+    "letterSpacing": "normal",
+    "color": "#222222",
+    "textTransform": "none"
+   }
+  ],
+  "topBackgrounds": [
+   [
+    "#ffffff",
+    3109755
+   ],
+   [
+    "#000000",
+    1869104
+   ],
+   [
+    "#fffef6",
+    1200943
+   ],
+   [
+    "#f6f6f6",
+    395944
+   ],
+   [
+    "#888888",
+    8442
+   ],
+   [
+    "#fdcf85",
+    7949
+   ],
+   [
+    "#c6c6c6",
+    7342
+   ],
+   [
+    "#f8c8d8",
+    5913
+   ],
+   [
+    "#a67eb1",
+    5367
+   ],
+   [
+    "#2c622c",
+    2814
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#000000",
+    533
+   ],
+   [
+    "#222222",
+    405
+   ],
+   [
+    "#ffffff",
+    11
+   ]
+  ],
+  "fontFamilies": [
+   "\"Margo Pro Regular\", sans-serif",
+   "oatly-icons",
+   "\"Margo Pro Bold\", sans-serif"
+  ],
+  "videos": 0,
+  "videoSrc": [],
+  "canvases": 0,
+  "canvasWebgl": 0,
+  "imgs": 16,
+  "svgs": 1,
+  "bigType": {
+   "px": 32,
+   "vw": 2.22,
+   "text": "the Original Oat Drink Company",
+   "font": "\"Margo Pro Regular\", sans-serif"
+  },
+  "globals": {
+   "gsap": false,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [
+   "next"
+  ],
+  "bytesKB": 50043,
+  "byTypeKB": {
+   "video/mp4": 43845,
+   "text/javascript": 3003,
+   "application/javascript": 2317,
+   "image/webp": 327,
+   "font/woff": 217,
+   "image/avif": 203
+  },
+  "requests": 199
+ },
+ {
+  "url": "https://graza.co/",
+  "ok": true,
+  "status": 200,
+  "finalUrl": "https://www.graza.co/",
+  "title": "GRAZA | High Quality Olive Oil | Graza",
+  "bodyBg": "#f6e6d9",
+  "bodyColor": "#3c422e",
+  "bodyFont": "\"GT Alpina Typewriter\", \"monospace\"",
+  "heads": [
+   {
+    "tag": "h1",
+    "text": "Extra Virgin Olive Oil makes everything better.",
+    "fontFamily": "\"ITC Garamond Condensed\", \"serif\"",
+    "fontSize": "72px",
+    "fontWeight": "400",
+    "lineHeight": "72px",
+    "letterSpacing": "-2.16px",
+    "color": "#fff4ec",
+    "textTransform": "none"
+   },
+   {
+    "tag": "h2",
+    "text": "",
+    "fontFamily": "Apercu, \"sans-serif\"",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "24px",
+    "letterSpacing": "normal",
+    "color": "#3c422e",
+    "textTransform": "uppercase"
+   }
+  ],
+  "topBackgrounds": [
+   [
+    "#f6e6d9",
+    4715254
+   ],
+   [
+    "#d1e030",
+    3881010
+   ],
+   [
+    "#fbd535",
+    2138400
+   ],
+   [
+    "#000000",
+    2016000
+   ],
+   [
+    "#9eef80",
+    1071248
+   ],
+   [
+    "#fff4ec",
+    396244
+   ],
+   [
+    "#ffffff",
+    20153
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#3c422e",
+    885
+   ],
+   [
+    "#fff4ec",
+    66
+   ],
+   [
+    "#f6e6d9",
+    30
+   ],
+   [
+    "#000000",
+    4
+   ]
+  ],
+  "fontFamilies": [
+   "\"GT Alpina Typewriter\", \"monospace\"",
+   "SF-Secondary-Font, \"Open Sans\", ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+   "Apercu, \"sans-serif\"",
+   "",
+   "\"ITC Garamond Condensed\", \"serif\"",
+   "GTStandard-M, sans-serif"
+  ],
+  "videos": 10,
+  "videoSrc": [
+   "https://www.graza.co/cdn/shop/videos/c/vp/8e1af1140368412d8993ec13e53f6427/8e1af1140368412d8993ec13e53f6427.HD-1080p-7.2Mbps-69849097.mp4?v=0",
+   "https://www.graza.co/cdn/shop/videos/c/vp/116856785e5445af817856ad82f1b058/116856785e5445af817856ad82f1b058.HD-1080p-7.2Mbps-70155274.mp4?v=0",
+   "https://www.graza.co/cdn/shop/videos/c/vp/4edb9d83767d416ea7dc7bcda64f27d5/4edb9d83767d416ea7dc7bcda64f27d5.HD-1080p-7.2Mbps-70156276.mp4?v=0",
+   "https://www.graza.co/cdn/shop/videos/c/vp/52c70e4345eb4f2188d0736c4a2f9aa2/52c70e4345eb4f2188d0736c4a2f9aa2.HD-1080p-7.2Mbps-42857536.mp4?v=0"
+  ],
+  "canvases": 0,
+  "canvasWebgl": 0,
+  "imgs": 75,
+  "svgs": 36,
+  "bigType": {
+   "px": 72,
+   "vw": 5,
+   "text": "Extra Virgin Olive Oil makes everything better.",
+   "font": "\"ITC Garamond Condensed\", \"serif\""
+  },
+  "globals": {
+   "gsap": false,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [
+   "lottie",
+   "pixi",
+   "shopify"
+  ],
+  "bytesKB": 109427,
+  "byTypeKB": {
+   "video/mp4": 103523,
+   "text/javascript": 1823,
+   "image/webp": 1252,
+   "application/javascript": 1008,
+   "application/json": 564,
+   "image/jpeg": 394
+  },
+  "requests": 514
+ },
+ {
+  "url": "https://drinkpoppi.com/",
+  "ok": true,
+  "status": 200,
+  "finalUrl": "https://www.drinkpoppi.com/",
+  "title": "poppi",
+  "bodyBg": "#ffffff",
+  "bodyColor": "#222222",
+  "bodyFont": "font-primary, \"ITC Avant Garde Gothic\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+  "heads": [
+   {
+    "tag": "h2",
+    "text": "variety is the spice of life",
+    "fontFamily": "font-secondary, Recoleta, Georgia, \"Times New Roman\", serif",
+    "fontSize": "60px",
+    "fontWeight": "400",
+    "lineHeight": "72px",
+    "letterSpacing": "-1.2px",
+    "color": "#ffffff",
+    "textTransform": "lowercase"
+   }
+  ],
+  "topBackgrounds": [
+   [
+    "#ec008c",
+    1744232
+   ],
+   [
+    "#f6f6f6",
+    1559631
+   ],
+   [
+    "#ffffff",
+    946153
+   ],
+   [
+    "#000000",
+    499231
+   ],
+   [
+    "#00aeef",
+    454142
+   ],
+   [
+    "#ffebb3",
+    452941
+   ],
+   [
+    "#450099",
+    235089
+   ],
+   [
+    "#cafe26",
+    156921
+   ],
+   [
+    "#fff200",
+    91421
+   ],
+   [
+    "#e5fc0f",
+    85043
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#222222",
+    643
+   ],
+   [
+    "#027e34",
+    72
+   ],
+   [
+    "#fff200",
+    43
+   ],
+   [
+    "#000000",
+    31
+   ],
+   [
+    "#ffffff",
+    29
+   ],
+   [
+    "#333333",
+    15
+   ],
+   [
+    "#55595d",
+    12
+   ],
+   [
+    "#e15505",
+    11
+   ]
+  ],
+  "fontFamilies": [
+   "font-primary, \"ITC Avant Garde Gothic\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+   "Arial",
+   "font-secondary, Recoleta, Georgia, \"Times New Roman\", serif",
+   "\"Source Sans Pro\", sans-serif",
+   "FontAwesome",
+   ""
+  ],
+  "videos": 1,
+  "videoSrc": [
+   "https://assets.decovostatic.com/static-images/poppi/poppi/video/1455bd7f438c43379e6075c36b88dfd0.HD-1080p-7.2Mbps-90972926.mp4"
+  ],
+  "canvases": 0,
+  "canvasWebgl": 0,
+  "imgs": 136,
+  "svgs": 23,
+  "bigType": {
+   "px": 28,
+   "vw": 1.94,
+   "text": "Sour Apple",
+   "font": "font-secondary, Recoleta, Georgia, \"Times New Roman\", serif"
+  },
+  "globals": {
+   "gsap": false,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [
+   "next"
+  ],
+  "bytesKB": 20690,
+  "byTypeKB": {
+   "video/mp4": 19646,
+   "application/javascript": 741,
+   "application/x-javascript": 256,
+   "text/css": 22,
+   "image/webp": 9,
+   "image/gif": 6
+  },
+  "requests": 202
+ },
+ {
+  "url": "https://drinkolipop.com/",
+  "ok": true,
+  "status": 200,
+  "finalUrl": "https://drinkolipop.com/",
+  "title": "OLIPOP | Healthy Prebiotic Soda",
+  "bodyBg": "#ffffff",
+  "bodyColor": "#14433d",
+  "bodyFont": "Ano",
+  "heads": [
+   {
+    "tag": "h1",
+    "text": "",
+    "fontFamily": "Ano",
+    "fontSize": "20px",
+    "fontWeight": "700",
+    "lineHeight": "20px",
+    "letterSpacing": "normal",
+    "color": "#14433d",
+    "textTransform": "none"
+   },
+   {
+    "tag": "h2",
+    "text": "Shop 9g fiber",
+    "fontFamily": "WindsorEF, sans-serif",
+    "fontSize": "40px",
+    "fontWeight": "900",
+    "lineHeight": "44px",
+    "letterSpacing": "normal",
+    "color": "#034638",
+    "textTransform": "none"
+   }
+  ],
+  "topBackgrounds": [
+   [
+    "#ffffff",
+    1338670
+   ],
+   [
+    "#000000",
+    1282500
+   ],
+   [
+    "#fff6ea",
+    1229218
+   ],
+   [
+    "#ff9ec8",
+    470250
+   ],
+   [
+    "#034638",
+    189693
+   ],
+   [
+    "#5a0c3c",
+    57000
+   ],
+   [
+    "#e31a82",
+    14018
+   ],
+   [
+    "#d0d5d2",
+    5280
+   ],
+   [
+    "#14433d",
+    2876
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#14433d",
+    815
+   ],
+   [
+    "#034638",
+    692
+   ],
+   [
+    "#3a3a3a",
+    690
+   ],
+   [
+    "#ffffff",
+    121
+   ],
+   [
+    "#000000",
+    109
+   ],
+   [
+    "#0a3128",
+    39
+   ],
+   [
+    "#008168",
+    26
+   ],
+   [
+    "#5a0c3c",
+    3
+   ]
+  ],
+  "fontFamilies": [
+   "Ano",
+   "Helvetica, Arial, sans-serif",
+   "SF-Secondary-Font, \"Open Sans\", ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+   "Ano, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+   "WindsorEF, sans-serif",
+   "\"Ano Bold\", Ano, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+   "Ano, \"Ano Regular\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+   "WindsorEF, \"WindsorEF UltraHeavy\", Georgia, \"Times New Roman\", serif",
+   "\"Ano Bold\""
+  ],
+  "videos": 0,
+  "videoSrc": [],
+  "canvases": 0,
+  "canvasWebgl": 0,
+  "imgs": 183,
+  "svgs": 181,
+  "bigType": {
+   "px": 90,
+   "vw": 6.25,
+   "text": "Come sip with us",
+   "font": "WindsorEF, sans-serif"
+  },
+  "globals": {
+   "gsap": true,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [
+   "gsap",
+   "swiper",
+   "next",
+   "shopify"
+  ],
+  "bytesKB": 12466,
+  "byTypeKB": {
+   "image/webp": 9321,
+   "text/javascript": 1839,
+   "application/javascript": 302,
+   "text/css": 272,
+   "font/otf": 163,
+   "application/x-javascript": 148
+  },
+  "requests": 763
+ },
+ {
+  "url": "https://www.tonyschocolonely.com/",
+  "ok": true,
+  "status": 200,
+  "finalUrl": "https://tonyschocolonely.com/",
+  "title": "Fighting exploitation in cocoa – Tony’s Chocolonely Global",
+  "bodyBg": "#ffffff",
+  "bodyColor": "#000000",
+  "bodyFont": "\"American typewriter\", sans-serif",
+  "heads": [
+   {
+    "tag": "h1",
+    "text": "Visit our sites",
+    "fontFamily": "\"American typewriter\", sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "400",
+    "lineHeight": "24px",
+    "letterSpacing": "normal",
+    "color": "#000000",
+    "textTransform": "none"
+   },
+   {
+    "tag": "h2",
+    "text": "We value your privacy",
+    "fontFamily": "\"American typewriter\", sans-serif",
+    "fontSize": "19.2px",
+    "fontWeight": "700",
+    "lineHeight": "28.8px",
+    "letterSpacing": "normal",
+    "color": "#ffffff",
+    "textTransform": "none"
+   }
+  ],
+  "topBackgrounds": [
+   [
+    "#ffffff",
+    3356197
+   ],
+   [
+    "#eb0000",
+    2079950
+   ],
+   [
+    "#000000",
+    1296000
+   ],
+   [
+    "#006be1",
+    1200897
+   ],
+   [
+    "#f1f1ec",
+    454276
+   ],
+   [
+    "#ff7400",
+    225792
+   ],
+   [
+    "#78c828",
+    225792
+   ],
+   [
+    "#0169df",
+    160841
+   ],
+   [
+    "#6464be",
+    112896
+   ],
+   [
+    "#009e00",
+    112896
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#000000",
+    1070
+   ],
+   [
+    "#ffffff",
+    37
+   ],
+   [
+    "#eb0000",
+    4
+   ]
+  ],
+  "fontFamilies": [
+   "\"American typewriter\", sans-serif",
+   "\"Chocolate letter\", sans-serif",
+   "GTStandard-M, sans-serif"
+  ],
+  "videos": 0,
+  "videoSrc": [],
+  "canvases": 0,
+  "canvasWebgl": 0,
+  "imgs": 35,
+  "svgs": 64,
+  "bigType": {
+   "px": 176,
+   "vw": 12.22,
+   "text": "Visit our sites",
+   "font": "\"Chocolate letter\", sans-serif"
+  },
+  "globals": {
+   "gsap": false,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [
+   "swiper",
+   "shopify"
+  ],
+  "bytesKB": 2018,
+  "byTypeKB": {
+   "text/javascript": 1226,
+   "font/woff2": 305,
+   "application/javascript": 190,
+   "image/avif": 99,
+   "image/webp": 91,
+   "text/css": 65
+  },
+  "requests": 254
+ },
+ {
+  "url": "https://www.innocentdrinks.co.uk/",
+  "ok": true,
+  "status": 200,
+  "finalUrl": "https://www.innocentdrinks.co.uk/",
+  "title": "home",
+  "bodyBg": null,
+  "bodyColor": "#000000",
+  "bodyFont": "\"InnocentSans Bold\", sans-serif",
+  "heads": [
+   {
+    "tag": "h1",
+    "text": "we're innocent",
+    "fontFamily": "\"InnocentSans Bold\", sans-serif",
+    "fontSize": "64px",
+    "fontWeight": "400",
+    "lineHeight": "64px",
+    "letterSpacing": "normal",
+    "color": "#527525",
+    "textTransform": "none"
+   },
+   {
+    "tag": "h2",
+    "text": "About Cookies",
+    "fontFamily": "\"InnocentSans Bold\", sans-serif",
+    "fontSize": "32px",
+    "fontWeight": "700",
+    "lineHeight": "40px",
+    "letterSpacing": "normal",
+    "color": "#000000",
+    "textTransform": "none"
+   }
+  ],
+  "topBackgrounds": [
+   [
+    "#fffdf1",
+    4028198
+   ],
+   [
+    "#cbe0a6",
+    1541858
+   ],
+   [
+    "#527525",
+    1392480
+   ],
+   [
+    "#000000",
+    1296000
+   ],
+   [
+    "#ffffff",
+    639360
+   ],
+   [
+    "#eeeeee",
+    294276
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#000000",
+    424
+   ],
+   [
+    "#212721",
+    54
+   ],
+   [
+    "#ffffff",
+    52
+   ],
+   [
+    "#0000ee",
+    44
+   ],
+   [
+    "#3d2c17",
+    14
+   ],
+   [
+    "#555555",
+    14
+   ],
+   [
+    "#808080",
+    11
+   ],
+   [
+    "#696969",
+    7
+   ]
+  ],
+  "fontFamilies": [
+   "\"InnocentSans Bold\", sans-serif",
+   "",
+   "\"InnocentSans Light\", sans-serif"
+  ],
+  "videos": 1,
+  "videoSrc": [
+   "https://www.innocentdrinks.co.uk/content/dam/innocent/gb/en/home/homepage-new-vi/homepage_header_webm.webm"
+  ],
+  "canvases": 0,
+  "canvasWebgl": 0,
+  "imgs": 15,
+  "svgs": 32,
+  "bigType": {
+   "px": 38,
+   "vw": 2.64,
+   "text": "a bit about us",
+   "font": "\"InnocentSans Bold\", sans-serif"
+  },
+  "globals": {
+   "gsap": false,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [],
+  "bytesKB": 5813,
+  "byTypeKB": {
+   "video/webm": 5195,
+   "image/png": 210,
+   "application/javascript": 149,
+   "application/x-javascript": 96,
+   "font/otf": 70,
+   "image/webp": 67
+  },
+  "requests": 33
+ },
+ {
+  "url": "https://www.chobani.com/",
+  "ok": true,
+  "status": 200,
+  "finalUrl": "https://www.chobani.com/",
+  "title": "Chobani®",
+  "bodyBg": "#fafafa",
+  "bodyColor": "#000000",
+  "bodyFont": "\"Times New Roman\"",
+  "heads": [
+   {
+    "tag": "h2",
+    "text": "Privacy Preference Center",
+    "fontFamily": "\"Times New Roman\"",
+    "fontSize": "16px",
+    "fontWeight": "700",
+    "lineHeight": "24px",
+    "letterSpacing": "normal",
+    "color": "#f4f3f0",
+    "textTransform": "none"
+   }
+  ],
+  "topBackgrounds": [
+   [
+    "#1a3c34",
+    1868983
+   ],
+   [
+    "#ffffff",
+    1274863
+   ],
+   [
+    "#f4f3f0",
+    17689
+   ],
+   [
+    "#f5f5f5",
+    4240
+   ],
+   [
+    "#eae8e1",
+    4189
+   ],
+   [
+    "#513629",
+    4189
+   ],
+   [
+    "#002b49",
+    4189
+   ],
+   [
+    "#ebebf0",
+    2304
+   ],
+   [
+    "#8d9c98",
+    1306
+   ],
+   [
+    "#1b3a32",
+    4
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#000000",
+    390
+   ],
+   [
+    "#1b3a32",
+    153
+   ],
+   [
+    "#8d9c98",
+    146
+   ],
+   [
+    "#ffffff",
+    100
+   ],
+   [
+    "#eae8e1",
+    82
+   ],
+   [
+    "#f4f3f0",
+    37
+   ],
+   [
+    "#1a3c34",
+    31
+   ],
+   [
+    "#007aff",
+    21
+   ]
+  ],
+  "fontFamilies": [
+   "\"Times New Roman\"",
+   "Arial",
+   "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, \"Helvetica Neue\", Arial, \"Noto Sans\", \"Liberation Sans\", sans-serif",
+   "Chobani-Serif-Regular",
+   "Chobani-Serif-SemiBold",
+   "Chobani-Sans-Regular",
+   "\"Chobani Sans\", sans-serif"
+  ],
+  "videos": 0,
+  "videoSrc": [],
+  "canvases": 0,
+  "canvasWebgl": 0,
+  "imgs": 35,
+  "svgs": 29,
+  "bigType": {
+   "px": 26,
+   "vw": 1.78,
+   "text": "Flavor Drop",
+   "font": "Chobani-Serif-SemiBold"
+  },
+  "globals": {
+   "gsap": false,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [
+   "three",
+   "next"
+  ],
+  "bytesKB": 8155,
+  "byTypeKB": {
+   "image/webp": 7316,
+   "application/javascript": 662,
+   "image/jpeg": 158,
+   "application/json": 16,
+   "text/css": 2,
+   "image/svg+xml": 1
+  },
+  "requests": 200
+ },
+ {
+  "url": "https://www.oddbox.co.uk/",
+  "ok": true,
+  "status": 200,
+  "finalUrl": "https://www.oddbox.co.uk/",
+  "title": "Oddbox | Good Food Doing Good, Delivered to Your Door",
+  "bodyBg": null,
+  "bodyColor": "#2d1c0e",
+  "bodyFont": "\"Azeret SemiMono\", Arial, \"Helvetica Neue\", sans-serif",
+  "heads": [
+   {
+    "tag": "h1",
+    "text": "Good food doing good",
+    "fontFamily": "\"GT Alpina\", \"Times New Roman\", Georgia, serif",
+    "fontSize": "72px",
+    "fontWeight": "500",
+    "lineHeight": "79.2px",
+    "letterSpacing": "normal",
+    "color": "#ffffff",
+    "textTransform": "none"
+   },
+   {
+    "tag": "h2",
+    "text": "Boxes in all shapes and sizes",
+    "fontFamily": "\"GT Alpina\", \"Times New Roman\", Georgia, serif",
+    "fontSize": "48px",
+    "fontWeight": "500",
+    "lineHeight": "52.8px",
+    "letterSpacing": "normal",
+    "color": "#2d1c0e",
+    "textTransform": "none"
+   }
+  ],
+  "topBackgrounds": [
+   [
+    "#fcedde",
+    3377327
+   ],
+   [
+    "#000000",
+    1296000
+   ],
+   [
+    "#f6f6f6",
+    1037925
+   ],
+   [
+    "#2d1c0e",
+    1020470
+   ],
+   [
+    "#f2673d",
+    987744
+   ],
+   [
+    "#ffffff",
+    963088
+   ],
+   [
+    "#382112",
+    869253
+   ],
+   [
+    "#8e9871",
+    544320
+   ],
+   [
+    "#425412",
+    544320
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#2d1c0e",
+    352
+   ],
+   [
+    "#fcedde",
+    114
+   ],
+   [
+    "#ffffff",
+    27
+   ],
+   [
+    "#f2673d",
+    6
+   ],
+   [
+    "#000000",
+    5
+   ]
+  ],
+  "fontFamilies": [
+   "Arial, sans-serif",
+   "\"Azeret SemiMono\", Arial, \"Helvetica Neue\", sans-serif",
+   "\"GT Alpina\", \"Times New Roman\", Georgia, serif",
+   "",
+   "\"GT Alpina\"",
+   "\"Azeret SemiMono\""
+  ],
+  "videos": 1,
+  "videoSrc": [
+   "https://oddbox.cdn.prismic.io/oddbox/aUFqLHNYClf9oRBO_Intro_Video_Compressed.mp4"
+  ],
+  "canvases": 0,
+  "canvasWebgl": 0,
+  "imgs": 43,
+  "svgs": 1,
+  "bigType": {
+   "px": 72,
+   "vw": 5,
+   "text": "Good food doing good",
+   "font": "\"GT Alpina\", \"Times New Roman\", Georgia, serif"
+  },
+  "globals": {
+   "gsap": false,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [],
+  "bytesKB": 8328,
+  "byTypeKB": {
+   "video/mp4": 4077,
+   "image/png": 2537,
+   "application/javascript": 770,
+   "image/avif": 604,
+   "font/woff2": 215,
+   "binary/octet-stream": 31
+  },
+  "requests": 71
+ },
+ {
+  "url": "https://www.glossier.com/",
+  "ok": true,
+  "status": 200,
+  "finalUrl": "https://www.glossier.com/en-nl",
+  "title": "Glossier",
+  "bodyBg": "#ffffff",
+  "bodyColor": "#000000",
+  "bodyFont": "Apercu, \"Gill Sans\", sans-serif",
+  "heads": [
+   {
+    "tag": "h2",
+    "text": "",
+    "fontFamily": "Apercu, \"Gill Sans\", sans-serif",
+    "fontSize": "20px",
+    "fontWeight": "400",
+    "lineHeight": "28px",
+    "letterSpacing": "normal",
+    "color": "#000000",
+    "textTransform": "none"
+   }
+  ],
+  "topBackgrounds": [
+   [
+    "#000000",
+    7644463
+   ],
+   [
+    "#ffffff",
+    2785673
+   ],
+   [
+    "#f7f7f7",
+    2738725
+   ],
+   [
+    "#faf2f4",
+    764910
+   ],
+   [
+    "#e8e8e8",
+    35275
+   ],
+   [
+    "#333333",
+    34695
+   ],
+   [
+    "#f0f0f0",
+    18168
+   ],
+   [
+    "#f6e3e6",
+    11379
+   ],
+   [
+    "#c8102e",
+    2312
+   ],
+   [
+    "#464545",
+    1408
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#000000",
+    1769
+   ],
+   [
+    "#ffffff",
+    146
+   ],
+   [
+    "#333333",
+    35
+   ],
+   [
+    "#666666",
+    34
+   ],
+   [
+    "#555555",
+    12
+   ],
+   [
+    "#0600ff",
+    4
+   ],
+   [
+    "#464545",
+    3
+   ],
+   [
+    "#d30000",
+    2
+   ]
+  ],
+  "fontFamilies": [
+   "arial",
+   "Apercu, \"Gill Sans\", sans-serif",
+   "\"Apercu Mono\", monospace",
+   "",
+   "Apercu, Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+   "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+   "GTStandard-M, sans-serif"
+  ],
+  "videos": 2,
+  "videoSrc": [],
+  "canvases": 0,
+  "canvasWebgl": 0,
+  "imgs": 60,
+  "svgs": 13,
+  "bigType": {
+   "px": 32,
+   "vw": 2.22,
+   "text": "GLOSSIER",
+   "font": "Apercu, \"Gill Sans\", sans-serif"
+  },
+  "globals": {
+   "gsap": false,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [
+   "shopify"
+  ],
+  "bytesKB": 6263,
+  "byTypeKB": {
+   "image/avif": 2458,
+   "text/javascript": 2140,
+   "application/javascript": 1338,
+   "font/woff2": 157,
+   "text/css": 97,
+   "application/json": 46
+  },
+  "requests": 442
+ },
+ {
+  "url": "https://www.typology.com/",
+  "ok": true,
+  "status": 202,
+  "finalUrl": "https://www.typology.com/",
+  "title": "Soins pour la peau naturels, végan et Made in France — Typology",
+  "bodyBg": "#fbf9f7",
+  "bodyColor": "#000000",
+  "bodyFont": "\"Post Grotesk\", system-ui, sans-serif",
+  "heads": [
+   {
+    "tag": "h1",
+    "text": "NOS FORMULES SONT :\nCOURTES,\nCONCENTRÉES,\nFABRIQUÉES EN FRANCE",
+    "fontFamily": "Lettera, Menlo, \"Courier New\", monospace",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "lineHeight": "24px",
+    "letterSpacing": "normal",
+    "color": "#000000",
+    "textTransform": "uppercase"
+   },
+   {
+    "tag": "h2",
+    "text": "DUO REGARD LUMINEUX",
+    "fontFamily": "\"Post Grotesk\", system-ui, sans-serif",
+    "fontSize": "30px",
+    "fontWeight": "500",
+    "lineHeight": "33px",
+    "letterSpacing": "normal",
+    "color": "#ffffff",
+    "textTransform": "uppercase"
+   }
+  ],
+  "topBackgrounds": [
+   [
+    "#ffffff",
+    5106295
+   ],
+   [
+    "#f4f4f2",
+    1666969
+   ],
+   [
+    "#141414",
+    1364101
+   ],
+   [
+    "#000000",
+    17920
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#141414",
+    1417
+   ],
+   [
+    "#000000",
+    746
+   ],
+   [
+    "#ffffff",
+    39
+   ],
+   [
+    "#909090",
+    3
+   ],
+   [
+    "#a30202",
+    1
+   ],
+   [
+    "#4f4f4f",
+    1
+   ]
+  ],
+  "fontFamilies": [
+   "sans-serif",
+   "\"Post Grotesk\"",
+   "\"Post Grotesk\", system-ui, sans-serif",
+   "Lettera, Menlo, \"Courier New\", monospace",
+   ""
+  ],
+  "videos": 3,
+  "videoSrc": [
+   "https://medias.typology.com/https://a.storyblok.com/f/98456/x/c9181183e0/homepage_desktop_eye_contour.mp4?speedsize=,ar_16:9,mxw_1920",
+   "https://medias.typology.com/typolojs-dl-production-typology-com-us-east-1.s3.amazonaws.com/website-medias/videos/hpd26mar.mp4?speedsize=mxw_1920",
+   "https://medias.typology.com/https://a.storyblok.com/f/98456/x/d23a8eaa8a/product_texture_home.mp4?speedsize=mxw_960"
+  ],
+  "canvases": 0,
+  "canvasWebgl": 0,
+  "imgs": 56,
+  "svgs": 17,
+  "bigType": {
+   "px": 30,
+   "vw": 2.08,
+   "text": "DUO REGARD LUMINEUX",
+   "font": "\"Post Grotesk\", system-ui, sans-serif"
+  },
+  "globals": {
+   "gsap": false,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [
+   "swiper",
+   "nuxt"
+  ],
+  "bytesKB": 1178,
+  "byTypeKB": {
+   "video/webm": 773,
+   "application/javascript": 195,
+   "font/woff2": 119,
+   "image/avif": 55,
+   "text/javascript": 16,
+   "": 10
+  },
+  "requests": 225
+ },
+ {
+  "url": "https://www.fentybeauty.com/",
+  "ok": true,
+  "status": 200,
+  "finalUrl": "https://fentybeauty.com/en-nl",
+  "title": "Fenty Beauty by Rihanna | Beauty for All",
+  "bodyBg": "#ffffff",
+  "bodyColor": "#2d2929",
+  "bodyFont": "Brown, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif",
+  "heads": [
+   {
+    "tag": "h1",
+    "text": "FENTY BEAUTY",
+    "fontFamily": "Brown",
+    "fontSize": "80px",
+    "fontWeight": "700",
+    "lineHeight": "70.4px",
+    "letterSpacing": "0.8px",
+    "color": "#2d2929",
+    "textTransform": "none"
+   },
+   {
+    "tag": "h2",
+    "text": "HANDPICKED FOR YOU",
+    "fontFamily": "Brown",
+    "fontSize": "16px",
+    "fontWeight": "700",
+    "lineHeight": "16px",
+    "letterSpacing": "0.16px",
+    "color": "#2d2929",
+    "textTransform": "uppercase"
+   }
+  ],
+  "topBackgrounds": [
+   [
+    "#000000",
+    2696618
+   ],
+   [
+    "#ffffff",
+    2585630
+   ],
+   [
+    "#1f1f1f",
+    159638
+   ],
+   [
+    "#e0beb1",
+    10250
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#2d2929",
+    2282
+   ],
+   [
+    "#ffffff",
+    103
+   ],
+   [
+    "#bd0100",
+    58
+   ],
+   [
+    "#000000",
+    4
+   ],
+   [
+    "#666666",
+    2
+   ],
+   [
+    "#e3e3e3",
+    1
+   ]
+  ],
+  "fontFamilies": [
+   "Brown, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif",
+   "Brown",
+   "Brown, sans-serif",
+   "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+   "",
+   "yotpo-widget-font"
+  ],
+  "videos": 1,
+  "videoSrc": [
+   "https://fentybeauty.com/cdn/shop/videos/c/vp/b7bc9ae354b640c083f4e67862c360ac/b7bc9ae354b640c083f4e67862c360ac.m3u8?v=0"
+  ],
+  "canvases": 0,
+  "canvasWebgl": 0,
+  "imgs": 286,
+  "svgs": 62,
+  "bigType": {
+   "px": 24,
+   "vw": 1.67,
+   "text": "Menu",
+   "font": "Brown"
+  },
+  "globals": {
+   "gsap": false,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [
+   "swiper",
+   "shopify"
+  ],
+  "bytesKB": 11860,
+  "byTypeKB": {
+   "font/woff2": 5163,
+   "text/javascript": 2620,
+   "image/webp": 1959,
+   "application/javascript": 1073,
+   "video/mp2t": 623,
+   "image/jpeg": 222
+  },
+  "requests": 633
+ },
+ {
+  "url": "https://www.rarebeauty.com/",
+  "ok": true,
+  "status": 200,
+  "finalUrl": "https://www.rarebeauty.com/",
+  "title": "Rare Beauty by Selena Gomez | Vegan & Cruelty Free Makeup",
+  "bodyBg": "#fdfbf8",
+  "bodyColor": "#000914",
+  "bodyFont": "\"Neue Hass Unica Regular\"",
+  "heads": [
+   {
+    "tag": "h1",
+    "text": "Rare Beauty",
+    "fontFamily": "\"Ogg Regular\"",
+    "fontSize": "48px",
+    "fontWeight": "400",
+    "lineHeight": "53px",
+    "letterSpacing": "normal",
+    "color": "#000914",
+    "textTransform": "none"
+   },
+   {
+    "tag": "h2",
+    "text": "Try These Best Sellers",
+    "fontFamily": "\"Neue Hass Unica Regular\"",
+    "fontSize": "15px",
+    "fontWeight": "400",
+    "lineHeight": "24px",
+    "letterSpacing": "3px",
+    "color": "#6f0936",
+    "textTransform": "uppercase"
+   }
+  ],
+  "topBackgrounds": [
+   [
+    "#fdfbf8",
+    6600033
+   ],
+   [
+    "#fdf6f0",
+    5682380
+   ],
+   [
+    "#fcfbf7",
+    206000
+   ],
+   [
+    "#ffffff",
+    106880
+   ],
+   [
+    "#6f0936",
+    13212
+   ],
+   [
+    "#edeee9",
+    12628
+   ],
+   [
+    "#7f2549",
+    10776
+   ],
+   [
+    "#802549",
+    3600
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#000914",
+    968
+   ],
+   [
+    "#6f0936",
+    376
+   ],
+   [
+    "#464545",
+    81
+   ],
+   [
+    "#6a6c77",
+    64
+   ],
+   [
+    "#000000",
+    50
+   ],
+   [
+    "#696969",
+    32
+   ],
+   [
+    "#ffffff",
+    26
+   ],
+   [
+    "#fff7e7",
+    20
+   ]
+  ],
+  "fontFamilies": [
+   "\"Neue Hass Unica Regular\"",
+   "\"Ogg Regular\"",
+   "\"Neue Hass Unica Bold\"",
+   "\"Open Sans\"",
+   "yotpo-widget-font",
+   "\"Rare Script\"",
+   "\"Neue Hass Unica Medium\"",
+   "",
+   "GTStandard-M, sans-serif"
+  ],
+  "videos": 0,
+  "videoSrc": [],
+  "canvases": 0,
+  "canvasWebgl": 0,
+  "imgs": 87,
+  "svgs": 14,
+  "bigType": {
+   "px": 56,
+   "vw": 3.89,
+   "text": "Jumbo Brow Harmony Flexible Lifting Gel",
+   "font": "\"Ogg Regular\""
+  },
+  "globals": {
+   "gsap": false,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [
+   "shopify"
+  ],
+  "bytesKB": 4953,
+  "byTypeKB": {
+   "application/javascript": 2977,
+   "text/javascript": 970,
+   "font/woff2": 237,
+   "image/jpeg": 182,
+   "image/webp": 158,
+   "application/x-javascript": 120
+  },
+  "requests": 404
+ },
+ {
+  "url": "https://www.jacquemus.com/",
+  "ok": true,
+  "status": 200,
+  "finalUrl": "https://www.jacquemus.com/nl_nl",
+  "title": "Our website is currently undergoing brief maintenance.",
+  "bodyBg": "#ffffff",
+  "bodyColor": "#000000",
+  "bodyFont": "\"Futura PTT\", \"Helvetica Neue\", Arial, sans-serif",
+  "heads": [],
+  "topBackgrounds": [
+   [
+    "#ffffff",
+    1296000
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#000000",
+    21
+   ]
+  ],
+  "fontFamilies": [
+   "\"Futura PTT\", \"Helvetica Neue\", Arial, sans-serif"
+  ],
+  "videos": 0,
+  "videoSrc": [],
+  "canvases": 0,
+  "canvasWebgl": 0,
+  "imgs": 0,
+  "svgs": 1,
+  "bigType": {
+   "px": 18,
+   "vw": 1.25,
+   "text": "Our website is currently undergoing brief maintenance.",
+   "font": "\"Futura PTT\", \"Helvetica Neue\", Arial, sans-serif"
+  },
+  "globals": {
+   "gsap": false,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [],
+  "bytesKB": 509,
+  "byTypeKB": {
+   "application/javascript": 403,
+   "text/css": 84,
+   "font/woff2": 16,
+   "text/html": 5,
+   "image/webp": 0,
+   "": 0
+  },
+  "requests": 12
+ },
+ {
+  "url": "https://www.marni.com/",
+  "ok": true,
+  "status": 200,
+  "finalUrl": "https://www.marni.com/en-nl/",
+  "title": "Marni | Official Online Store | Netherlands",
+  "bodyBg": null,
+  "bodyColor": "#000000",
+  "bodyFont": "futura-pt, sans-serif",
+  "heads": [
+   {
+    "tag": "h2",
+    "text": "A note on cookies",
+    "fontFamily": "futura-pt, sans-serif",
+    "fontSize": "18px",
+    "fontWeight": "400",
+    "lineHeight": "21.6px",
+    "letterSpacing": "0.09px",
+    "color": "#000000",
+    "textTransform": "none"
+   }
+  ],
+  "topBackgrounds": [
+   [
+    "#000000",
+    6311959
+   ],
+   [
+    "#111111",
+    2272986
+   ],
+   [
+    "#ffffff",
+    1670645
+   ],
+   [
+    "#151b17",
+    1015313
+   ],
+   [
+    "#eae9e7",
+    616883
+   ],
+   [
+    "#2f2f2f",
+    30199
+   ],
+   [
+    "#f4f4f4",
+    19256
+   ],
+   [
+    "#f5f5f5",
+    6832
+   ],
+   [
+    "#ebebf0",
+    2304
+   ],
+   [
+    "#b4b4b4",
+    1536
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#000000",
+    1428
+   ],
+   [
+    "#ffffff",
+    380
+   ],
+   [
+    "#7d7d7d",
+    28
+   ],
+   [
+    "#0d0d0d",
+    20
+   ],
+   [
+    "#b4b4b4",
+    11
+   ],
+   [
+    "#ff0000",
+    8
+   ],
+   [
+    "#007aff",
+    8
+   ],
+   [
+    "#757575",
+    6
+   ]
+  ],
+  "fontFamilies": [
+   "futura-pt, sans-serif",
+   "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, \"Helvetica Neue\", Arial, \"Noto Sans\", \"Liberation Sans\", sans-serif",
+   "Arial, Helvetica, sans-serif",
+   "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+   "VideoJS",
+   "Helvetica, Arial, \"sans serif\""
+  ],
+  "videos": 1,
+  "videoSrc": [
+   "blob:https://www.marni.com/07dab15e-8c7a-4cba-b82d-cd306294df34"
+  ],
+  "canvases": 0,
+  "canvasWebgl": 0,
+  "imgs": 43,
+  "svgs": 0,
+  "bigType": {
+   "px": 49,
+   "vw": 3.4,
+   "text": "Play Video",
+   "font": "Arial, Helvetica, sans-serif"
+  },
+  "globals": {
+   "gsap": false,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [
+   "swiper"
+  ],
+  "bytesKB": 17602,
+  "byTypeKB": {
+   "video/MP2T": 11774,
+   "image/jpeg": 4369,
+   "application/javascript": 1021,
+   "text/javascript": 200,
+   "application/font-woff2": 92,
+   "application/x-mpegURL": 92
+  },
+  "requests": 171
+ },
+ {
+  "url": "https://www.loewe.com/",
+  "ok": true,
+  "status": 200,
+  "finalUrl": "https://www.loewe.com/eur/en/home",
+  "title": "Loewe | Designer Bags, Clothing, Accessories for Women & Men - LOEWE Europe official website",
+  "bodyBg": "#ffffff",
+  "bodyColor": "#000000",
+  "bodyFont": "Avus, \"Yu Gothic\", \"Hiragino Kaku Gothic Pro\", Meiryo, sans-serif",
+  "heads": [
+   {
+    "tag": "h1",
+    "text": "LOEWE",
+    "fontFamily": "Avus, \"Yu Gothic\", \"Hiragino Kaku Gothic Pro\", Meiryo, sans-serif",
+    "fontSize": "28px",
+    "fontWeight": "700",
+    "lineHeight": "normal",
+    "letterSpacing": "normal",
+    "color": "#ffffff",
+    "textTransform": "none"
+   },
+   {
+    "tag": "h2",
+    "text": "Welcome",
+    "fontFamily": "Loewe",
+    "fontSize": "42px",
+    "fontWeight": "400",
+    "lineHeight": "48.3px",
+    "letterSpacing": "-0.63px",
+    "color": "#000000",
+    "textTransform": "none"
+   }
+  ],
+  "topBackgrounds": [
+   [
+    "#ffffff",
+    397440
+   ],
+   [
+    "#f2ca56",
+    69120
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#000000",
+    1025
+   ],
+   [
+    "#ffffff",
+    19
+   ]
+  ],
+  "fontFamilies": [
+   "Avus, \"Yu Gothic\", \"Hiragino Kaku Gothic Pro\", Meiryo, sans-serif",
+   "Avus",
+   "Loewe",
+   "AvusPro, sans-serif",
+   "Arial"
+  ],
+  "videos": 0,
+  "videoSrc": [],
+  "canvases": 0,
+  "canvasWebgl": 0,
+  "imgs": 27,
+  "svgs": 41,
+  "bigType": {
+   "px": 42,
+   "vw": 2.92,
+   "text": "Welcome",
+   "font": "Loewe"
+  },
+  "globals": {
+   "gsap": false,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [],
+  "bytesKB": 2456,
+  "byTypeKB": {
+   "application/javascript": 1294,
+   "image/webp": 510,
+   "image/jpeg": 385,
+   "application/x-font-woff2": 224,
+   "application/json": 38,
+   "image/svg+xml": 3
+  },
+  "requests": 106
+ },
+ {
+  "url": "https://mailchimp.com/",
+  "ok": true,
+  "status": 200,
+  "finalUrl": "https://mailchimp.com/",
+  "title": "Email & SMS Marketing Platform | Mailchimp",
+  "bodyBg": "#ffffff",
+  "bodyColor": "#000000",
+  "bodyFont": "\"Graphik Web\", \"Helvetica Neue\", Helvetica, Arial, Verdana, sans-serif",
+  "heads": [
+   {
+    "tag": "h1",
+    "text": "Email & SMS marketing minus the learning curve",
+    "fontFamily": "\"Means Web\", Georgia, Times, \"Times New Roman\", serif",
+    "fontSize": "64px",
+    "fontWeight": "400",
+    "lineHeight": "76.8px",
+    "letterSpacing": "-1.2px",
+    "color": "#ffffff",
+    "textTransform": "none"
+   },
+   {
+    "tag": "h2",
+    "text": "Most Popular",
+    "fontFamily": "\"Means Web\", Georgia, Times, \"Times New Roman\", serif",
+    "fontSize": "40px",
+    "fontWeight": "400",
+    "lineHeight": "40px",
+    "letterSpacing": "-0.5px",
+    "color": "#231e15",
+    "textTransform": "none"
+   }
+  ],
+  "topBackgrounds": [
+   [
+    "#000000",
+    3502080
+   ],
+   [
+    "#f5f5f5",
+    3036619
+   ],
+   [
+    "#ffffff",
+    2328682
+   ],
+   [
+    "#231e15",
+    1783781
+   ],
+   [
+    "#e7b75f",
+    1498725
+   ],
+   [
+    "#ebe1cd",
+    501120
+   ],
+   [
+    "#f0f4f6",
+    217600
+   ],
+   [
+    "#241c15",
+    120326
+   ],
+   [
+    "#ffe01b",
+    64897
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#000000",
+    1242
+   ],
+   [
+    "#231e15",
+    776
+   ],
+   [
+    "#004e56",
+    258
+   ],
+   [
+    "#403b3b",
+    110
+   ],
+   [
+    "#ffffff",
+    91
+   ],
+   [
+    "#575757",
+    20
+   ],
+   [
+    "#808080",
+    2
+   ],
+   [
+    "#ffe01b",
+    1
+   ]
+  ],
+  "fontFamilies": [
+   "\"Graphik Web\", \"Helvetica Neue\", Helvetica, Arial, Verdana, sans-serif",
+   "\"Means Web\", Georgia, Times, \"Times New Roman\", serif"
+  ],
+  "videos": 0,
+  "videoSrc": [],
+  "canvases": 0,
+  "canvasWebgl": 0,
+  "imgs": 105,
+  "svgs": 62,
+  "bigType": {
+   "px": 64,
+   "vw": 4.44,
+   "text": "minus the learning curve",
+   "font": "\"Means Web\", Georgia, Times, \"Times New Roman\", serif"
+  },
+  "globals": {
+   "gsap": false,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [],
+  "bytesKB": 2481,
+  "byTypeKB": {
+   "application/javascript": 1924,
+   "application/x-www-form-urlencoded": 181,
+   "image/webp": 161,
+   "text/css": 104,
+   "text/javascript": 58,
+   "image/svg+xml": 24
+  },
+  "requests": 161
+ },
+ {
+  "url": "https://stripe.com/",
+  "ok": true,
+  "status": 200,
+  "finalUrl": "https://stripe.com/en-nl",
+  "title": "Stripe | Financial Infrastructure to Grow Your Revenue",
+  "bodyBg": null,
+  "bodyColor": "#000000",
+  "bodyFont": "sohne-var, \"SF Pro Display\", sans-serif",
+  "heads": [
+   {
+    "tag": "h1",
+    "text": "Financial infrastructure to grow your revenue. Accept payments, offer financial services a",
+    "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+    "fontSize": "48px",
+    "fontWeight": "300",
+    "lineHeight": "55.2px",
+    "letterSpacing": "-0.96px",
+    "color": "#81b81a",
+    "textTransform": "none"
+   },
+   {
+    "tag": "h2",
+    "text": "Flexible solutions for every business model.",
+    "fontFamily": "sohne-var, \"SF Pro Display\", sans-serif",
+    "fontSize": "32px",
+    "fontWeight": "300",
+    "lineHeight": "35.2px",
+    "letterSpacing": "-0.64px",
+    "color": "#061b31",
+    "textTransform": "none"
+   }
+  ],
+  "topBackgrounds": [
+   [
+    "#ffffff",
+    18912894
+   ],
+   [
+    "#e5edf5",
+    3662060
+   ],
+   [
+    "#0d1738",
+    3371558
+   ],
+   [
+    "#f8fafd",
+    1855329
+   ],
+   [
+    "#f2f7fe",
+    294840
+   ],
+   [
+    "#533afd",
+    57409
+   ],
+   [
+    "#e3ecf7",
+    18660
+   ],
+   [
+    "#ffe0d1",
+    10993
+   ],
+   [
+    "#e2e4ff",
+    4800
+   ],
+   [
+    "#e8e9ff",
+    4800
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#000000",
+    1115
+   ],
+   [
+    "#533afd",
+    787
+   ],
+   [
+    "#061b31",
+    147
+   ],
+   [
+    "#ffffff",
+    117
+   ],
+   [
+    "#64748d",
+    86
+   ],
+   [
+    "#50617a",
+    82
+   ],
+   [
+    "#0000ee",
+    46
+   ],
+   [
+    "#7389ff",
+    33
+   ]
+  ],
+  "fontFamilies": [
+   "sohne-var, \"SF Pro Display\", sans-serif"
+  ],
+  "videos": 0,
+  "videoSrc": [],
+  "canvases": 1,
+  "canvasWebgl": 1,
+  "imgs": 40,
+  "svgs": 187,
+  "bigType": {
+   "px": 48,
+   "vw": 3.33,
+   "text": "Financial infrastructure to grow your revenue.",
+   "font": "sohne-var, \"SF Pro Display\", sans-serif"
+  },
+  "globals": {
+   "gsap": false,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [
+   "next"
+  ],
+  "bytesKB": 1959,
+  "byTypeKB": {
+   "text/javascript": 1200,
+   "application/javascript": 364,
+   "image/webp": 191,
+   "image/png": 71,
+   "font/woff2": 69,
+   "text/css": 62
+  },
+  "requests": 128
+ },
+ {
+  "url": "https://www.figma.com/",
+  "ok": true,
+  "status": 200,
+  "finalUrl": "https://www.figma.com/",
+  "title": "Figma: The collaborative canvas for design, code, and AI",
+  "bodyBg": null,
+  "bodyColor": "#000000",
+  "bodyFont": "figmaSans, \"figmaSans Fallback\", \"SF Pro Display\", system-ui, helvetica, sans-serif",
+  "heads": [
+   {
+    "tag": "h1",
+    "text": "The full-stack creative canvas",
+    "fontFamily": "figmaSans, \"figmaSans Fallback\", \"SF Pro Display\", system-ui, helvetica, sans-serif",
+    "fontSize": "56px",
+    "fontWeight": "400",
+    "lineHeight": "56px",
+    "letterSpacing": "-1.25px",
+    "color": "#000000",
+    "textTransform": "none"
+   },
+   {
+    "tag": "h2",
+    "text": "What you can do in figma",
+    "fontFamily": "figmaMono, \"figmaMono Fallback\", \"SF Mono\", menlo, monospace",
+    "fontSize": "14px",
+    "fontWeight": "400",
+    "lineHeight": "18.2px",
+    "letterSpacing": "0.5px",
+    "color": null,
+    "textTransform": "uppercase"
+   }
+  ],
+  "topBackgrounds": [
+   [
+    "#ffffff",
+    24252494
+   ],
+   [
+    "#000000",
+    2099245
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#000000",
+    917
+   ],
+   [
+    "#ffffff",
+    350
+   ],
+   [
+    "#808080",
+    1
+   ]
+  ],
+  "fontFamilies": [
+   "figmaSans, \"figmaSans Fallback\", \"SF Pro Display\", system-ui, helvetica, sans-serif",
+   "figmaMono, \"figmaMono Fallback\", \"SF Mono\", menlo, monospace"
+  ],
+  "videos": 0,
+  "videoSrc": [],
+  "canvases": 0,
+  "canvasWebgl": 0,
+  "imgs": 88,
+  "svgs": 66,
+  "bigType": {
+   "px": 56,
+   "vw": 3.89,
+   "text": "The full-stack creative canvas",
+   "font": "figmaSans, \"figmaSans Fallback\", \"SF Pro Display\", system-ui, helvetica, sans-serif"
+  },
+  "globals": {
+   "gsap": false,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [
+   "next"
+  ],
+  "bytesKB": 8032,
+  "byTypeKB": {
+   "application/javascript": 4041,
+   "video/mp4": 2490,
+   "text/javascript": 601,
+   "image/avif": 314,
+   "font/woff2": 308,
+   "text/css": 239
+  },
+  "requests": 210
+ },
+ {
+  "url": "https://www.lemonade.com/",
+  "ok": true,
+  "status": 200,
+  "finalUrl": "https://www.lemonade.com/",
+  "title": "Lemonade: An Insurance Company Built for the 21st Century",
+  "bodyBg": "#ffffff",
+  "bodyColor": "#4a4a4a",
+  "bodyFont": "\"Times New Roman\"",
+  "heads": [
+   {
+    "tag": "h1",
+    "text": "Forget everything you\nknow about insurance",
+    "fontFamily": "Merriweather, Georgia, serif",
+    "fontSize": "55px",
+    "fontWeight": "400",
+    "lineHeight": "71.5px",
+    "letterSpacing": "normal",
+    "color": "#4a4a4a",
+    "textTransform": "none"
+   },
+   {
+    "tag": "h2",
+    "text": "Incredible Prices. Pay Monthly.\n Bundle Discounts.",
+    "fontFamily": "Lato, \"Helvetica Neue\", Arial, sans-serif",
+    "fontSize": "44px",
+    "fontWeight": "700",
+    "lineHeight": "56px",
+    "letterSpacing": "normal",
+    "color": "#4a4a4a",
+    "textTransform": "none"
+   }
+  ],
+  "topBackgrounds": [
+   [
+    "#f7f7f7",
+    4861845
+   ],
+   [
+    "#ffffff",
+    3834795
+   ],
+   [
+    "#161616",
+    1932960
+   ],
+   [
+    "#000000",
+    1296000
+   ],
+   [
+    "#4a4a4a",
+    93000
+   ],
+   [
+    "#ff0083",
+    69961
+   ],
+   [
+    "#7b7b7b",
+    20280
+   ],
+   [
+    "#b7b7b7",
+    16
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#4a4a4a",
+    1320
+   ],
+   [
+    "#b7b7b7",
+    201
+   ],
+   [
+    "#ffffff",
+    54
+   ],
+   [
+    "#ff0083",
+    44
+   ],
+   [
+    "#000000",
+    19
+   ],
+   [
+    "#9b9b9b",
+    5
+   ],
+   [
+    "#7b7b7b",
+    3
+   ],
+   [
+    "#545454",
+    1
+   ]
+  ],
+  "fontFamilies": [
+   "\"Times New Roman\"",
+   "Arial",
+   "Lato, \"Helvetica Neue\", Arial, sans-serif",
+   "Merriweather, Georgia, serif"
+  ],
+  "videos": 0,
+  "videoSrc": [],
+  "canvases": 0,
+  "canvasWebgl": 0,
+  "imgs": 55,
+  "svgs": 17,
+  "bigType": {
+   "px": 55,
+   "vw": 3.82,
+   "text": "Forget everything you\nknow about insurance",
+   "font": "Merriweather, Georgia, serif"
+  },
+  "globals": {
+   "gsap": false,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [
+   "next"
+  ],
+  "bytesKB": 574,
+  "byTypeKB": {
+   "application/javascript": 459,
+   "image/png": 58,
+   "font/woff2": 26,
+   "binary/octet-stream": 14,
+   "image/avif": 13,
+   "image/svg+xml": 4
+  },
+  "requests": 79
+ },
+ {
+  "url": "https://www.pentagram.com/",
+  "ok": true,
+  "status": 200,
+  "finalUrl": "https://www.pentagram.com/",
+  "title": "Pentagram — The world’s largest independent design consultancy",
+  "bodyBg": "#ffffff",
+  "bodyColor": "#1a1a1a",
+  "bodyFont": "Plain, Arial, sans-serif",
+  "heads": [
+   {
+    "tag": "h1",
+    "text": "Pentagram",
+    "fontFamily": "Plain, Arial, sans-serif",
+    "fontSize": "19px",
+    "fontWeight": "500",
+    "lineHeight": "25px",
+    "letterSpacing": "normal",
+    "color": "#1a1a1a",
+    "textTransform": "none"
+   },
+   {
+    "tag": "h2",
+    "text": "Site navigation",
+    "fontFamily": "Plain, Arial, sans-serif",
+    "fontSize": "16px",
+    "fontWeight": "500",
+    "lineHeight": "20px",
+    "letterSpacing": "normal",
+    "color": "#1a1a1a",
+    "textTransform": "none"
+   }
+  ],
+  "topBackgrounds": [
+   [
+    "#ffffff",
+    37102921
+   ],
+   [
+    "#e3e4e5",
+    11960190
+   ],
+   [
+    "#222222",
+    7394018
+   ],
+   [
+    "#1a1a1a",
+    7207841
+   ],
+   [
+    "#000000",
+    6785524
+   ],
+   [
+    "#282828",
+    765440
+   ],
+   [
+    "#e8e8e8",
+    50338
+   ],
+   [
+    "#767676",
+    2160
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#1a1a1a",
+    1791
+   ],
+   [
+    "#ffffff",
+    368
+   ],
+   [
+    "#767676",
+    257
+   ],
+   [
+    "#000000",
+    47
+   ],
+   [
+    "#8c8c8c",
+    16
+   ],
+   [
+    "#212121",
+    2
+   ]
+  ],
+  "fontFamilies": [
+   "Plain, Arial, sans-serif",
+   ""
+  ],
+  "videos": 22,
+  "videoSrc": [
+   "https://pentagram-production.imgix.net/59a73367-b262-45d8-a664-36061bbba7a4/03_snl50_logo_cycle-2-ezgif.com-resize.gif?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C1280%2C720&w=1200&fm=mp4&h=675&s=b21bdfb6dd56d7ceee27433c9b26dab8",
+   "https://pentagram-production.imgix.net/952e1988-1dcb-46c4-9e8c-044c027f4c81/ROTATION_WideScreen.gif?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C640%2C360&w=1200&fm=mp4&h=675&s=25e5e9bdf8f012f7d21e88da13a48ec8",
+   "https://pentagram-production.imgix.net/7fcc6c74-a879-40a9-8851-9cc06fb86390/03_SNL48_LogoMoves_1.gif?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C1280%2C720&w=1200&fm=mp4&h=675&s=c8225c8beaebab559277326d71ef93eb",
+   "https://pentagram-production.imgix.net/315a60bf-4134-44da-9d55-500fbabe1d3b/EMO_SNL2020_3.gif?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=0%2C0%2C1280%2C720&w=1200&fm=mp4&h=675&s=0611be99566d55c4bb8cf227d1b0a0d9"
+  ],
+  "canvases": 0,
+  "canvasWebgl": 0,
+  "imgs": 188,
+  "svgs": 128,
+  "bigType": {
+   "px": 52,
+   "vw": 3.61,
+   "text": "The Secret Life of Things",
+   "font": "Plain, Arial, sans-serif"
+  },
+  "globals": {
+   "gsap": true,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [],
+  "bytesKB": 19361,
+  "byTypeKB": {
+   "image/avif": 9831,
+   "video/mp4": 9328,
+   "application/javascript": 123,
+   "font/woff2": 77,
+   "application/x-javascript": 1,
+   "application/json": 0
+  },
+  "requests": 308
+ },
+ {
+  "url": "https://koto.studio/",
+  "ok": true,
+  "status": 200,
+  "finalUrl": "https://koto.com/",
+  "title": "Koto, an international creative agency building impactful brands",
+  "bodyBg": "#060606",
+  "bodyColor": "#ffffff",
+  "bodyFont": "gtKotoheim, \"gtKotoheim Fallback\", sans-serif",
+  "heads": [
+   {
+    "tag": "h1",
+    "text": "We’re Koto",
+    "fontFamily": "gtKotoheimCondensed, \"gtKotoheimCondensed Fallback\", sans-serif",
+    "fontSize": "48px",
+    "fontWeight": "300",
+    "lineHeight": "48px",
+    "letterSpacing": "-0.48px",
+    "color": "#ffffff",
+    "textTransform": "none"
+   },
+   {
+    "tag": "h2",
+    "text": "CHANNELS",
+    "fontFamily": "gtKotoheimMono, \"gtKotoheimMono Fallback\", sans-serif",
+    "fontSize": "9px",
+    "fontWeight": "400",
+    "lineHeight": "9px",
+    "letterSpacing": "-0.18px",
+    "color": "#989898",
+    "textTransform": "uppercase"
+   }
+  ],
+  "topBackgrounds": [
+   [
+    "#060606",
+    1296000
+   ],
+   [
+    "#141414",
+    888995
+   ],
+   [
+    "#202020",
+    34699
+   ],
+   [
+    "#989898",
+    1633
+   ],
+   [
+    "#2d2d2d",
+    1049
+   ],
+   [
+    "#595959",
+    126
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#ffffff",
+    1395
+   ],
+   [
+    "#989898",
+    594
+   ],
+   [
+    "#595959",
+    30
+   ],
+   [
+    "#cccccc",
+    7
+   ]
+  ],
+  "fontFamilies": [
+   "sans-serif",
+   "gtKotoheim, \"gtKotoheim Fallback\", sans-serif",
+   "gtKotoheimMono, \"gtKotoheimMono Fallback\", sans-serif",
+   "gtKotoheimCondensed, \"gtKotoheimCondensed Fallback\", sans-serif"
+  ],
+  "videos": 15,
+  "videoSrc": [
+   "https://player.vimeo.com/progressive_redirect/playback/1219761859/rendition/1080p/file.mp4%20%281080p%29.mp4?loc=external&oauth2_token_id=1802065475&signature=1601c873c9028a2f194db7f90dc8f6bc1c4cd3dec18c960ec498f93b0684c712",
+   "https://player.vimeo.com/progressive_redirect/playback/1219761859/rendition/1080p/file.mp4%20%281080p%29.mp4?loc=external&oauth2_token_id=1802065475&signature=1601c873c9028a2f194db7f90dc8f6bc1c4cd3dec18c960ec498f93b0684c712",
+   "https://player.vimeo.com/progressive_redirect/playback/1079147867/rendition/1080p/file.mp4%20%281080p%29.mp4?loc=external&oauth2_token_id=1802065475&signature=cbc197468b0611ca6708e29c570510b7e6d39ac28971e8b41c78007be6d3ed9c",
+   "https://player.vimeo.com/progressive_redirect/playback/1079147867/rendition/1080p/file.mp4%20%281080p%29.mp4?loc=external&oauth2_token_id=1802065475&signature=cbc197468b0611ca6708e29c570510b7e6d39ac28971e8b41c78007be6d3ed9c"
+  ],
+  "canvases": 0,
+  "canvasWebgl": 0,
+  "imgs": 75,
+  "svgs": 61,
+  "bigType": {
+   "px": 48,
+   "vw": 3.33,
+   "text": "We’re Koto",
+   "font": "gtKotoheimCondensed, \"gtKotoheimCondensed Fallback\", sans-serif"
+  },
+  "globals": {
+   "gsap": false,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [
+   "next"
+  ],
+  "bytesKB": 35795,
+  "byTypeKB": {
+   "video/mp4": 32816,
+   "image/avif": 1393,
+   "application/javascript": 804,
+   "text/javascript": 601,
+   "application/x-javascript": 105,
+   "font/woff2": 50
+  },
+  "requests": 210
+ },
+ {
+  "url": "https://dixonbaxi.com/",
+  "ok": true,
+  "status": 200,
+  "finalUrl": "https://www.dixonbaxi.com/",
+  "title": "DixonBaxi",
+  "bodyBg": "#f6f6f6",
+  "bodyColor": "#424242",
+  "bodyFont": "\"Aeonik Fono\", sans-serif",
+  "heads": [
+   {
+    "tag": "h1",
+    "text": "Ask us anything.",
+    "fontFamily": "\"Aeonik Fono\", sans-serif",
+    "fontSize": "80px",
+    "fontWeight": "400",
+    "lineHeight": "96px",
+    "letterSpacing": "-0.8px",
+    "color": "#fdfcf8",
+    "textTransform": "none"
+   }
+  ],
+  "topBackgrounds": [
+   [
+    "#f0f0f0",
+    14158755
+   ],
+   [
+    "#fdfcf8",
+    1300833
+   ],
+   [
+    "#ffffff",
+    544568
+   ],
+   [
+    "#15ff00",
+    544568
+   ],
+   [
+    "#000000",
+    108576
+   ],
+   [
+    "#cccccc",
+    58293
+   ],
+   [
+    "#00ff63",
+    37940
+   ],
+   [
+    "#ffff00",
+    11257
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#424242",
+    729
+   ],
+   [
+    "#000000",
+    124
+   ],
+   [
+    "#fdfcf8",
+    19
+   ],
+   [
+    "#cccccc",
+    7
+   ],
+   [
+    "#c3c3c3",
+    7
+   ],
+   [
+    "#ffffff",
+    2
+   ],
+   [
+    "#101010",
+    1
+   ]
+  ],
+  "fontFamilies": [
+   "\"Aeonik Fono\", sans-serif",
+   "Iskry, Georgia, \"Times New Roman\", serif",
+   "Arial",
+   "\"Courier New\", monospace",
+   "\"Aeonik Fono\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+   "\"Aeonik Fono\", monospace"
+  ],
+  "videos": 0,
+  "videoSrc": [],
+  "canvases": 0,
+  "canvasWebgl": 0,
+  "imgs": 135,
+  "svgs": 4,
+  "bigType": {
+   "px": 80,
+   "vw": 5.56,
+   "text": "Ask us anything.",
+   "font": "\"Aeonik Fono\", sans-serif"
+  },
+  "globals": {
+   "gsap": false,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [
+   "next"
+  ],
+  "bytesKB": 737,
+  "byTypeKB": {
+   "image/avif": 322,
+   "image/webp": 226,
+   "font/woff2": 181,
+   "image/png": 7,
+   "text/x-component": 1,
+   "text/html": 0
+  },
+  "requests": 90
+ },
+ {
+  "url": "https://buildinamsterdam.com/",
+  "ok": true,
+  "status": 200,
+  "finalUrl": "https://www.buildinamsterdam.com/",
+  "title": "Build in Amsterdam",
+  "bodyBg": "#ffffff",
+  "bodyColor": "#000000",
+  "bodyFont": "NeueHaasGrotesk-Roman, Helvetica, Arial, sans-serif",
+  "heads": [
+   {
+    "tag": "h2",
+    "text": "WE BUILDBRANDS &DIGITALFLAGSHIPSTORES",
+    "fontFamily": "NHaasGroteskDSPro, Helvetica, Arial, sans-serif",
+    "fontSize": "86.4px",
+    "fontWeight": "400",
+    "lineHeight": "73.44px",
+    "letterSpacing": "-3.456px",
+    "color": "#000000",
+    "textTransform": "uppercase"
+   }
+  ],
+  "topBackgrounds": [
+   [
+    "#000000",
+    1947200
+   ],
+   [
+    "#ffffff",
+    1944000
+   ],
+   [
+    "#f2efe6",
+    485533
+   ],
+   [
+    "#c38133",
+    552
+   ],
+   [
+    "#3c4cc7",
+    92
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#000000",
+    204
+   ],
+   [
+    "#ffffff",
+    87
+   ]
+  ],
+  "fontFamilies": [
+   "NeueHaasGrotesk-Roman, Helvetica, Arial, sans-serif",
+   "NHaasGroteskTXPro, Helvetica, Arial, sans-serif",
+   "NHaasGroteskDSPro, Helvetica, Arial, sans-serif",
+   "RecklessNeue-Book, Helvetica, Arial, sans-serif",
+   ""
+  ],
+  "videos": 1,
+  "videoSrc": [
+   "https://stream.mux.com/00sLHcaqvlYdkqwiPNeWeO00BIMzlwcn00011TSMs18vtqQ.m3u8?min_resolution=1080p"
+  ],
+  "canvases": 0,
+  "canvasWebgl": 0,
+  "imgs": 30,
+  "svgs": 4,
+  "bigType": {
+   "px": 86,
+   "vw": 6,
+   "text": "WE BUILD",
+   "font": "NHaasGroteskDSPro, Helvetica, Arial, sans-serif"
+  },
+  "globals": {
+   "gsap": false,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [
+   "next"
+  ],
+  "bytesKB": 3132,
+  "byTypeKB": {
+   "video/MP2T": 2673,
+   "application/javascript": 308,
+   "font/woff2": 95,
+   "image/webp": 49,
+   "application/vnd.apple.mpegurl": 4,
+   "text/css": 1
+  },
+  "requests": 63
+ },
+ {
+  "url": "https://hellomonday.com/",
+  "ok": true,
+  "status": 200,
+  "finalUrl": "https://hellomonday.com/",
+  "title": "Hello Monday",
+  "bodyBg": "#ffffff",
+  "bodyColor": "#000000",
+  "bodyFont": "nb_internationalproregular, Georgia, \"Times New Roman\", Times, serif",
+  "heads": [
+   {
+    "tag": "h1",
+    "text": "Branding",
+    "fontFamily": "ClarendonBTWXX-Light",
+    "fontSize": "80px",
+    "fontWeight": "300",
+    "lineHeight": "64px",
+    "letterSpacing": "normal",
+    "color": "#000000",
+    "textTransform": "none"
+   }
+  ],
+  "topBackgrounds": [
+   [
+    "#ffffff",
+    24670845
+   ],
+   [
+    "#f8f6f5",
+    6212783
+   ],
+   [
+    "#191919",
+    1503621
+   ],
+   [
+    "#db7093",
+    819281
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#000000",
+    714
+   ],
+   [
+    "#c6c5c5",
+    86
+   ],
+   [
+    "#ffffff",
+    21
+   ],
+   [
+    "#2c2d2e",
+    4
+   ]
+  ],
+  "fontFamilies": [
+   "nb_internationalproregular, Georgia, \"Times New Roman\", Times, serif",
+   "ClarendonBTWXX-Light",
+   "nb_internationalproregular",
+   "nb_internationalprolight"
+  ],
+  "videos": 2,
+  "videoSrc": [
+   "https://hellomonday.com/assets/video/animations/hm-hero-desktop-non-retina.mp4",
+   "https://videos.ctfassets.net/9uhkiji6mhey/4OVP1nwGH2c9BT5xbGeDr0/b5dcaf7807d8d76081477a652dcf0cd3/Stabilized_2.mp4"
+  ],
+  "canvases": 2,
+  "canvasWebgl": 1,
+  "imgs": 8,
+  "svgs": 16,
+  "bigType": {
+   "px": 80,
+   "vw": 5.56,
+   "text": "Branding",
+   "font": "ClarendonBTWXX-Light"
+  },
+  "globals": {
+   "gsap": false,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [],
+  "bytesKB": 20906,
+  "byTypeKB": {
+   "video/mp4": 19840,
+   "image/jpeg": 720,
+   "image/png": 115,
+   "font/woff2": 108,
+   "text/javascript": 83,
+   "text/css": 26
+  },
+  "requests": 46
+ },
+ {
+  "url": "https://www.obys.agency/",
+  "ok": true,
+  "status": 200,
+  "finalUrl": "https://obys.agency/",
+  "title": "Obys Agency",
+  "bodyBg": "#ffffff",
+  "bodyColor": "#000000",
+  "bodyFont": "Obys, serif",
+  "heads": [],
+  "topBackgrounds": [
+   [
+    "#000000",
+    1299600
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#000000",
+    1495
+   ],
+   [
+    "#ffffff",
+    26
+   ],
+   [
+    "#c9c9c9",
+    3
+   ]
+  ],
+  "fontFamilies": [
+   "Obys, serif"
+  ],
+  "videos": 0,
+  "videoSrc": [],
+  "canvases": 1,
+  "canvasWebgl": 1,
+  "imgs": 38,
+  "svgs": 2,
+  "bigType": {
+   "px": 11,
+   "vw": 0.76,
+   "text": "Makhno",
+   "font": "Obys, serif"
+  },
+  "globals": {
+   "gsap": false,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [],
+  "bytesKB": 1555,
+  "byTypeKB": {
+   "image/webp": 1308,
+   "application/javascript": 174,
+   "text/javascript": 37,
+   "image/x-icon": 15,
+   "application/json": 13,
+   "application/octet-stream": 6
+  },
+  "requests": 29
+ },
+ {
+  "url": "https://locomotive.ca/",
+  "ok": true,
+  "status": 200,
+  "finalUrl": "https://locomotive.ca/",
+  "title": "One moment, please...",
+  "bodyBg": null,
+  "bodyColor": "#000000",
+  "bodyFont": "\"Times New Roman\"",
+  "heads": [],
+  "topBackgrounds": [],
+  "topTextColors": [
+   [
+    "#000000",
+    26
+   ],
+   [
+    "#267a48",
+    1
+   ]
+  ],
+  "fontFamilies": [
+   "\"Times New Roman\"",
+   "Montserrat, sans-serif"
+  ],
+  "videos": 0,
+  "videoSrc": [],
+  "canvases": 0,
+  "canvasWebgl": 0,
+  "imgs": 0,
+  "svgs": 1,
+  "bigType": {
+   "px": 48,
+   "vw": 3.33,
+   "text": "Please wait while your request is being verified...",
+   "font": "Montserrat, sans-serif"
+  },
+  "globals": {
+   "gsap": false,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [],
+  "bytesKB": 0,
+  "byTypeKB": {
+   "text/html": 0,
+   "": 0,
+   "application/javascript": 0,
+   "text/plain": 0
+  },
+  "requests": 6
+ },
+ {
+  "url": "https://lusion.co/",
+  "ok": true,
+  "status": 200,
+  "finalUrl": "https://lusion.co/",
+  "title": "Lusion - Award Winning 3D and Interactive Web Studio",
+  "bodyBg": "#ffffff",
+  "bodyColor": "#f0f1fa",
+  "bodyFont": "Aeonik",
+  "heads": [
+   {
+    "tag": "h1",
+    "text": "We create 3D visual storytelling\nand interactive web experiences\nthat help brands stand ou",
+    "fontFamily": "Aeonik",
+    "fontSize": "36px",
+    "fontWeight": "400",
+    "lineHeight": "39.6px",
+    "letterSpacing": "normal",
+    "color": "#000000",
+    "textTransform": "none"
+   },
+   {
+    "tag": "h2",
+    "text": "We combine design, motion, 3D, and development to create digital experiences that feel vis",
+    "fontFamily": "Aeonik",
+    "fontSize": "21.6px",
+    "fontWeight": "400",
+    "lineHeight": "30.24px",
+    "letterSpacing": "normal",
+    "color": "#000000",
+    "textTransform": "none"
+   }
+  ],
+  "topBackgrounds": [
+   [
+    "#ffffff",
+    1509000
+   ],
+   [
+    "#121416",
+    450855
+   ],
+   [
+    "#0016ec",
+    66749
+   ],
+   [
+    "#f0f1fa",
+    52233
+   ],
+   [
+    "#000000",
+    46033
+   ],
+   [
+    "#2b2e3a",
+    6008
+   ],
+   [
+    "#e4e6ef",
+    4587
+   ],
+   [
+    "#34393f",
+    584
+   ],
+   [
+    "#c1ff00",
+    292
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#000000",
+    1334
+   ],
+   [
+    "#ffffff",
+    85
+   ],
+   [
+    "#f0f1fa",
+    22
+   ],
+   [
+    "#1a2ffb",
+    6
+   ]
+  ],
+  "fontFamilies": [
+   "Aeonik",
+   "\"Helvetica, Arial, FreeSans, Garuda, sans-serif\", Helvetica, Arial, FreeSans, Garuda, sans-serif"
+  ],
+  "videos": 0,
+  "videoSrc": [],
+  "canvases": 3,
+  "canvasWebgl": 1,
+  "imgs": 0,
+  "svgs": 41,
+  "bigType": {
+   "px": 115,
+   "vw": 8,
+   "text": "1",
+   "font": "Aeonik"
+  },
+  "globals": {
+   "gsap": false,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [],
+  "bytesKB": 16638,
+  "byTypeKB": {
+   "image/webp": 5221,
+   "video/mp4": 4896,
+   "application/octet-stream": 2041,
+   "audio/ogg": 1271,
+   "application/javascript": 936,
+   "image/png": 627
+  },
+  "requests": 120
+ },
+ {
+  "url": "https://igloo.inc/",
+  "ok": true,
+  "status": 200,
+  "finalUrl": "https://www.igloo.inc/",
+  "title": "Igloo Inc.",
+  "bodyBg": "#a0a5b1",
+  "bodyColor": "#000000",
+  "bodyFont": "\"Times New Roman\"",
+  "heads": [],
+  "topBackgrounds": [],
+  "topTextColors": [
+   [
+    "#000000",
+    4
+   ]
+  ],
+  "fontFamilies": [
+   "\"Times New Roman\""
+  ],
+  "videos": 0,
+  "videoSrc": [],
+  "canvases": 0,
+  "canvasWebgl": 0,
+  "imgs": 0,
+  "svgs": 0,
+  "bigType": {
+   "px": 0,
+   "vw": 0,
+   "text": "",
+   "font": ""
+  },
+  "globals": {
+   "gsap": false,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [],
+  "bytesKB": 15691,
+  "byTypeKB": {
+   "image/ktx2": 12403,
+   "audio/ogg": 2871,
+   "image/aces": 253,
+   "": 130,
+   "image/png": 33,
+   "application/octet-stream": 1
+  },
+  "requests": 108
+ },
+ {
+  "url": "https://tympanus.net/codrops/",
+  "ok": true,
+  "status": 200,
+  "finalUrl": "https://tympanus.net/codrops/",
+  "title": "Codrops | Fueling web creativity since 2009",
+  "bodyBg": "#f7f7f7",
+  "bodyColor": "#26272e",
+  "bodyFont": "InterVariable, sans-serif",
+  "heads": [
+   {
+    "tag": "h1",
+    "text": "",
+    "fontFamily": "InterVariable, sans-serif",
+    "fontSize": "32px",
+    "fontWeight": "600",
+    "lineHeight": "32px",
+    "letterSpacing": "-0.8px",
+    "color": "#26272e",
+    "textTransform": "none"
+   },
+   {
+    "tag": "h2",
+    "text": "I Like to Play: Michael Vestergaard’s Path from Flash Experiments to Interactive Installat",
+    "fontFamily": "InterVariable, sans-serif",
+    "fontSize": "18.4px",
+    "fontWeight": "600",
+    "lineHeight": "23.92px",
+    "letterSpacing": "-0.46px",
+    "color": "#26272e",
+    "textTransform": "none"
+   }
+  ],
+  "topBackgrounds": [
+   [
+    "#e8e8e8",
+    724253
+   ],
+   [
+    "#0e121d",
+    86884
+   ],
+   [
+    "#000000",
+    12012
+   ]
+  ],
+  "topTextColors": [
+   [
+    "#26272e",
+    156
+   ],
+   [
+    "#000000",
+    85
+   ],
+   [
+    "#ffffff",
+    59
+   ],
+   [
+    "#fefefe",
+    26
+   ],
+   [
+    "#858585",
+    7
+   ],
+   [
+    "#d3d3d3",
+    2
+   ]
+  ],
+  "fontFamilies": [
+   "InterVariable, sans-serif",
+   "Arial",
+   "AlphaLyrae, sans-serif"
+  ],
+  "videos": 0,
+  "videoSrc": [],
+  "canvases": 0,
+  "canvasWebgl": 0,
+  "imgs": 28,
+  "svgs": 4,
+  "bigType": {
+   "px": 25,
+   "vw": 1.74,
+   "text": "C",
+   "font": "AlphaLyrae, sans-serif"
+  },
+  "globals": {
+   "gsap": false,
+   "THREE": false,
+   "Lenis": false,
+   "Locomotive": false,
+   "barba": false
+  },
+  "libs": [
+   "wordpress"
+  ],
+  "bytesKB": 1559,
+  "byTypeKB": {
+   "image/png": 594,
+   "image/jpeg": 366,
+   "image/webp": 244,
+   "image/gif": 229,
+   "application/x-javascript": 68,
+   "text/css": 33
+  },
+  "requests": 77
+ }
+]

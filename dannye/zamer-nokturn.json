@@ -1,0 +1,458 @@
+[
+ {
+  "fayl": "stalo-top-desktop.png",
+  "colorfulness": 23.5,
+  "verdikt": "чуть красочно",
+  "L_sredn": 25.4,
+  "S_sredn": 0.45,
+  "nasyshchennye_%": 68.3,
+  "yarkiy_cvet_%": 1.9,
+  "polunasyshch_%": 16.5,
+  "neytralnye_%": 15.1,
+  "temnye_V<0.25_%": 57.1,
+  "svetlye_V>0.85_%": 7.6,
+  "dominanty": [
+   {
+    "hex": "#0e0806",
+    "dolya_%": 19.3,
+    "S": 0.57,
+    "V": 0.05,
+    "H": 15
+   },
+   {
+    "hex": "#2c1d12",
+    "dolya_%": 14.2,
+    "S": 0.59,
+    "V": 0.17,
+    "H": 25
+   },
+   {
+    "hex": "#573f2a",
+    "dolya_%": 13.8,
+    "S": 0.52,
+    "V": 0.34,
+    "H": 28
+   },
+   {
+    "hex": "#806954",
+    "dolya_%": 13.0,
+    "S": 0.34,
+    "V": 0.5,
+    "H": 29
+   },
+   {
+    "hex": "#3b3128",
+    "dolya_%": 11.4,
+    "S": 0.32,
+    "V": 0.23,
+    "H": 28
+   },
+   {
+    "hex": "#d7ccbe",
+    "dolya_%": 10.9,
+    "S": 0.12,
+    "V": 0.84,
+    "H": 34
+   }
+  ]
+ },
+ {
+  "fayl": "stalo-bloom-desktop.png",
+  "colorfulness": 53.1,
+  "verdikt": "средне",
+  "L_sredn": 17.9,
+  "S_sredn": 0.609,
+  "nasyshchennye_%": 86.6,
+  "yarkiy_cvet_%": 22.0,
+  "polunasyshch_%": 10.7,
+  "neytralnye_%": 2.7,
+  "temnye_V<0.25_%": 61.1,
+  "svetlye_V>0.85_%": 0.0,
+  "dominanty": [
+   {
+    "hex": "#0e0b08",
+    "dolya_%": 15.5,
+    "S": 0.43,
+    "V": 0.05,
+    "H": 30
+   },
+   {
+    "hex": "#050302",
+    "dolya_%": 14.7,
+    "S": 0.6,
+    "V": 0.02,
+    "H": 20
+   },
+   {
+    "hex": "#844f23",
+    "dolya_%": 14.1,
+    "S": 0.73,
+    "V": 0.52,
+    "H": 27
+   },
+   {
+    "hex": "#9a6734",
+    "dolya_%": 12.6,
+    "S": 0.66,
+    "V": 0.6,
+    "H": 30
+   },
+   {
+    "hex": "#221009",
+    "dolya_%": 11.4,
+    "S": 0.74,
+    "V": 0.13,
+    "H": 17
+   },
+   {
+    "hex": "#622f12",
+    "dolya_%": 10.7,
+    "S": 0.82,
+    "V": 0.38,
+    "H": 22
+   }
+  ]
+ },
+ {
+  "fayl": "stalo-opus-desktop.png",
+  "colorfulness": 27.2,
+  "verdikt": "чуть красочно",
+  "L_sredn": 71.8,
+  "S_sredn": 0.265,
+  "nasyshchennye_%": 23.2,
+  "yarkiy_cvet_%": 3.0,
+  "polunasyshch_%": 74.7,
+  "neytralnye_%": 2.2,
+  "temnye_V<0.25_%": 18.1,
+  "svetlye_V>0.85_%": 70.6,
+  "dominanty": [
+   {
+    "hex": "#fbe8d3",
+    "dolya_%": 32.1,
+    "S": 0.16,
+    "V": 0.98,
+    "H": 32
+   },
+   {
+    "hex": "#f6e4d0",
+    "dolya_%": 31.2,
+    "S": 0.15,
+    "V": 0.96,
+    "H": 32
+   },
+   {
+    "hex": "#1b0f0a",
+    "dolya_%": 21.6,
+    "S": 0.63,
+    "V": 0.11,
+    "H": 18
+   },
+   {
+    "hex": "#fce8d4",
+    "dolya_%": 6.7,
+    "S": 0.16,
+    "V": 0.99,
+    "H": 30
+   },
+   {
+    "hex": "#a2876f",
+    "dolya_%": 6.4,
+    "S": 0.31,
+    "V": 0.64,
+    "H": 28
+   },
+   {
+    "hex": "#fdecd7",
+    "dolya_%": 1.4,
+    "S": 0.15,
+    "V": 0.99,
+    "H": 33
+   }
+  ]
+ },
+ {
+  "fayl": "stalo-hands-desktop.png",
+  "colorfulness": 18.8,
+  "verdikt": "чуть красочно",
+  "L_sredn": 29.7,
+  "S_sredn": 0.404,
+  "nasyshchennye_%": 69.8,
+  "yarkiy_cvet_%": 0.2,
+  "polunasyshch_%": 25.3,
+  "neytralnye_%": 4.8,
+  "temnye_V<0.25_%": 62.1,
+  "svetlye_V>0.85_%": 22.3,
+  "dominanty": [
+   {
+    "hex": "#f6e3d2",
+    "dolya_%": 22.6,
+    "S": 0.15,
+    "V": 0.96,
+    "H": 28
+   },
+   {
+    "hex": "#1b110e",
+    "dolya_%": 17.7,
+    "S": 0.48,
+    "V": 0.11,
+    "H": 14
+   },
+   {
+    "hex": "#170f0c",
+    "dolya_%": 15.2,
+    "S": 0.48,
+    "V": 0.09,
+    "H": 16
+   },
+   {
+    "hex": "#150d0b",
+    "dolya_%": 13.9,
+    "S": 0.48,
+    "V": 0.08,
+    "H": 12
+   },
+   {
+    "hex": "#533e2f",
+    "dolya_%": 13.0,
+    "S": 0.43,
+    "V": 0.33,
+    "H": 25
+   },
+   {
+    "hex": "#2c1d15",
+    "dolya_%": 8.9,
+    "S": 0.52,
+    "V": 0.17,
+    "H": 21
+   }
+  ]
+ },
+ {
+  "fayl": "stalo-atelier-desktop.png",
+  "colorfulness": 17.6,
+  "verdikt": "чуть красочно",
+  "L_sredn": 65.6,
+  "S_sredn": 0.267,
+  "nasyshchennye_%": 29.2,
+  "yarkiy_cvet_%": 0.0,
+  "polunasyshch_%": 69.5,
+  "neytralnye_%": 1.3,
+  "temnye_V<0.25_%": 25.7,
+  "svetlye_V>0.85_%": 66.8,
+  "dominanty": [
+   {
+    "hex": "#f5e1d0",
+    "dolya_%": 55.4,
+    "S": 0.15,
+    "V": 0.96,
+    "H": 28
+   },
+   {
+    "hex": "#1a100c",
+    "dolya_%": 26.4,
+    "S": 0.54,
+    "V": 0.1,
+    "H": 17
+   },
+   {
+    "hex": "#f9e3d3",
+    "dolya_%": 7.1,
+    "S": 0.15,
+    "V": 0.98,
+    "H": 25
+   },
+   {
+    "hex": "#675548",
+    "dolya_%": 5.7,
+    "S": 0.3,
+    "V": 0.4,
+    "H": 25
+   },
+   {
+    "hex": "#f2e1d1",
+    "dolya_%": 3.0,
+    "S": 0.14,
+    "V": 0.95,
+    "H": 29
+   },
+   {
+    "hex": "#f6e1d0",
+    "dolya_%": 1.6,
+    "S": 0.15,
+    "V": 0.96,
+    "H": 27
+   }
+  ]
+ },
+ {
+  "fayl": "stalo-finale-desktop.png",
+  "colorfulness": 26.4,
+  "verdikt": "чуть красочно",
+  "L_sredn": 23.7,
+  "S_sredn": 0.451,
+  "nasyshchennye_%": 78.4,
+  "yarkiy_cvet_%": 2.7,
+  "polunasyshch_%": 16.8,
+  "neytralnye_%": 4.9,
+  "temnye_V<0.25_%": 50.3,
+  "svetlye_V>0.85_%": 5.3,
+  "dominanty": [
+   {
+    "hex": "#6a5244",
+    "dolya_%": 18.0,
+    "S": 0.36,
+    "V": 0.42,
+    "H": 22
+   },
+   {
+    "hex": "#180f0c",
+    "dolya_%": 16.3,
+    "S": 0.5,
+    "V": 0.09,
+    "H": 15
+   },
+   {
+    "hex": "#63433a",
+    "dolya_%": 14.1,
+    "S": 0.41,
+    "V": 0.39,
+    "H": 13
+   },
+   {
+    "hex": "#2e1d14",
+    "dolya_%": 11.5,
+    "S": 0.57,
+    "V": 0.18,
+    "H": 21
+   },
+   {
+    "hex": "#1e120d",
+    "dolya_%": 11.3,
+    "S": 0.57,
+    "V": 0.12,
+    "H": 18
+   },
+   {
+    "hex": "#4b3a2c",
+    "dolya_%": 11.0,
+    "S": 0.41,
+    "V": 0.29,
+    "H": 27
+   }
+  ]
+ },
+ {
+  "fayl": "stalo-top-390.png",
+  "colorfulness": 49.7,
+  "verdikt": "средне",
+  "L_sredn": 34.6,
+  "S_sredn": 0.497,
+  "nasyshchennye_%": 65.3,
+  "yarkiy_cvet_%": 13.7,
+  "polunasyshch_%": 13.7,
+  "neytralnye_%": 21.0,
+  "temnye_V<0.25_%": 44.3,
+  "svetlye_V>0.85_%": 17.0,
+  "dominanty": [
+   {
+    "hex": "#eee4d8",
+    "dolya_%": 14.8,
+    "S": 0.09,
+    "V": 0.93,
+    "H": 33
+   },
+   {
+    "hex": "#0b0504",
+    "dolya_%": 14.0,
+    "S": 0.64,
+    "V": 0.04,
+    "H": 9
+   },
+   {
+    "hex": "#1f120e",
+    "dolya_%": 12.8,
+    "S": 0.55,
+    "V": 0.12,
+    "H": 14
+   },
+   {
+    "hex": "#a66837",
+    "dolya_%": 12.3,
+    "S": 0.67,
+    "V": 0.65,
+    "H": 26
+   },
+   {
+    "hex": "#421e0c",
+    "dolya_%": 12.0,
+    "S": 0.82,
+    "V": 0.26,
+    "H": 20
+   },
+   {
+    "hex": "#60412b",
+    "dolya_%": 12.0,
+    "S": 0.55,
+    "V": 0.38,
+    "H": 25
+   }
+  ]
+ },
+ {
+  "fayl": "bylo-desktop.png",
+  "colorfulness": 18.0,
+  "verdikt": "чуть красочно",
+  "L_sredn": 28.2,
+  "S_sredn": 0.391,
+  "nasyshchennye_%": 69.4,
+  "yarkiy_cvet_%": 2.2,
+  "polunasyshch_%": 18.9,
+  "neytralnye_%": 11.7,
+  "temnye_V<0.25_%": 58.5,
+  "svetlye_V>0.85_%": 2.6,
+  "dominanty": [
+   {
+    "hex": "#261713",
+    "dolya_%": 29.4,
+    "S": 0.5,
+    "V": 0.15,
+    "H": 13
+   },
+   {
+    "hex": "#4d3c31",
+    "dolya_%": 21.6,
+    "S": 0.36,
+    "V": 0.3,
+    "H": 24
+   },
+   {
+    "hex": "#ad9b8c",
+    "dolya_%": 21.3,
+    "S": 0.19,
+    "V": 0.68,
+    "H": 27
+   },
+   {
+    "hex": "#2a1b16",
+    "dolya_%": 17.9,
+    "S": 0.48,
+    "V": 0.16,
+    "H": 15
+   },
+   {
+    "hex": "#261813",
+    "dolya_%": 3.3,
+    "S": 0.5,
+    "V": 0.15,
+    "H": 16
+   },
+   {
+    "hex": "#261613",
+    "dolya_%": 2.9,
+    "S": 0.5,
+    "V": 0.15,
+    "H": 9
+   }
+  ]
+ }
+]
