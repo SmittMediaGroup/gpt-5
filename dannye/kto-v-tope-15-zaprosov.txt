@@ -1,0 +1,407 @@
+ЗАПРОСОВ (213, Москва): 15
+ - корпоративное обучение ии
+ - корпоративное обучение нейросетям
+ - обучение сотрудников нейросетям
+ - обучение нейросетям для бизнеса
+ - курс chatgpt для бизнеса
+ - обучение ии для компаний
+ - корпоративный тренинг по нейросетям
+ - воркшоп по нейросетям
+ - обучение промпт инжинирингу
+ - обучение нейросетям для маркетологов
+ - обучение ии для отдела продаж
+ - обучение нейросетям для юристов
+ - обучение нейросетям для руководителей
+ - внедрение ии в компанию
+ - обучение вайбкодингу
+
+=== ДОМЕН: число запросов в топ-10 | средняя поз | где ===
+practicum.yandex.ru                 8  avg 3.5  | обучение нейросетям для руко(1); обучение вайбкодингу(2); обучение нейросетям для бизн(3); корпоративный тренинг по ней(3); обучение нейросетям для марк(3); обучение ии для компаний(4); корпоративное обучение ии(6); обучение сотрудников нейросе(6)
+skillbox.ru                         7  avg 3.9  | обучение нейросетям для марк(1); обучение нейросетям для бизн(2); обучение промпт инжинирингу(2); обучение вайбкодингу(4); курс chatgpt для бизнеса(5); обучение нейросетям для юрис(5); внедрение ии в компанию(8)
+winbd.ru                            6  avg 5.0  | корпоративное обучение нейро(2); корпоративный тренинг по ней(2); обучение сотрудников нейросе(3); обучение нейросетям для руко(7); обучение нейросетям для бизн(8); обучение ии для компаний(8)
+netology.ru                         6  avg 5.3  | обучение нейросетям для руко(2); обучение промпт инжинирингу(3); внедрение ии в компанию(5); корпоративный тренинг по ней(6); обучение нейросетям для марк(7); обучение нейросетям для бизн(9)
+winner-ai.ru                        5  avg 5.2  | корпоративный тренинг по ней(1); обучение сотрудников нейросе(2); корпоративное обучение нейро(4); корпоративное обучение ии(9); обучение ии для компаний(10)
+eduson.academy                      4  avg 2.8  | обучение ии для отдела прода(1); обучение вайбкодингу(1); обучение нейросетям для юрис(4); обучение нейросетям для бизн(5)
+zerocoder.ru                        4  avg 6.0  | корпоративное обучение нейро(3); обучение сотрудников нейросе(4); обучение промпт инжинирингу(8); корпоративный тренинг по ней(9)
+rbc.ru                              4  avg 6.0  | внедрение ии в компанию(3); обучение нейросетям для руко(5); обучение вайбкодингу(7); обучение нейросетям для марк(9)
+habr.com                            3  avg 3.3  | внедрение ии в компанию(2); обучение вайбкодингу(3); обучение промпт инжинирингу(5)
+content-generator.pro               2  avg 1.0  | корпоративное обучение нейро(1); обучение сотрудников нейросе(1)
+digitalskillsacademy.ru             2  avg 3.0  | обучение нейросетям для бизн(1); обучение нейросетям для марк(5)
+profifuture.ru                      2  avg 4.0  | курс chatgpt для бизнеса(2); обучение нейросетям для марк(6)
+timeweb.com                         2  avg 4.0  | обучение нейросетям для юрис(2); обучение промпт инжинирингу(6)
+sber.pro                            2  avg 4.5  | корпоративное обучение ии(3); внедрение ии в компанию(6)
+sberuniversity.ru                   2  avg 4.5  | обучение ии для компаний(2); обучение промпт инжинирингу(7)
+neuronplus.ru                       2  avg 5.5  | обучение нейросетям для бизн(4); обучение сотрудников нейросе(7)
+mgutu.ru                            2  avg 6.0  | обучение нейросетям для марк(4); курс chatgpt для бизнеса(8)
+otus.ru                             2  avg 6.0  | обучение нейросетям для руко(3); обучение ии для компаний(9)
+career.hh.ru                        2  avg 7.5  | обучение нейросетям для юрис(7); обучение нейросетям для марк(8)
+biometriclabs.ru                    2  avg 8.0  | корпоративное обучение нейро(6); корпоративное обучение ии(10)
+club-terra.ru                       2  avg 8.0  | обучение ии для компаний(6); обучение нейросетям для бизн(10)
+tech-wave.ru                        2  avg 9.0  | корпоративное обучение нейро(8); корпоративный тренинг по ней(10)
+
+=== ОДИНОЧКИ (1 запрос) в топ-5 ===
+1cbit.ru                           корпоративное обучение ии(2)
+1solution.ru                       внедрение ии в компанию(1)
+aiia.team                          обучение сотрудников нейросетям(5)
+aileaders.hse.ru                   обучение ии для компаний(3)
+aistudio.yandex.ru                 обучение промпт инжинирингу(4)
+ankii.ru                           корпоративное обучение ии(4)
+aspirity.ru                        обучение ии для отдела продаж(3)
+aurmind.ru                         корпоративный тренинг по нейросетя(5)
+belhard.academy                    обучение нейросетям для руководите(4)
+bonnieandslide.com                 обучение вайбкодингу(5)
+campus.technograd.moscow           обучение ии для компаний(5)
+cbsd.ru                            курс chatgpt для бизнеса(1)
+danashkin.ru                       воркшоп по нейросетям(2)
+directum.ru                        внедрение ии в компанию(4)
+dydya-roma.ru                      воркшоп по нейросетям(1)
+edu-rt.ru                          обучение промпт инжинирингу(1)
+edu.fors.ru                        курс chatgpt для бизнеса(4)
+eventimage.ru                      обучение ии для отдела продаж(5)
+hocktraining.com                   обучение ии для отдела продаж(4)
+koms.top-academy.ru                обучение ии для отдела продаж(2)
+kupdasha.ru                        воркшоп по нейросетям(4)
+lawhub.hse.ru                      обучение нейросетям для юристов(3)
+maed.ru                            обучение нейросетям для маркетолог(2)
+moscow.mba                         обучение ии для компаний(1)
+new.porarasti.com                  курс chatgpt для бизнеса(3)
+neyro.mba                          корпоративный тренинг по нейросетя(4)
+profitcon.ru                       корпоративное обучение ии(1)
+runetlex-academy.ru                обучение нейросетям для юристов(1)
+setters.education                  корпоративное обучение ии(5)
+sibirtsev.pro                      воркшоп по нейросетям(3)
+superintellect.ru                  корпоративное обучение нейросетям(5)
+uni.tsekh.design                   воркшоп по нейросетям(5)
+
+
+=== ПОЛНЫЕ ТОП-10 ===
+
+## корпоративное обучение ии
+ 1. ИИ в корпоративном обучении: новые возможности для бизнеса
+    https://profitcon.ru/media/obuchenie-personala/kak-vnedrenie-ii-pomogaet-v-korporativnom-obuchenii/
+ 2. Корпоративное обучение ИИ для бизнеса — курсы и интенсивы...
+    https://www.1cbit.ru/school/corporate/ai/
+ 3. Корпоративное обучение искусственному интеллекту...
+    https://sber.pro/publication/korporativnoe-obuchenie-iskusstvennomu-intellektu-programmi-i-praktiki-vnedreniya/
+ 4. Корпоративное обучение ИИ и Soft Skills | АНКИИ | АНКИИ
+    https://ankii.ru/corporate
+ 5. Корпоративное обучение с SETTERS EDUCATION
+    https://setters.education/b2b
+ 6. Корпоративное обучение с ИИ: новые возможности для HR...
+    https://practicum.yandex.ru/b2b/blog/iskusstvennyj-intellekt-v-obrazovanii/
+ 7. Корпоративное обучение — LMS, ИИ-тренажёры, аналитика
+    https://cdo-global.ru/solutions/corporate/
+ 8. Корпоративное обучение работе с ИИ для команд — Цифромация
+    https://xn--80apbojl1aog5g.xn--p1ai/obuchenie-ii/korporativnoe-obuchenie/
+ 9. Обучение ИИ и нейросетям для бизнеса — Алина Новикова
+    https://winner-ai.ru/
+10. Корпоративное обучение ИИ и нейросетям — BiometricLabs
+    https://biometriclabs.ru/ai/training/
+
+## корпоративное обучение нейросетям
+ 1. Корпоративное обучение нейросетям и ИИ для бизнеса
+    https://content-generator.pro/corporativnoe_obuchenie_ai
+ 2. Корпоративное обучение нейросетям и ИИ для бизнеса
+    https://winbd.ru/ai-for-business
+ 3. Корпоративное обучение нейросетям: кастомизация...
+    https://zerocoder.ru/custom-learning
+ 4. Обучение ИИ и нейросетям для бизнеса — Алина Новикова
+    https://winner-ai.ru/
+ 5. Корпоративное обучение нейросетям — СуперИнтеллект
+    https://superintellect.ru/uslugi/korporativnoe-obuchenie-neyrosetyam
+ 6. Корпоративное обучение ИИ и нейросетям — BiometricLabs
+    https://biometriclabs.ru/ai/training/
+ 7. Корпоративное обучение AI и нейросетям для бизнеса
+    https://ai.academyit.ru/
+ 8. Корпоративное обучение нейросетям — от 12 000 ₽ за сотрудника
+    https://tech-wave.ru/education
+ 9. Корпоративное обучение нейросетям для... | Алексей Борисов
+    https://borisov.academy/edu/ai/
+10. Корпоративное обучение нейросетям для сотрудников...
+    https://neiro-viktor.ru/obuchenie/korporativnoe/
+
+## обучение сотрудников нейросетям
+ 1. Корпоративное обучение нейросетям и ИИ для бизнеса
+    https://content-generator.pro/corporativnoe_obuchenie_ai
+ 2. Обучение ИИ и нейросетям для бизнеса — Алина Новикова
+    https://winner-ai.ru/
+ 3. Корпоративное обучение нейросетям и ИИ для бизнеса
+    https://winbd.ru/ai-for-business
+ 4. Нейросети для работы
+    https://zerocoder.ru/neyroseti-dlya-raboty
+ 5. AIIA | Обучение сотрудников работе с нейросетями, ИИ
+    https://aiia.team/
+ 6. Курс «Нейросети для руководителей на практике»: обучение...
+    https://practicum.yandex.ru/ai-managers/
+ 7. Нейросети на практике: для работы и бизнеса
+    https://neuronplus.ru/
+ 8. Курс “Нейросети для успешной карьеры”: онлайн-обучение...
+    https://synergy.ru/professions/iskusstvennyij_intellekt/nejroseti_dlya_uspeshnoj_kareryi
+ 9. Корпоративное обучение нейросетям для сотрудников компании
+    https://smittmediagroup.ru/korporativnoe-obuchenie-ai
+10. Корпоративное обучение сотрудников: ИИ... — Future Hub
+    https://future-hub.io/ai-education
+
+## обучение нейросетям для бизнеса
+ 1. Курс по нейросетям для бизнеса — внедрение ИИ с нуля
+    https://digitalskillsacademy.ru/courses/nejroseti-dlya-biznesa
+ 2. Курс «Нейросети для бизнеса»: обучение по... — Skillbox
+    https://skillbox.ru/course/nejroseti-dlya-biznesa/
+ 3. Курс «Нейросети для бизнеса»: обучение ИИ‑инструментам для...
+    https://practicum.yandex.ru/ai-for-business/
+ 4. Нейросети на практике: для работы и бизнеса
+    https://neuronplus.ru/
+ 5. Курс &quot;Нейросети для...&quot; — обучение от Eduson Academy
+    https://eduson.academy/ai-integration
+ 6. Курс «Нейросети для бизнеса» с нуля за 2 месяца | Skillfactory
+    https://skillfactory.ru/nejroseti-dlya-biznesa
+ 7. Курс по нейросетям для работы и бизнеса: бесплатное обучение...
+    https://secrets.tbank.ru/courses/kurs-po-nejrosetyam/
+ 8. Корпоративное обучение нейросетям и ИИ для бизнеса
+    https://winbd.ru/ai-for-business
+ 9. Нейросети для бизнеса — курс по ИИ для... | Нетология
+    https://netology.ru/programs/ai-manager
+10. Нейросети для бизнеса: бесплатный курс | Терра
+    https://club-terra.ru/school/shkola-nejromozg-dlya-biznesa/
+
+## курс chatgpt для бизнеса
+ 1. Практический мастер-класс «ChatGPT для бизнеса» | CBSD
+    https://cbsd.ru/courses/personal_effectiveness/prakticheskiy-master-klass-chatgpt-dlya-biznesa/
+ 2. Обучение ИИ и нейросетям для бизнеса — онлайн...
+    https://www.profifuture.ru/program/promptengineer
+ 3. ChatGPT для предпринимателя
+    https://new.porarasti.com/gpt-p
+ 4. Обучение работе с ChatGPT. Системы искусственного интеллекта...
+    https://edu.fors.ru/catalog/?SECTION=chat-gpt
+ 5. Курс «Нейросети для бизнеса»: обучение по... — Skillbox
+    https://skillbox.ru/course/nejroseti-dlya-biznesa/
+ 6. Нейросети для работы: ChatGPT и Claude с нуля до... | aicodinglab.ru
+    https://aicodinglab.ru/ai-work
+ 7. Погружение в нейросети :: BotHub в России
+    https://bothub.ru/bothub-academy
+ 8. Курс по нейросетям и ИИ с нуля — обучение нейросетям
+    https://mgutu.ru/courses/advertising/neuronet/
+ 9. Курс ChatGPT с нуля: обучение нейросетям — GPT Азбука
+    https://gptazbuka.ru/
+10. ChatGPT с нуля — онлайн-курс Главтория
+    https://chatgptkurs.ru/
+
+## обучение ии для компаний
+ 1. ИИ (искусственный интеллект) в управлении бизнесом
+    https://moscow.mba/programs/profession/online/iskusstvenniy-intellekt-v-upravlenii-biznesom
+ 2. Курсы по ИИ для бизнеса: внедрение искусственного интеллекта...
+    https://sberuniversity.ru/learning/program/biznes-s-ai-ot-teorii-k-praktike/
+ 3. Практическое обучение руководителей внедрению ИИ от ВШЭ ФКН
+    https://aileaders.hse.ru/
+ 4. Корпоративное обучение ИИ — тренинги и воркшопы по...
+    https://practicum.yandex.ru/b2b/promo/ai-ization/
+ 5. Искусственный интеллект для бизнеса
+    https://campus.technograd.moscow/aibiz
+ 6. Искусственный интеллект для бизнеса курсы — Школа ИИ | Терра
+    https://club-terra.ru/school/shkola-ii/
+ 7. Картинки по запросу &quot;обучение ии для компаний&quot;
+    https://yandex.ru/images/search?text=%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5+%D0%B8%D0%B8+%D0%B4%D0%BB%D1%8F+%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B9
+ 8. Корпоративное обучение нейросетям и ИИ для бизнеса
+    https://winbd.ru/ai-for-business
+ 9. Курс «ИИ для бизнеса»: обучение нейросетям — Otus
+    https://otus.ru/lessons/ai-for-business/
+10. Обучение ИИ и нейросетям для бизнеса — Алина Новикова
+    https://winner-ai.ru/
+
+## корпоративный тренинг по нейросетям
+ 1. Обучение ИИ и нейросетям для бизнеса — Алина Новикова
+    https://winner-ai.ru/
+ 2. Корпоративное обучение нейросетям и ИИ для бизнеса
+    https://winbd.ru/ai-for-business
+ 3. Корпоративное обучение ИИ — тренинги и воркшопы по...
+    https://practicum.yandex.ru/b2b/promo/ai-ization/
+ 4. Корпоративное обучение работе с нейросетями
+    https://neyro.mba/corp
+ 5. AURMIND — Корпоративные тренинги по ИИ и нейросетям
+    https://aurmind.ru/
+ 6. Тренинги по ИИ для бизнеса | Обучение искусственному...
+    https://netology.ru/programs/krn-ai
+ 7. Корпоративное обучение ИИ | Upgrade
+    https://upgrade-agency.ru/
+ 8. Обучение ИИ для бизнеса от AlpinaGPT: корпоративные...
+    https://alpinagpt.ru/workshop
+ 9. Нейросети для работы: корпоративный курс по нейросетям для...
+    https://zerocoder.ru/neyroseti-dlya-raboty
+10. Корпоративное обучение нейросетям — от 12 000 ₽ за сотрудника
+    https://tech-wave.ru/education
+
+## воркшоп по нейросетям
+ 1. Воркшоп по нейросетям
+    https://dydya-roma.ru/workshop-neiro
+ 2. Интенсив по нейросетям для бизнеса — Дмитрий Анашкин
+    https://danashkin.ru/workshop/
+ 3. Афиша: воркшопы и мастер-классы по нейросетям · Алексей...
+    https://sibirtsev.pro/afisha
+ 4. AI-воркшоп для команды — обучение нейросетям, Москва...
+    https://kupdasha.ru/ai
+ 5. онлайн-воркшоп по работе с нейросетями для дизайнеров
+    https://uni.tsekh.design/neuropodryad
+ 6. Нейросети на запусках
+    https://sbmschool.ru/workshop-neiro
+ 7. Увеличение разрешения нейросетями — купить онлайн-курс, уроки
+    https://artgluck.ru/catalog/uvelichenie-razresheniya-nejrosetyami/
+ 8. Воркшоп по нейросетям 2.0 | Игорь Сафонов
+    https://coursetrain.net/course/vorkshop-po-neyrosetyam-2-0
+ 9. Онлайн-воркшоп по НЕЙРОСЕТЯМ 2.0
+    https://finecourses.online/workshop2
+10. Воркшоп по ИИ для бизнеса | Митя Амбарцумян
+    https://nice2mitya.com/workshop
+
+## обучение промпт инжинирингу
+ 1. Промпт-инжиниринг | ИТ Школа Ростелекома
+    https://edu-rt.ru/course/prompt-inziniring
+ 2. Курс по промпт-инжинирингу: онлайн обучение на... — Skillbox
+    https://skillbox.ru/course/prompt-engineering/
+ 3. Промпт-инженер - практический курс для новичков и продвинутых
+    https://netology.ru/programs/prompt-inzhener
+ 4. Промпт-инжиниринг — бесплатный курс по... | Yandex AI Studio
+    https://aistudio.yandex.ru/ru/ai-academy/courses/prompting
+ 5. Курсы по промпт-инжинирингу 2026: как выбрать обучение...
+    https://habr.com/ru/articles/1029434/
+ 6. 20 онлайн-курсов промпт-инжиниринга... | Timeweb Community
+    https://timeweb.com/ru/community/articles/20-onlayn-kursov-prompt-inzhiniringa-platnye-i-besplatnye
+ 7. Промпт-инжиниринг в анализе данных — образовательный курс...
+    https://sberuniversity.ru/learning/course/prompt-inzhiniring-v-analize-dannykh/
+ 8. Продвинутая программа промпт-инжиниринг
+    https://zerocoder.ru/prompt-engineer-with-ai-course
+ 9. Бесплатный онлайн-курс «Введение в промпт-инжиниринг»
+    https://www.lektorium.tv/prompt-en
+10. Промт инжиниринг обучение работе с ии... | курс на Stepik
+    https://stepik.org/course/285714/promo
+
+## обучение нейросетям для маркетологов
+ 1. Курс «Нейросети для маркетинга»: обучение для... — Skillbox
+    https://skillbox.ru/course/nejroseti-dlya-marketinga/
+ 2. Нейросети для маркетинга: автоматизация... — курс MAED
+    https://maed.ru/catalog/neyroseti-avtomatizaciya-marketinga
+ 3. Онлайн-курс «Нейросети для маркетинга»: обучение работе...
+    https://practicum.yandex.ru/ai-for-marketing/
+ 4. Курс «Нейросети для маркетинга» — обучение ИИ для рекламы
+    https://mgutu.ru/courses/advertising/ai-marketing/
+ 5. Курс Нейросети для маркетинга — обучение ИИ для...
+    https://digitalskillsacademy.ru/courses/nejroseti-v-marketinge
+ 6. Нейросети в маркетинге и рекламе
+    https://www.profifuture.ru/program/promptengineer-marketing
+ 7. Нейросети для маркетинга и продаж — курс по ИИ... | Нетология
+    https://netology.ru/programs/ai-marketing
+ 8. Курсы по ИИ и нейросетям для маркетологов: скидки на...
+    https://career.hh.ru/collection/edprogram/kursy-po-ii-dlya-marketologov
+ 9. Лучшие курсы по нейросетям для маркетологов онлайн...
+    https://www.rbc.ru/courses/ai-marketing
+10. Курс ИИ в маркетинге - образовательная программа, Школа...
+    https://www.skolkovo.ru/programmes/ii-v-marketinge/
+
+## обучение ии для отдела продаж
+ 1. Курс «ИИ в отделе продаж»: обучение... | Eduson Academy
+    https://eduson.academy/ai-sales
+ 2. Курс ИИ для продаж: сегментация, касания, скрипты и CRM
+    https://koms.top-academy.ru/education/ii-dlya-otdela-prodazh
+ 3. ИИ-тренажер для обучения отдела продаж | Аспирити
+    https://aspirity.ru/ai-voice-trainer/ii-trenazher-dlya-obucheniya-otdela-prodazh
+ 4. Практический курс «Нейросети в продажах»
+    https://www.hocktraining.com/page/ai-in-sales
+ 5. Нейросети для отдела продаж - AI-инструменты для роста выручки
+    https://eventimage.ru/kursy-s-opredelennoy-daty/neyroseti-dlya-otdela-prodazh/
+ 6. «Нейросети для менеджеров по продажам»: продвинутый уровень...
+    https://xn--80acba3atu.xn--p1ai/courses/neiroseti-dlia-menedzerov-po-prodazam-prodvinutyi-uroven-2-stupen
+ 7. ИИ-тренажёр для менеджеров по продажам — Вербо
+    https://verbo.ru/solutions/roles/sales-managers
+ 8. Курсы по нейросетям для менеджеров по продажам
+    https://neural-courses.ru/courses/dlya-menedzherov-po-prodazham/
+ 9. Обучение отделов продаж работе с ИИ, AI... | AI-Event
+    https://ai-event.ru/obuchenie-nejrosetyam-dlya-op
+10. B2B-продажи с ИИ-инструментами... | Product University
+    https://productuniversity.ru/aisales
+
+## обучение нейросетям для юристов
+ 1. Нейросети для юриста: от основ к системе
+    https://runetlex-academy.ru/neuralnetworks
+ 2. ТОП-7 лучших курсов по нейросетям для юристов: платные...
+    https://timeweb.com/ru/community/articles/top-7-luchshih-kursov-po-neyrosetyam-dlya-yuristov-platnye-i-besplatnye-ii-generatory-2026-goda-1
+ 3. Курс по ИИ для юристов: практика применения нейросетей...
+    https://lawhub.hse.ru/aiinlaw
+ 4. Курс Искусственный интеллект для юристов... — Eduson Academy
+    https://eduson.academy/ai-lawyer
+ 5. Курс «Нейросети для юристов»: обучение работе... — Skillbox.
+    https://skillbox.ru/course/ai-lawyers/
+ 6. Нейросети для юриста | Обучение
+    https://fparf.ru/education/courses/neyroseti-dlya-yurista/
+ 7. Курсы по ИИ и нейросетям для юристов: скидки на...
+    https://career.hh.ru/collection/edprogram/kursy-po-ii-dlya-yuristov
+ 8. Бесплатный онлайн-курс «Нейросети для юристов»: научитесь...
+    https://start.practicum.yandex/ai-for-lawyers
+ 9. Курс ИИ для юристов: онлайн-обучение от Moscow Digital School
+    https://mosdigitals.ru/courses/ai-lawyer
+10. Нейросети для юристов: как оптимизировать рутинные процессы
+    https://korpschool.law.ru/promo/232828
+
+## обучение нейросетям для руководителей
+ 1. Курс «Нейросети для руководителей на практике»: обучение...
+    https://practicum.yandex.ru/ai-managers/
+ 2. Нейросети для бизнеса — курс по ИИ для руководителей...
+    https://netology.ru/programs/ai-manager
+ 3. Курс «ИИ для бизнеса»: обучение нейросетям — Otus
+    https://otus.ru/lessons/ai-for-business/
+ 4. Курс «Нейросети для руководителей»
+    https://belhard.academy/neuralformanagement
+ 5. Лучшие курсы по нейросетям для менеджеров онлайн...
+    https://www.rbc.ru/courses/ai-management
+ 6. Нейросети для менеджера и аналитика. Набор на 11 поток.
+    https://alexkolokolov.com/ai_course
+ 7. Корпоративное обучение нейросетям и ИИ для бизнеса
+    https://winbd.ru/ai-for-business
+ 8. Интенсив «ИИ для руководителей» | Центральный университет
+    https://cu.ru/ai-for-leaders-level01
+ 9. Онлайн-курсы дистанционного обучения нейросетям для...
+    https://skills.tsu.ru/catalog/povyshenie-kvalifikatsii/neyroseti-dlya-povysheniya-effektivnosti-rukovoditelya-i-komandy/
+10. Курс ИИ для руководителей: от инструментов к стратегии...
+    https://www.specialist.ru/course/ai-bus
+
+## внедрение ии в компанию
+ 1. Внедрение искусственного интеллекта для бизнеса – описание...
+    https://1solution.ru/services/vnedrenie-iskusstvennogo-intellekta-dlya-biznesa/
+ 2. Как внедрить нейросети в бизнес: 10 шагов для... / Хабр
+    https://habr.com/ru/articles/926580/
+ 3. ИИ для бизнеса: как внедрить в процессы и не слить бюджет — РБК
+    https://www.rbc.ru/education/05/08/2026/6a6887df9a79475464a3f167
+ 4. Как внедрить ИИ в бизнес-процессы в 2026: пошаговое руководство
+    https://www.directum.ru/blog-post/kak_vnedrit_ii_v_biznes-processy_v_2026__poshagovoe_rukovodstvo
+ 5. ИИ в бизнесе: как внедрить и применять нейросети в компании
+    https://netology.ru/blog/ai-transformaciya-biznesa
+ 6. Внедрение нейросетей в бизнес под ключевые задачи: пошаговая...
+    https://sber.pro/publication/kak-vnedrit-generativnii-ii-v-biznes-poshagovaya-instruktsiya-2026/
+ 7. Внедрение ИИ в бизнес: преимущества и ключевые области...
+    https://developers.sber.ru/help/gigachat-api/integrating-ai
+ 8. Топ-5 нейросетей для бизнес-задач: как внедрить... / Skillbox Media
+    https://skillbox.ru/media/business/5-neyrosetey-dlya-biznesa-s-chem-oni-mogut-pomoch-i-kak-ih-vnedrit/
+ 9. Обучение сотрудников ИИ и внедрение искусственного...
+    https://productlab.ru/ai-corp
+10. ИИ-решения для бизнеса: разработка и внедрение сервисов с Ai
+    https://korusconsulting.ru/services/ii-dlya-biznesa/
+
+## обучение вайбкодингу
+ 1. Курс Вайб-кодинг | Обучение нейросетям и ИИ для... | Eduson
+    https://eduson.academy/vibecoding
+ 2. Курс «Вайбкодинг»: обучение вайбкодингу для создания...
+    https://practicum.yandex.ru/vibe-coding/
+ 3. 5 курсов по вайбкодингу в 2026 году: от новичка до... / Хабр
+    https://habr.com/ru/articles/1016744/
+ 4. Курс «Вайб-кодинг для разработчиков»: обучение... — Skillbox
+    https://skillbox.ru/course/vibe-coding-dev/
+ 5. Вайбкодинг курсы: обучение Vibe Coding онлайн для...
+    https://bonnieandslide.com/kursy/vibecoding
+ 6. Курс Вайбкодинг (обучение с нуля): создание... | Skypro
+    https://sky.pro/course/ai/vibecoding
+ 7. Курсы вайбкодинга онлайн — обучение созданию проектов с ИИ...
+    https://www.rbc.ru/courses/vibe-coding
+ 8. Практикум по вайбкодингу — ИИ-разработка за 3 недели
+    https://vibepracticum.com/
+ 9. Обучение вайбкодингу с нуля | Школа AVAT: 2 месяца, от 45 000 ₽
+    https://avat.studio/obuchenie/
+10. vibecoding.su
+    https://vibecoding.su/
