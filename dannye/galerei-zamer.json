@@ -1,0 +1,8981 @@
+[
+ {
+  "host": "consideritflowers.com",
+  "url": "https://consideritflowers.com/",
+  "nisha": "ЦВЕТЫ И ФЛОРИСТИКА",
+  "title": "Buy THCa Flower, THCa Vapes, THCa Concentrates and THC Edibles Online",
+  "nagr": "",
+  "podpis": "Praella",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/consider-it-flowers",
+  "C": 11.8,
+  "yark": 0.5,
+  "neytr": 98.8,
+  "temn": 0.6,
+  "L": 89.5,
+  "dom": [
+   [
+    "#e2dcd6",
+    26.2
+   ],
+   [
+    "#f7f1eb",
+    16.4
+   ],
+   [
+    "#e7e0da",
+    13.4
+   ],
+   [
+    "#ebe3dc",
+    13.0
+   ]
+  ],
+  "C9": 19.3,
+  "yark9": 2.1,
+  "neytr9": 96.5,
+  "temn9": 1.3,
+  "dom9": [
+   [
+    "#e3ddd7",
+    17.4
+   ],
+   [
+    "#eee8e2",
+    17.4
+   ],
+   [
+    "#eae3dc",
+    14.9
+   ]
+  ],
+  "kegl": 4.51,
+  "keglpx": 65,
+  "gtext": "Are you over 21 years of age?",
+  "gfont": "Fraunces",
+  "bg": "#f7f2eb",
+  "ves": 5157,
+  "libs": [
+   "swiper",
+   "shopify"
+  ],
+  "video": 3,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 139,
+  "req": 429,
+  "h1font": "Fraunces",
+  "h1px": "52px",
+  "fony": [
+   [
+    "#000000",
+    8136379
+   ],
+   [
+    "#f7f2eb",
+    6391308
+   ],
+   [
+    "#f0e6d8",
+    1179464
+   ],
+   [
+    "#657317",
+    746087
+   ]
+  ]
+ },
+ {
+  "host": "liorflowerdesign.com",
+  "nisha": "ЦВЕТЫ И ФЛОРИСТИКА",
+  "bad": "Error: page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.liorflower",
+  "status": null
+ },
+ {
+  "host": "theredflowerfactory.com",
+  "url": "https://theredflowerfactory.com/",
+  "nisha": "ЦВЕТЫ И ФЛОРИСТИКА",
+  "title": "Home - The Red Flower Factory",
+  "nagr": "",
+  "podpis": "acy",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/the-red-flower-factory",
+  "C": 133.9,
+  "yark": 63.7,
+  "neytr": 35.1,
+  "temn": 0.0,
+  "L": 74.8,
+  "dom": [
+   [
+    "#e8690f",
+    50.0
+   ],
+   [
+    "#ffffff",
+    32.4
+   ],
+   [
+    "#e8b463",
+    7.4
+   ],
+   [
+    "#e8690e",
+    3.2
+   ]
+  ],
+  "C9": 130.8,
+  "yark9": 45.5,
+  "neytr9": 52.4,
+  "temn9": 0.1,
+  "dom9": [
+   [
+    "#ffffff",
+    47.0
+   ],
+   [
+    "#e8690f",
+    34.9
+   ],
+   [
+    "#71607d",
+    5.9
+   ]
+  ],
+  "kegl": 5.56,
+  "keglpx": 80,
+  "gtext": "SOLUTIONS",
+  "gfont": "Gobold",
+  "bg": "#ffffff",
+  "ves": 2708,
+  "libs": [
+   "wordpress"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 15,
+  "req": 37,
+  "h1font": "Gobold",
+  "h1px": "16px",
+  "fony": [
+   [
+    "#e8690f",
+    2096814
+   ],
+   [
+    "#3284d9",
+    1323264
+   ],
+   [
+    "#ffffff",
+    682335
+   ],
+   [
+    "#95c042",
+    27264
+   ]
+  ]
+ },
+ {
+  "host": "unfauxgettable.co.uk",
+  "url": "https://unfauxgettable.co.uk/",
+  "nisha": "ЦВЕТЫ И ФЛОРИСТИКА",
+  "title": "Unfauxgettable Flowers",
+  "nagr": "HM",
+  "podpis": "gordonrosshazelwood HM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/unfauxgettable-flowers",
+  "C": 10.7,
+  "yark": 0.0,
+  "neytr": 91.1,
+  "temn": 6.8,
+  "L": 90.1,
+  "dom": [
+   [
+    "#f1f6ef",
+    85.3
+   ],
+   [
+    "#133219",
+    6.9
+   ],
+   [
+    "#f1f6ee",
+    2.1
+   ],
+   [
+    "#59715d",
+    2.0
+   ]
+  ],
+  "C9": 18.8,
+  "yark9": 1.4,
+  "neytr9": 83.1,
+  "temn9": 9.7,
+  "dom9": [
+   [
+    "#f1f6ef",
+    67.5
+   ],
+   [
+    "#19381f",
+    11.5
+   ],
+   [
+    "#f2f6f0",
+    9.1
+   ]
+  ],
+  "kegl": 6.67,
+  "keglpx": 96,
+  "gtext": "A",
+  "gfont": "Fonde",
+  "bg": "#f1f6ef",
+  "ves": 566,
+  "libs": [
+   "splide",
+   "webflow"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 1,
+  "req": 23,
+  "h1font": "Fonde",
+  "h1px": "96.048px",
+  "fony": [
+   [
+    "#f1f6ef",
+    101183
+   ],
+   [
+    "#19381f",
+    92250
+   ]
+  ]
+ },
+ {
+  "host": "dontbuyherflowers.com",
+  "url": "https://www.dontbuyherflowers.com/",
+  "nisha": "ЦВЕТЫ И ФЛОРИСТИКА",
+  "title": "Thoughtful Gifts | Don't Buy Her Flowers",
+  "nagr": "",
+  "podpis": "Impact Media",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/dont-buy-her-flowers",
+  "C": 34.7,
+  "yark": 3.1,
+  "neytr": 55.6,
+  "temn": 10.4,
+  "L": 47.1,
+  "dom": [
+   [
+    "#888888",
+    21.3
+   ],
+   [
+    "#40392d",
+    15.7
+   ],
+   [
+    "#efefef",
+    15.3
+   ],
+   [
+    "#655a4f",
+    14.1
+   ]
+  ],
+  "C9": 62.2,
+  "yark9": 28.2,
+  "neytr9": 56.0,
+  "temn9": 2.4,
+  "dom9": [
+   [
+    "#ffffff",
+    35.4
+   ],
+   [
+    "#a54d4f",
+    20.1
+   ],
+   [
+    "#ddd8d3",
+    15.8
+   ]
+  ],
+  "kegl": 5,
+  "keglpx": 72,
+  "gtext": "*NEW* Luxury Hampers",
+  "gfont": "JosefinSans",
+  "bg": null,
+  "ves": 2339,
+  "libs": [
+   "nuxt"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 27,
+  "req": 191,
+  "h1font": "JosefinSans",
+  "h1px": "40px",
+  "fony": [
+   [
+    "#f7ecef",
+    1744443
+   ],
+   [
+    "#111111",
+    1296000
+   ],
+   [
+    "#f5f5f5",
+    826875
+   ],
+   [
+    "#333333",
+    626400
+   ]
+  ]
+ },
+ {
+  "host": "explore.flowersforsociety.com",
+  "nisha": "ЦВЕТЫ И ФЛОРИСТИКА",
+  "bad": "Error: page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://explore",
+  "status": null
+ },
+ {
+  "host": "dutchflowerline.com",
+  "url": "https://dutchflowerline.com/",
+  "nisha": "ЦВЕТЫ И ФЛОРИСТИКА",
+  "title": "",
+  "nagr": "HM",
+  "podpis": "Skybox Design Agency HM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/dutch-flower-line-1",
+  "C": 19.7,
+  "yark": 0.2,
+  "neytr": 15.7,
+  "temn": 54.9,
+  "L": 26.4,
+  "dom": [
+   [
+    "#10162c",
+    47.9
+   ],
+   [
+    "#202945",
+    29.7
+   ],
+   [
+    "#9da1ae",
+    16.4
+   ],
+   [
+    "#0c1229",
+    2.6
+   ]
+  ],
+  "C9": 31.0,
+  "yark9": 1.2,
+  "neytr9": 38.7,
+  "temn9": 17.6,
+  "dom9": [
+   [
+    "#17244a",
+    35.6
+   ],
+   [
+    "#ffffff",
+    35.2
+   ],
+   [
+    "#101730",
+    17.6
+   ]
+  ],
+  "kegl": 1.04,
+  "keglpx": 15,
+  "gtext": "Do Not Sell or Share My Personal In",
+  "gfont": "Arial",
+  "bg": null,
+  "ves": 68,
+  "libs": [],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 1,
+  "req": 21,
+  "h1font": "",
+  "h1px": "",
+  "fony": []
+ },
+ {
+  "host": "rootandflowervail.com",
+  "url": "https://rootandflowervail.com/",
+  "nisha": "ЦВЕТЫ И ФЛОРИСТИКА",
+  "title": "Root & Flower | Wine & Cocktail Bar | Vail Colorado",
+  "nagr": "",
+  "podpis": "970 Design PRO",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/root-and-flower",
+  "C": 90.6,
+  "yark": 38.6,
+  "neytr": 7.9,
+  "temn": 20.7,
+  "L": 37.1,
+  "dom": [
+   [
+    "#047480",
+    22.2
+   ],
+   [
+    "#000a0e",
+    19.0
+   ],
+   [
+    "#238690",
+    18.6
+   ],
+   [
+    "#00515b",
+    11.4
+   ]
+  ],
+  "C9": 98.8,
+  "yark9": 44.2,
+  "neytr9": 6.8,
+  "temn9": 10.7,
+  "dom9": [
+   [
+    "#067782",
+    23.5
+   ],
+   [
+    "#228690",
+    17.9
+   ],
+   [
+    "#015f69",
+    16.5
+   ]
+  ],
+  "kegl": 5.9,
+  "keglpx": 85,
+  "gtext": "ROOT & FLOWER",
+  "gfont": "wfont_641500_12d8293cd7fd42b",
+  "bg": null,
+  "ves": 1679,
+  "libs": [],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 6,
+  "req": 153,
+  "h1font": "wfont_641500_12d8293cd7fd42b",
+  "h1px": "35px",
+  "fony": [
+   [
+    "#000000",
+    8616375
+   ],
+   [
+    "#fafafa",
+    259398
+   ]
+  ]
+ },
+ {
+  "host": "earthwindandflowers.com",
+  "url": "https://earthwindandflowers.com/",
+  "nisha": "ЦВЕТЫ И ФЛОРИСТИКА",
+  "title": "WELCOME TO Earth, Wind & Flowers - ewf",
+  "nagr": "",
+  "podpis": "rachel-j-durkan",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/earth-wind-and-flowers-2",
+  "C": 33.6,
+  "yark": 6.9,
+  "neytr": 23.9,
+  "temn": 0.1,
+  "L": 51.6,
+  "dom": [
+   [
+    "#6a5b4e",
+    38.5
+   ],
+   [
+    "#e7e3dd",
+    21.8
+   ],
+   [
+    "#4e3c2d",
+    21.5
+   ],
+   [
+    "#cca6ad",
+    11.8
+   ]
+  ],
+  "C9": 40.6,
+  "yark9": 8.5,
+  "neytr9": 11.2,
+  "temn9": 0.4,
+  "dom9": [
+   [
+    "#6a5b4e",
+    27.0
+   ],
+   [
+    "#e0e1d7",
+    14.7
+   ],
+   [
+    "#574233",
+    14.3
+   ]
+  ],
+  "kegl": 1.74,
+  "keglpx": 25,
+  "gtext": "wp.i18n.setLocaleData( { 'text dire",
+  "gfont": "arial",
+  "bg": "#ffffff",
+  "ves": 4909,
+  "libs": [
+   "wordpress"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 34,
+  "req": 118,
+  "h1font": "Woodcut",
+  "h1px": "36px",
+  "fony": [
+   [
+    "#edeae5",
+    4718520
+   ],
+   [
+    "#4c3b2c",
+    1978123
+   ],
+   [
+    "#000000",
+    279200
+   ],
+   [
+    "#e482a1",
+    80640
+   ]
+  ]
+ },
+ {
+  "host": "wuillemin-fleuristes.ch",
+  "url": "https://www.wuillemin-fleuristes.ch/",
+  "nisha": "ЦВЕТЫ И ФЛОРИСТИКА",
+  "title": "Wuillemin Fleuristes - Fleuriste & Livraison de Fleurs à Genève",
+  "nagr": "",
+  "podpis": "EWM. SA PRO",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/wuillemin-flowers",
+  "C": 36.4,
+  "yark": 2.2,
+  "neytr": 55.8,
+  "temn": 39.7,
+  "L": 39.2,
+  "dom": [
+   [
+    "#ffffff",
+    19.3
+   ],
+   [
+    "#615a46",
+    19.3
+   ],
+   [
+    "#1b1b19",
+    17.9
+   ],
+   [
+    "#44341a",
+    12.5
+   ]
+  ],
+  "C9": 40.6,
+  "yark9": 4.4,
+  "neytr9": 79.3,
+  "temn9": 5.8,
+  "dom9": [
+   [
+    "#ffffff",
+    48.4
+   ],
+   [
+    "#fafafa",
+    15.1
+   ],
+   [
+    "#beb8a0",
+    9.9
+   ]
+  ],
+  "kegl": 3.4,
+  "keglpx": 49,
+  "gtext": "Des fleurs qui parlent pour vous.",
+  "gfont": "Italiana",
+  "bg": null,
+  "ves": 13756,
+  "libs": [
+   "swiper",
+   "wordpress"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 53,
+  "req": 235,
+  "h1font": "Italiana",
+  "h1px": "48.96px",
+  "fony": [
+   [
+    "#f1efeb",
+    2732381
+   ],
+   [
+    "#000000",
+    2271501
+   ],
+   [
+    "#2a1e1d",
+    1932173
+   ],
+   [
+    "#ffffff",
+    1475828
+   ]
+  ]
+ },
+ {
+  "host": "coquelicots.nl",
+  "url": "https://coquelicots.nl/",
+  "nisha": "ЦВЕТЫ И ФЛОРИСТИКА",
+  "title": "",
+  "nagr": "HM",
+  "podpis": "Anne Noteboom HM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/vakantiehuis-coquelicots",
+  "C": 41.1,
+  "yark": 7.4,
+  "neytr": 38.7,
+  "temn": 21.6,
+  "L": 56.8,
+  "dom": [
+   [
+    "#fdf8f5",
+    29.6
+   ],
+   [
+    "#6f6c3e",
+    20.1
+   ],
+   [
+    "#2f3622",
+    13.1
+   ],
+   [
+    "#171e16",
+    12.2
+   ]
+  ],
+  "C9": 41.1,
+  "yark9": 5.9,
+  "neytr9": 39.8,
+  "temn9": 19.5,
+  "dom9": [
+   [
+    "#fdf8f5",
+    33.9
+   ],
+   [
+    "#302515",
+    26.6
+   ],
+   [
+    "#64572d",
+    25.6
+   ]
+  ],
+  "kegl": 3.13,
+  "keglpx": 45,
+  "gtext": "Informatie",
+  "gfont": "Laca Semibold",
+  "bg": "#fdf8f5",
+  "ves": 211963,
+  "libs": [
+   "gsap",
+   "nuxt"
+  ],
+  "video": 1,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 10,
+  "req": 46,
+  "h1font": "Laca Semibold",
+  "h1px": "70px",
+  "fony": [
+   [
+    "#fdf8f5",
+    4817492
+   ],
+   [
+    "#add5c0",
+    1598018
+   ],
+   [
+    "#121d5e",
+    1305121
+   ],
+   [
+    "#e8c4bf",
+    119964
+   ]
+  ]
+ },
+ {
+  "host": "melissasfloristandgifts.com.au",
+  "url": "https://melissasfloristandgifts.com.au/",
+  "nisha": "ЦВЕТЫ И ФЛОРИСТИКА",
+  "title": "Melissa's Florist & Gifts | Mount Waverley Same Day Flower Delivery",
+  "nagr": "",
+  "podpis": "melissasfloristandgifts",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/melissas-florist-gifts",
+  "C": 54.9,
+  "yark": 11.3,
+  "neytr": 56.7,
+  "temn": 5.5,
+  "L": 77.1,
+  "dom": [
+   [
+    "#ffffff",
+    22.8
+   ],
+   [
+    "#623235",
+    21.8
+   ],
+   [
+    "#c0b397",
+    15.0
+   ],
+   [
+    "#dfe6fe",
+    14.3
+   ]
+  ],
+  "C9": 60.9,
+  "yark9": 13.0,
+  "neytr9": 29.4,
+  "temn9": 8.8,
+  "dom9": [
+   [
+    "#fffbfb",
+    19.6
+   ],
+   [
+    "#3c4452",
+    15.4
+   ],
+   [
+    "#94889b",
+    14.6
+   ]
+  ],
+  "kegl": 4.3,
+  "keglpx": 62,
+  "gtext": "Beautiful Blooms, Delivered Daily",
+  "gfont": "New York",
+  "bg": null,
+  "ves": 5427,
+  "libs": [
+   "shopify"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 65,
+  "req": 229,
+  "h1font": "New York",
+  "h1px": "61.95px",
+  "fony": [
+   [
+    "#ffffff",
+    22646088
+   ],
+   [
+    "#801212",
+    1830644
+   ],
+   [
+    "#000000",
+    1175667
+   ],
+   [
+    "#ffeeee",
+    59782
+   ]
+  ]
+ },
+ {
+  "host": "shopelderflower.com",
+  "url": "https://shopelderflower.com/",
+  "nisha": "ЦВЕТЫ И ФЛОРИСТИКА",
+  "title": "kelkoogroup.net",
+  "nagr": "HM",
+  "podpis": "Digital Flagship PRO HM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/elder-flower-2",
+  "C": 2.8,
+  "yark": 0.0,
+  "neytr": 100.0,
+  "temn": 0.1,
+  "L": 99.7,
+  "dom": [
+   [
+    "#ffffff",
+    99.2
+   ],
+   [
+    "#373737",
+    0.2
+   ],
+   [
+    "#e6e6e6",
+    0.2
+   ],
+   [
+    "#747474",
+    0.1
+   ]
+  ],
+  "C9": 0.0,
+  "yark9": 0.0,
+  "neytr9": 100.0,
+  "temn9": 0.0,
+  "dom9": [
+   [
+    "#ffffff",
+    100.0
+   ]
+  ],
+  "kegl": 0,
+  "keglpx": 0,
+  "gtext": "",
+  "gfont": "",
+  "bg": null,
+  "ves": 262,
+  "libs": [],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 0,
+  "req": 26,
+  "h1font": "",
+  "h1px": "",
+  "fony": []
+ },
+ {
+  "host": "judes.co.uk",
+  "url": "https://judes.co.uk/",
+  "nisha": "МОРОЖЕНОЕ, ДЕСЕРТЫ, КОНФЕТЫ",
+  "title": "Home | Jude's Ice Cream",
+  "nagr": "",
+  "podpis": "SwerveConcepts",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/jude-s-ice-cream",
+  "C": 121.2,
+  "yark": 71.5,
+  "neytr": 12.9,
+  "temn": 6.2,
+  "L": 62.8,
+  "dom": [
+   [
+    "#1d94ce",
+    22.4
+   ],
+   [
+    "#4eaee9",
+    20.9
+   ],
+   [
+    "#44a6e0",
+    15.7
+   ],
+   [
+    "#fcf9f5",
+    15.1
+   ]
+  ],
+  "C9": 79.9,
+  "yark9": 27.8,
+  "neytr9": 62.2,
+  "temn9": 3.4,
+  "dom9": [
+   [
+    "#ffffff",
+    58.6
+   ],
+   [
+    "#4bace6",
+    15.5
+   ],
+   [
+    "#554341",
+    9.1
+   ]
+  ],
+  "kegl": 2.01,
+  "keglpx": 29,
+  "gtext": "JUDE'S",
+  "gfont": "freight-sans-pro",
+  "bg": "#ffffff",
+  "ves": 10887,
+  "libs": [],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 8,
+  "req": 54,
+  "h1font": "freight-sans-pro",
+  "h1px": "42px",
+  "fony": [
+   [
+    "#b0d9ef",
+    1167840
+   ],
+   [
+    "#ffffff",
+    548025
+   ],
+   [
+    "#d6f2fd",
+    531360
+   ],
+   [
+    "#c4edfd",
+    483650
+   ]
+  ]
+ },
+ {
+  "host": "creamco.net",
+  "url": "https://creamco.net/",
+  "nisha": "МОРОЖЕНОЕ, ДЕСЕРТЫ, КОНФЕТЫ",
+  "title": "Cream Co.",
+  "nagr": "SOTD DEV",
+  "podpis": "Studio Naam PRO DEV SOTD",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/cream-co",
+  "C": 3.9,
+  "yark": 0.0,
+  "neytr": 100.0,
+  "temn": 0.0,
+  "L": 86.4,
+  "dom": [
+   [
+    "#d3dad7",
+    26.5
+   ],
+   [
+    "#d4d9d5",
+    20.1
+   ],
+   [
+    "#d5d8d4",
+    15.5
+   ],
+   [
+    "#d4d8d5",
+    11.6
+   ]
+  ],
+  "C9": 0.0,
+  "yark9": 0.0,
+  "neytr9": 100.0,
+  "temn9": 0.0,
+  "dom9": [
+   [
+    "#ffffff",
+    47.0
+   ],
+   [
+    "#f4f4f4",
+    46.9
+   ],
+   [
+    "#f3f3f3",
+    1.5
+   ]
+  ],
+  "kegl": 20,
+  "keglpx": 288,
+  "gtext": "Cream Co.",
+  "gfont": "GT America",
+  "bg": null,
+  "ves": 2301,
+  "libs": [
+   "wordpress"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 17,
+  "req": 32,
+  "h1font": "GT America",
+  "h1px": "72px",
+  "fony": [
+   [
+    "#f4f4f4",
+    1851200
+   ],
+   [
+    "#ffffff",
+    1728000
+   ]
+  ]
+ },
+ {
+  "host": "us.bobaicecream.com",
+  "nisha": "МОРОЖЕНОЕ, ДЕСЕРТЫ, КОНФЕТЫ",
+  "bad": "Error: page.goto: net::ERR_NAME_NOT_RESOLVED at https://us.bobaicecrea",
+  "status": null
+ },
+ {
+  "host": "alvamaice.com",
+  "url": "https://alvamaice.com/",
+  "nisha": "МОРОЖЕНОЕ, ДЕСЕРТЫ, КОНФЕТЫ",
+  "title": "ALVAMA ICE",
+  "nagr": "HM",
+  "podpis": "WHOISJOA® PRO HM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/alvama-ice",
+  "C": 17.2,
+  "yark": 0.5,
+  "neytr": 4.7,
+  "temn": 92.4,
+  "L": 6.5,
+  "dom": [
+   [
+    "#01020a",
+    87.8
+   ],
+   [
+    "#dbf1f6",
+    5.1
+   ],
+   [
+    "#4c4f59",
+    2.6
+   ],
+   [
+    "#010208",
+    1.3
+   ]
+  ],
+  "C9": 29.3,
+  "yark9": 1.2,
+  "neytr9": 13.4,
+  "temn9": 64.9,
+  "dom9": [
+   [
+    "#02030f",
+    24.2
+   ],
+   [
+    "#01020a",
+    22.9
+   ],
+   [
+    "#dff6fb",
+    18.0
+   ]
+  ],
+  "kegl": 2.78,
+  "keglpx": 40,
+  "gtext": "23",
+  "gfont": "Inter",
+  "bg": "#000000",
+  "ves": 24525,
+  "libs": [
+   "lenis",
+   "webflow"
+  ],
+  "video": 4,
+  "canvas": 1,
+  "webgl": 1,
+  "img": 80,
+  "req": 147,
+  "h1font": "Inter",
+  "h1px": "64px",
+  "fony": [
+   [
+    "#000000",
+    3347611
+   ],
+   [
+    "#f9f9f9",
+    205825
+   ],
+   [
+    "#0082f8",
+    154080
+   ],
+   [
+    "#0073ff",
+    57600
+   ]
+  ]
+ },
+ {
+  "host": "ananascream.fr",
+  "url": "https://ananascream.fr/",
+  "nisha": "МОРОЖЕНОЕ, ДЕСЕРТЫ, КОНФЕТЫ",
+  "title": "Ananas Cream, La solutions IT pour PME",
+  "nagr": "",
+  "podpis": "Miskilanium",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/ananas-cream",
+  "C": 18.7,
+  "yark": 1.5,
+  "neytr": 52.5,
+  "temn": 36.2,
+  "L": 52.4,
+  "dom": [
+   [
+    "#ffffff",
+    30.9
+   ],
+   [
+    "#3f3f43",
+    20.9
+   ],
+   [
+    "#1f252c",
+    13.0
+   ],
+   [
+    "#2e3338",
+    11.9
+   ]
+  ],
+  "C9": 24.0,
+  "yark9": 3.7,
+  "neytr9": 45.8,
+  "temn9": 33.0,
+  "dom9": [
+   [
+    "#ffffff",
+    20.3
+   ],
+   [
+    "#42484e",
+    18.7
+   ],
+   [
+    "#3e4044",
+    16.0
+   ]
+  ],
+  "kegl": 1.39,
+  "keglpx": 20,
+  "gtext": "Ananas Cream",
+  "gfont": "Inter",
+  "bg": "#ffffff",
+  "ves": 499,
+  "libs": [],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 9,
+  "req": 23,
+  "h1font": "Roboto",
+  "h1px": "64px",
+  "fony": [
+   [
+    "#f6f5f4",
+    2175570
+   ],
+   [
+    "#000000",
+    2158862
+   ],
+   [
+    "#ffffff",
+    1508727
+   ],
+   [
+    "#517bbd",
+    17254
+   ]
+  ]
+ },
+ {
+  "host": "eatmeicecream.com",
+  "url": "https://eatmeicecream.com/",
+  "nisha": "МОРОЖЕНОЕ, ДЕСЕРТЫ, КОНФЕТЫ",
+  "title": "Eat Me Ice Cream",
+  "nagr": "",
+  "podpis": "derektoplasm",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/eat-me-ice-cream",
+  "C": null,
+  "yark": null,
+  "neytr": null,
+  "temn": null,
+  "L": null,
+  "dom": [],
+  "C9": null,
+  "yark9": null,
+  "neytr9": null,
+  "temn9": null,
+  "dom9": [],
+  "kegl": 1.44,
+  "keglpx": 21,
+  "gtext": ".top-bun, \n  .patty, \n  .bottom-bun",
+  "gfont": "Montserrat",
+  "bg": "#666666",
+  "ves": 2375,
+  "libs": [
+   "squarespace"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 18,
+  "req": 70,
+  "h1font": "granville",
+  "h1px": "44.8px",
+  "fony": [
+   [
+    "#9f5dc5",
+    14340768
+   ],
+   [
+    "#ffffff",
+    5343098
+   ],
+   [
+    "#000000",
+    2704725
+   ],
+   [
+    "#666666",
+    913513
+   ]
+  ]
+ },
+ {
+  "host": "krackerz.com",
+  "url": "https://krackerz.com/",
+  "nisha": "МОРОЖЕНОЕ, ДЕСЕРТЫ, КОНФЕТЫ",
+  "title": "Krackerz | Sales course for designers",
+  "nagr": "",
+  "podpis": "Bizkit Group",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/krackerz-learning",
+  "C": 41.1,
+  "yark": 6.0,
+  "neytr": 77.8,
+  "temn": 9.9,
+  "L": 79.5,
+  "dom": [
+   [
+    "#f7f6f0",
+    39.6
+   ],
+   [
+    "#ffffff",
+    31.5
+   ],
+   [
+    "#745c4c",
+    24.9
+   ],
+   [
+    "#ccfe3a",
+    2.3
+   ]
+  ],
+  "C9": 46.7,
+  "yark9": 0.3,
+  "neytr9": 66.8,
+  "temn9": 1.7,
+  "dom9": [
+   [
+    "#f7f6f0",
+    63.2
+   ],
+   [
+    "#580d14",
+    31.8
+   ],
+   [
+    "#530810",
+    2.2
+   ]
+  ],
+  "kegl": 5.56,
+  "keglpx": 80,
+  "gtext": "FOR",
+  "gfont": "Highway Motel Sans Regular",
+  "bg": null,
+  "ves": 281,
+  "libs": [],
+  "video": 1,
+  "canvas": 9,
+  "webgl": 9,
+  "img": 46,
+  "req": 86,
+  "h1font": "Highway Motel Sans Regular",
+  "h1px": "80px",
+  "fony": [
+   [
+    "#ffffff",
+    13722016
+   ],
+   [
+    "#f7f6f0",
+    7913767
+   ],
+   [
+    "#580d14",
+    7685076
+   ],
+   [
+    "#7c1a06",
+    1601779
+   ]
+  ]
+ },
+ {
+  "host": "ponpon-mania.com",
+  "url": "https://ponpon-mania.com/",
+  "nisha": "МОРОЖЕНОЕ, ДЕСЕРТЫ, КОНФЕТЫ",
+  "title": "Ponpon Mania - Interactive Comic",
+  "nagr": "SOTM DEV",
+  "podpis": "Patrick Heng DEV SOTM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/ponpon-mania",
+  "C": 157.5,
+  "yark": 66.1,
+  "neytr": 11.8,
+  "temn": 9.9,
+  "L": 60.4,
+  "dom": [
+   [
+    "#ffad12",
+    27.8
+   ],
+   [
+    "#8c1f24",
+    26.0
+   ],
+   [
+    "#d9939d",
+    23.9
+   ],
+   [
+    "#ffad11",
+    9.1
+   ]
+  ],
+  "C9": 8.5,
+  "yark9": 0.0,
+  "neytr9": 99.7,
+  "temn9": 9.0,
+  "dom9": [
+   [
+    "#fff6f0",
+    85.3
+   ],
+   [
+    "#161616",
+    8.7
+   ],
+   [
+    "#f7eae2",
+    3.6
+   ]
+  ],
+  "kegl": 2.43,
+  "keglpx": 35,
+  "gtext": "read now",
+  "gfont": "Arial",
+  "bg": "#171717",
+  "ves": 5262,
+  "libs": [
+   "nuxt"
+  ],
+  "video": 0,
+  "canvas": 1,
+  "webgl": 1,
+  "img": 0,
+  "req": 101,
+  "h1font": "Libre Franklin",
+  "h1px": "7.8125px",
+  "fony": [
+   [
+    "#171717",
+    1390106
+   ],
+   [
+    "#fff6f0",
+    1296000
+   ],
+   [
+    "#ffffff",
+    6026
+   ],
+   [
+    "#000000",
+    1804
+   ]
+  ]
+ },
+ {
+  "host": "newforesticecream.com",
+  "url": "https://www.newforesticecream.com/",
+  "nisha": "МОРОЖЕНОЕ, ДЕСЕРТЫ, КОНФЕТЫ",
+  "title": "New Forest Ice Cream",
+  "nagr": "",
+  "podpis": "Upperdog",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/new-forest-ice-cream",
+  "C": 47.3,
+  "yark": 12.8,
+  "neytr": 64.9,
+  "temn": 0.3,
+  "L": 78.5,
+  "dom": [
+   [
+    "#cedce5",
+    15.9
+   ],
+   [
+    "#ffffff",
+    14.2
+   ],
+   [
+    "#b3c5d1",
+    13.5
+   ],
+   [
+    "#dbdcdc",
+    13.1
+   ]
+  ],
+  "C9": 58.5,
+  "yark9": 16.0,
+  "neytr9": 33.3,
+  "temn9": 0.1,
+  "dom9": [
+   [
+    "#cceeff",
+    26.6
+   ],
+   [
+    "#d5d0cb",
+    14.0
+   ],
+   [
+    "#b5ceda",
+    12.8
+   ]
+  ],
+  "kegl": 3.89,
+  "keglpx": 56,
+  "gtext": "New Forest Ice Cream",
+  "gfont": "hind",
+  "bg": "#ffffff",
+  "ves": 6847,
+  "libs": [
+   "wordpress"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 29,
+  "req": 74,
+  "h1font": "hind",
+  "h1px": "56px",
+  "fony": [
+   [
+    "#fcf8e1",
+    6444833
+   ],
+   [
+    "#cceeff",
+    1961237
+   ],
+   [
+    "#ffe99c",
+    1108305
+   ],
+   [
+    "#aaddf7",
+    690660
+   ]
+  ]
+ },
+ {
+  "host": "sunbeambagels.com",
+  "url": "https://sunbeambagels.com/",
+  "nisha": "МОРОЖЕНОЕ, ДЕСЕРТЫ, КОНФЕТЫ",
+  "title": "Bagels, Coffee & Lunch in Bryan, TX | Sunbeam Bagels",
+  "nagr": "HM",
+  "podpis": "Drifting Creatives HM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/sunbeam-bagels-coffee",
+  "C": 36.1,
+  "yark": 2.7,
+  "neytr": 10.8,
+  "temn": 69.6,
+  "L": 18.7,
+  "dom": [
+   [
+    "#1f0f0b",
+    16.8
+   ],
+   [
+    "#4e392e",
+    16.3
+   ],
+   [
+    "#3f221c",
+    14.7
+   ],
+   [
+    "#0b0403",
+    11.9
+   ]
+  ],
+  "C9": 25.6,
+  "yark9": 1.0,
+  "neytr9": 11.2,
+  "temn9": 73.0,
+  "dom9": [
+   [
+    "#483930",
+    15.8
+   ],
+   [
+    "#21110e",
+    15.6
+   ],
+   [
+    "#3c2520",
+    13.0
+   ]
+  ],
+  "kegl": 1.67,
+  "keglpx": 24,
+  "gtext": "Menu",
+  "gfont": "forma-djr-mono",
+  "bg": "#fce9d5",
+  "ves": 46209,
+  "libs": [
+   "gsap",
+   "three"
+  ],
+  "video": 5,
+  "canvas": 1,
+  "webgl": 1,
+  "img": 58,
+  "req": 93,
+  "h1font": "Belgard",
+  "h1px": "115.2px",
+  "fony": [
+   [
+    "#fce9d5",
+    2736000
+   ],
+   [
+    "#000000",
+    1296000
+   ],
+   [
+    "#c3acc6",
+    653739
+   ],
+   [
+    "#ee3629",
+    43566
+   ]
+  ]
+ },
+ {
+  "host": "donut-studio.com",
+  "url": "https://donut-studio.com/",
+  "nisha": "МОРОЖЕНОЕ, ДЕСЕРТЫ, КОНФЕТЫ",
+  "title": "The Donut Studio - Creative Studio",
+  "nagr": "HM",
+  "podpis": "donut-studio HM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/the-donut-studio",
+  "C": 31.8,
+  "yark": 2.5,
+  "neytr": 90.4,
+  "temn": 95.3,
+  "L": 2.8,
+  "dom": [
+   [
+    "#000000",
+    90.3
+   ],
+   [
+    "#5d5905",
+    1.6
+   ],
+   [
+    "#979108",
+    1.6
+   ],
+   [
+    "#161401",
+    1.5
+   ]
+  ],
+  "C9": 14.7,
+  "yark9": 0.4,
+  "neytr9": 89.5,
+  "temn9": 99.5,
+  "dom9": [
+   [
+    "#000000",
+    89.5
+   ],
+   [
+    "#010100",
+    6.1
+   ],
+   [
+    "#020200",
+    3.8
+   ]
+  ],
+  "kegl": 23.12,
+  "keglpx": 333,
+  "gtext": "The Donut Studio",
+  "gfont": "Helvetica Neue Medium",
+  "bg": "#000000",
+  "ves": 604,
+  "libs": [
+   "three"
+  ],
+  "video": 1,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 22,
+  "req": 52,
+  "h1font": "Helvetica Neue Bold",
+  "h1px": "22px",
+  "fony": [
+   [
+    "#000000",
+    15687188
+   ],
+   [
+    "#ff4ba7",
+    6734048
+   ],
+   [
+    "#ff4937",
+    4676040
+   ],
+   [
+    "#2d19f8",
+    3410340
+   ]
+  ]
+ },
+ {
+  "host": "everydayicing.com",
+  "url": "https://everydayicing.com/",
+  "nisha": "МОРОЖЕНОЕ, ДЕСЕРТЫ, КОНФЕТЫ",
+  "title": "This store is unavailable",
+  "nagr": "",
+  "podpis": "ensodigital",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/everyday-icing",
+  "C": 3.2,
+  "yark": 0.0,
+  "neytr": 99.7,
+  "temn": 0.0,
+  "L": 99.8,
+  "dom": [
+   [
+    "#ffffff",
+    98.8
+   ],
+   [
+    "#e6ebee",
+    0.3
+   ],
+   [
+    "#cdd5d5",
+    0.3
+   ],
+   [
+    "#a6aaaf",
+    0.3
+   ]
+  ],
+  "C9": 8.0,
+  "yark9": 0.3,
+  "neytr9": 98.4,
+  "temn9": 0.0,
+  "dom9": [
+   [
+    "#ffffff",
+    96.3
+   ],
+   [
+    "#becad0",
+    0.8
+   ],
+   [
+    "#858893",
+    0.8
+   ]
+  ],
+  "kegl": 1.39,
+  "keglpx": 20,
+  "gtext": "Something went wrong.",
+  "gfont": "Helvetica Neue",
+  "bg": "#ffffff",
+  "ves": 0,
+  "libs": [],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 0,
+  "req": 1,
+  "h1font": "",
+  "h1px": "",
+  "fony": []
+ },
+ {
+  "host": "agrumeafarm.it",
+  "url": "https://agrumeafarm.it/",
+  "nisha": "ЕДА И НАПИТКИ",
+  "title": "Agrumea Farm | Jams, pestos and flavours of Sicily",
+  "nagr": "",
+  "podpis": "Studio K95",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/agrumea-farm",
+  "C": 58.9,
+  "yark": 8.9,
+  "neytr": 60.1,
+  "temn": 1.7,
+  "L": 71.9,
+  "dom": [
+   [
+    "#fdf3eb",
+    55.0
+   ],
+   [
+    "#531a23",
+    25.6
+   ],
+   [
+    "#944f4b",
+    13.2
+   ],
+   [
+    "#fbf3e5",
+    4.0
+   ]
+  ],
+  "C9": 135.1,
+  "yark9": 56.5,
+  "neytr9": 18.3,
+  "temn9": 0.0,
+  "dom9": [
+   [
+    "#e94e1b",
+    27.7
+   ],
+   [
+    "#901f1e",
+    19.3
+   ],
+   [
+    "#fdf3eb",
+    19.0
+   ]
+  ],
+  "kegl": 2.22,
+  "keglpx": 32,
+  "gtext": "Agrumea Farm: Sicilian artisan marm",
+  "gfont": "ivystyle-sans",
+  "bg": "#fdf3eb",
+  "ves": 1402,
+  "libs": [
+   "nuxt"
+  ],
+  "video": 0,
+  "canvas": 10,
+  "webgl": 0,
+  "img": 12,
+  "req": 84,
+  "h1font": "ivystyle-sans",
+  "h1px": "32px",
+  "fony": [
+   [
+    "#e94e1b",
+    1305653
+   ],
+   [
+    "#fdf3eb",
+    1299133
+   ],
+   [
+    "#762530",
+    1296000
+   ],
+   [
+    "#ffffff",
+    139816
+   ]
+  ]
+ },
+ {
+  "host": "larevoltosa.es",
+  "url": "https://larevoltosa.es/",
+  "nisha": "ЕДА И НАПИТКИ",
+  "title": "La Revoltosa | La burbuja Ibérica",
+  "nagr": "SOTD DEV",
+  "podpis": "Waka PRO DEV SOTD",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/la-revoltosa",
+  "C": 114.5,
+  "yark": 94.5,
+  "neytr": 5.3,
+  "temn": 0.2,
+  "L": 58.7,
+  "dom": [
+   [
+    "#fe3e29",
+    92.1
+   ],
+   [
+    "#ffffff",
+    4.0
+   ],
+   [
+    "#fb3d28",
+    1.6
+   ],
+   [
+    "#be908b",
+    0.8
+   ]
+  ],
+  "C9": 149.4,
+  "yark9": 72.0,
+  "neytr9": 27.7,
+  "temn9": 3.3,
+  "dom9": [
+   [
+    "#fe3e29",
+    69.4
+   ],
+   [
+    "#ffffff",
+    18.2
+   ],
+   [
+    "#2b1d1b",
+    3.3
+   ]
+  ],
+  "kegl": 13.33,
+  "keglpx": 192,
+  "gtext": "IBÉRICA",
+  "gfont": "Vulf Mono",
+  "bg": "#f4f2ea",
+  "ves": 22070,
+  "libs": [
+   "wordpress"
+  ],
+  "video": 0,
+  "canvas": 1,
+  "webgl": 1,
+  "img": 21,
+  "req": 81,
+  "h1font": "Teko",
+  "h1px": "105.12px",
+  "fony": [
+   [
+    "#fe3e29",
+    9249817
+   ],
+   [
+    "#f4f2ea",
+    5286554
+   ],
+   [
+    "#ff0000",
+    1865878
+   ],
+   [
+    "#ffffff",
+    77846
+   ]
+  ]
+ },
+ {
+  "host": "gdrinkme.com",
+  "url": "https://gdrinkme.com/",
+  "nisha": "ЕДА И НАПИТКИ",
+  "title": "g Middle East | g, Do You.",
+  "nagr": "",
+  "podpis": "Asma Masri",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/do-you-g",
+  "C": 13.2,
+  "yark": 1.0,
+  "neytr": 89.3,
+  "temn": 87.6,
+  "L": 9.0,
+  "dom": [
+   [
+    "#000000",
+    82.0
+   ],
+   [
+    "#161114",
+    4.3
+   ],
+   [
+    "#524447",
+    4.1
+   ],
+   [
+    "#d3d6df",
+    3.6
+   ]
+  ],
+  "C9": 7.9,
+  "yark9": 0.3,
+  "neytr9": 96.2,
+  "temn9": 69.8,
+  "dom9": [
+   [
+    "#000000",
+    67.4
+   ],
+   [
+    "#f6f7f8",
+    20.7
+   ],
+   [
+    "#7c7b7f",
+    3.7
+   ]
+  ],
+  "kegl": 12.97,
+  "keglpx": 187,
+  "gtext": "CRANBERRY",
+  "gfont": "dropkicker",
+  "bg": "#f6f7f8",
+  "ves": 38995,
+  "libs": [
+   "wordpress"
+  ],
+  "video": 3,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 23,
+  "req": 127,
+  "h1font": "dropkicker",
+  "h1px": "66px",
+  "fony": [
+   [
+    "#000000",
+    2481120
+   ],
+   [
+    "#c9344f",
+    1296000
+   ],
+   [
+    "#a02e5c",
+    1296000
+   ],
+   [
+    "#72c7d3",
+    1296000
+   ]
+  ]
+ },
+ {
+  "host": "partakefoods.com",
+  "url": "https://partakefoods.com/",
+  "nisha": "ЕДА И НАПИТКИ",
+  "title": "Partake Foods | Super Delicious Cookies",
+  "nagr": "HM",
+  "podpis": "Has Merit PRO HM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/partake-foods",
+  "C": 65.4,
+  "yark": 7.9,
+  "neytr": 41.8,
+  "temn": 2.4,
+  "L": 53.7,
+  "dom": [
+   [
+    "#6e6456",
+    27.6
+   ],
+   [
+    "#fff8ec",
+    22.6
+   ],
+   [
+    "#411939",
+    12.0
+   ],
+   [
+    "#764745",
+    11.0
+   ]
+  ],
+  "C9": 112.0,
+  "yark9": 30.9,
+  "neytr9": 16.3,
+  "temn9": 0.2,
+  "dom9": [
+   [
+    "#007367",
+    29.8
+   ],
+   [
+    "#fce3d5",
+    29.8
+   ],
+   [
+    "#b3885c",
+    17.4
+   ]
+  ],
+  "kegl": 6,
+  "keglpx": 86,
+  "gtext": "Partake in Daily Sweetness",
+  "gfont": "Bunch-Bold",
+  "bg": "#fff6eb",
+  "ves": 6079,
+  "libs": [
+   "gsap",
+   "shopify"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 134,
+  "req": 434,
+  "h1font": "Bunch-Bold",
+  "h1px": "40px",
+  "fony": [
+   [
+    "#fff6eb",
+    5636362
+   ],
+   [
+    "#00559b",
+    3794724
+   ],
+   [
+    "#141414",
+    1296000
+   ],
+   [
+    "#82d8e7",
+    1204200
+   ]
+  ]
+ },
+ {
+  "host": "hydroflowdrink.com",
+  "url": "https://hydroflowdrink.com/",
+  "nisha": "ЕДА И НАПИТКИ",
+  "title": "Hydroflow",
+  "nagr": "HM",
+  "podpis": "Dialedweb HM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/hydroflow",
+  "C": 0.0,
+  "yark": 0.0,
+  "neytr": 100.0,
+  "temn": 0.1,
+  "L": 90.2,
+  "dom": [
+   [
+    "#e4e4e4",
+    76.5
+   ],
+   [
+    "#e3e3e3",
+    10.6
+   ],
+   [
+    "#e0e0e0",
+    10.5
+   ],
+   [
+    "#dfdfdf",
+    1.6
+   ]
+  ],
+  "C9": 8.8,
+  "yark9": 0.1,
+  "neytr9": 92.4,
+  "temn9": 0.2,
+  "dom9": [
+   [
+    "#e4e4e4",
+    59.0
+   ],
+   [
+    "#768089",
+    13.5
+   ],
+   [
+    "#cfd3d5",
+    9.4
+   ]
+  ],
+  "kegl": 9.5,
+  "keglpx": 137,
+  "gtext": "HYDRATION",
+  "gfont": "at",
+  "bg": "#ffffff",
+  "ves": 914,
+  "libs": [
+   "next"
+  ],
+  "video": 1,
+  "canvas": 2,
+  "webgl": 1,
+  "img": 30,
+  "req": 32,
+  "h1font": "at",
+  "h1px": "43.2px",
+  "fony": [
+   [
+    "#e4e4e4",
+    10446615
+   ],
+   [
+    "#f6f6f6",
+    4734716
+   ],
+   [
+    "#1b1b1b",
+    1439056
+   ],
+   [
+    "#ff7120",
+    16874
+   ]
+  ]
+ },
+ {
+  "host": "ciaoenergy.com",
+  "url": "https://ciaoenergy.com/",
+  "nisha": "ЕДА И НАПИТКИ",
+  "title": "Ciao Energy - L’energy drink parfaite",
+  "nagr": "SOTD DEV",
+  "podpis": "Skaald DEV SOTD",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/ciao-energy-launch-website",
+  "C": 0.0,
+  "yark": 0.0,
+  "neytr": 100.0,
+  "temn": 97.6,
+  "L": 1.4,
+  "dom": [
+   [
+    "#000000",
+    97.4
+   ],
+   [
+    "#797979",
+    0.6
+   ],
+   [
+    "#bfbfbf",
+    0.4
+   ],
+   [
+    "#686868",
+    0.4
+   ]
+  ],
+  "C9": 0.0,
+  "yark9": 0.0,
+  "neytr9": 100.0,
+  "temn9": 92.0,
+  "dom9": [
+   [
+    "#000000",
+    77.8
+   ],
+   [
+    "#010101",
+    13.6
+   ],
+   [
+    "#454545",
+    2.7
+   ]
+  ],
+  "kegl": 2,
+  "keglpx": 29,
+  "gtext": "Gamme",
+  "gfont": "Geist",
+  "bg": "#000000",
+  "ves": 4717,
+  "libs": [
+   "gsap",
+   "three",
+   "lenis",
+   "webflow"
+  ],
+  "video": 7,
+  "canvas": 1,
+  "webgl": 1,
+  "img": 2,
+  "req": 74,
+  "h1font": "Franklin Gothic Atf",
+  "h1px": "60.0048px",
+  "fony": [
+   [
+    "#000000",
+    1296000
+   ],
+   [
+    "#ffffff",
+    92261
+   ],
+   [
+    "#9089d3",
+    2025
+   ]
+  ]
+ },
+ {
+  "host": "mrday.it",
+  "url": "https://www.mrday.it/",
+  "nisha": "ЕДА И НАПИТКИ",
+  "title": "Mr.Day | Level Up la tua pausa snack",
+  "nagr": "HM",
+  "podpis": "MWD.digital HM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/mr-day",
+  "C": null,
+  "yark": null,
+  "neytr": null,
+  "temn": null,
+  "L": null,
+  "dom": [],
+  "C9": null,
+  "yark9": null,
+  "neytr9": null,
+  "temn9": null,
+  "dom9": [],
+  "kegl": 2.22,
+  "keglpx": 32,
+  "gtext": "Prodotti",
+  "gfont": "Carter One",
+  "bg": "#f28a19",
+  "ves": 24084,
+  "libs": [
+   "wordpress"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 104,
+  "req": 111,
+  "h1font": "Source Sans 3",
+  "h1px": "16px",
+  "fony": [
+   [
+    "#00a7e2",
+    4690836
+   ],
+   [
+    "#2b2a27",
+    2271600
+   ],
+   [
+    "#ffffff",
+    1833845
+   ],
+   [
+    "#f28a19",
+    1327684
+   ]
+  ]
+ },
+ {
+  "host": "matcha-cartel.com",
+  "url": "https://matcha-cartel.com/",
+  "nisha": "ЕДА И НАПИТКИ",
+  "title": "Matcha Cartel",
+  "nagr": "HM",
+  "podpis": "Surd Studio PRO HM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/matcha-cartel",
+  "C": null,
+  "yark": null,
+  "neytr": null,
+  "temn": null,
+  "L": null,
+  "dom": [],
+  "C9": null,
+  "yark9": null,
+  "neytr9": null,
+  "temn9": null,
+  "dom9": [],
+  "kegl": 2.78,
+  "keglpx": 40,
+  "gtext": "ENTER PASSCODE",
+  "gfont": "Hubot Sans Condensed Bold",
+  "bg": "#ffffff",
+  "ves": 45,
+  "libs": [],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 1,
+  "req": 15,
+  "h1font": "",
+  "h1px": "",
+  "fony": [
+   [
+    "#000000",
+    1306560
+   ],
+   [
+    "#ffffff",
+    1296000
+   ],
+   [
+    "#8796a1",
+    300
+   ]
+  ]
+ },
+ {
+  "host": "drinkzoi.co",
+  "url": "https://drinkzoi.co/",
+  "nisha": "ЕДА И НАПИТКИ",
+  "title": "Zoi Ice Tea - The Ultimate Experience",
+  "nagr": "HM",
+  "podpis": "Big Horror Athens PRO HM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/zoi-ice-tea",
+  "C": 0.0,
+  "yark": 0.0,
+  "neytr": 100.0,
+  "temn": 100.0,
+  "L": 0.0,
+  "dom": [
+   [
+    "#000000",
+    100.0
+   ]
+  ],
+  "C9": 0.0,
+  "yark9": 0.0,
+  "neytr9": 100.0,
+  "temn9": 99.4,
+  "dom9": [
+   [
+    "#000000",
+    99.3
+   ],
+   [
+    "#f2f2f2",
+    0.2
+   ],
+   [
+    "#717171",
+    0.1
+   ]
+  ],
+  "kegl": 0.97,
+  "keglpx": 14,
+  "gtext": "Drag to explore",
+  "gfont": "BeausiteClassic-Medium",
+  "bg": "#ffffff",
+  "ves": 1615,
+  "libs": [
+   "wordpress"
+  ],
+  "video": 0,
+  "canvas": 2,
+  "webgl": 2,
+  "img": 12,
+  "req": 24,
+  "h1font": "BeausiteClassic-Light",
+  "h1px": "24px",
+  "fony": [
+   [
+    "#000000",
+    2592000
+   ],
+   [
+    "#f0f0f0",
+    312
+   ]
+  ]
+ },
+ {
+  "host": "sloshseltzer.com",
+  "url": "https://sloshseltzer.com/",
+  "nisha": "ЕДА И НАПИТКИ",
+  "title": "Not Supported - Slosh Seltzer",
+  "nagr": "SOTM DEV",
+  "podpis": "Active theory DEV SOTM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/slosh-seltzer",
+  "C": 84.9,
+  "yark": 11.2,
+  "neytr": 0.0,
+  "temn": 0.0,
+  "L": 82.1,
+  "dom": [
+   [
+    "#ffc1ff",
+    83.2
+   ],
+   [
+    "#ff0837",
+    4.7
+   ],
+   [
+    "#ffc5ff",
+    3.9
+   ],
+   [
+    "#ff0432",
+    2.3
+   ]
+  ],
+  "C9": 99.6,
+  "yark9": 15.6,
+  "neytr9": 0.0,
+  "temn9": 0.0,
+  "dom9": [
+   [
+    "#ffc1ff",
+    79.7
+   ],
+   [
+    "#ff0837",
+    7.8
+   ],
+   [
+    "#ffc4ff",
+    2.9
+   ]
+  ],
+  "kegl": 6.94,
+  "keglpx": 100,
+  "gtext": "SORRY",
+  "gfont": "steelfish-eb",
+  "bg": "#ffc1ff",
+  "ves": 552,
+  "libs": [],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 0,
+  "req": 19,
+  "h1font": "steelfish-eb",
+  "h1px": "100px",
+  "fony": []
+ },
+ {
+  "host": "buckssauce.com",
+  "url": "https://buckssauce.com/",
+  "nisha": "ЕДА И НАПИТКИ",
+  "title": "Bucks Sauce - Best Small-Batch BBQ Sauce | Gourmet, No HFCS | Bucks Sa",
+  "nagr": "SOTD AH DEV",
+  "podpis": "Buzzworthy PRO AH DEV SOTD",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/bucks-sauce",
+  "C": 35.8,
+  "yark": 3.7,
+  "neytr": 1.6,
+  "temn": 85.4,
+  "L": 13.7,
+  "dom": [
+   [
+    "#100b06",
+    71.4
+   ],
+   [
+    "#dbba91",
+    11.1
+   ],
+   [
+    "#3c2d25",
+    9.1
+   ],
+   [
+    "#0c0603",
+    3.6
+   ]
+  ],
+  "C9": 52.0,
+  "yark9": 6.7,
+  "neytr9": 0.0,
+  "temn9": 86.0,
+  "dom9": [
+   [
+    "#100b06",
+    81.1
+   ],
+   [
+    "#dbb76c",
+    7.8
+   ],
+   [
+    "#753818",
+    5.6
+   ]
+  ],
+  "kegl": 6.94,
+  "keglpx": 100,
+  "gtext": "S",
+  "gfont": "PeperoncinoSansCustom",
+  "bg": "#100b06",
+  "ves": 2548,
+  "libs": [
+   "lottie",
+   "next"
+  ],
+  "video": 26,
+  "canvas": 6,
+  "webgl": 0,
+  "img": 56,
+  "req": 140,
+  "h1font": "PeperoncinoSansCustom",
+  "h1px": "99.9994px",
+  "fony": [
+   [
+    "#100b06",
+    6088385
+   ],
+   [
+    "#f5e4c7",
+    2297702
+   ],
+   [
+    "#322c23",
+    748731
+   ],
+   [
+    "#ef8f4a",
+    379890
+   ]
+  ]
+ },
+ {
+  "host": "drinkstill.nz",
+  "url": "https://drinkstill.nz/",
+  "nisha": "ЕДА И НАПИТКИ",
+  "title": "STILL. Stay still. Stay sharp.",
+  "nagr": "HM",
+  "podpis": "RefractWeb HM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/still",
+  "C": 7.9,
+  "yark": 0.0,
+  "neytr": 95.5,
+  "temn": 7.7,
+  "L": 84.6,
+  "dom": [
+   [
+    "#eeece5",
+    31.3
+   ],
+   [
+    "#eeebe5",
+    23.0
+   ],
+   [
+    "#edece5",
+    21.2
+   ],
+   [
+    "#848786",
+    11.7
+   ]
+  ],
+  "C9": 8.2,
+  "yark9": 0.0,
+  "neytr9": 70.7,
+  "temn9": 53.7,
+  "dom9": [
+   [
+    "#1d1e20",
+    21.6
+   ],
+   [
+    "#e9e8e5",
+    16.9
+   ],
+   [
+    "#1c1d1f",
+    15.3
+   ]
+  ],
+  "kegl": 26.25,
+  "keglpx": 378,
+  "gtext": "21",
+  "gfont": "Söhne Breit",
+  "bg": "#efede6",
+  "ves": 1778,
+  "libs": [
+   "next"
+  ],
+  "video": 0,
+  "canvas": 6,
+  "webgl": 6,
+  "img": 13,
+  "req": 34,
+  "h1font": "Söhne Breit",
+  "h1px": "331.2px",
+  "fony": [
+   [
+    "#efede6",
+    20494111
+   ],
+   [
+    "#1a1b1d",
+    8187467
+   ],
+   [
+    "#bcd3d8",
+    198092
+   ],
+   [
+    "#1e423e",
+    253
+   ]
+  ]
+ },
+ {
+  "host": "lulaoil.com",
+  "url": "https://lulaoil.com/",
+  "nisha": "ЕДА И НАПИТКИ",
+  "title": "Lula Avocado Oil",
+  "nagr": "HM",
+  "podpis": "Hello-World HM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/lula-avocado-oil",
+  "C": 47.1,
+  "yark": 11.1,
+  "neytr": 0.7,
+  "temn": 55.7,
+  "L": 33.5,
+  "dom": [
+   [
+    "#232314",
+    49.3
+   ],
+   [
+    "#cdb1a9",
+    24.2
+   ],
+   [
+    "#90574b",
+    14.5
+   ],
+   [
+    "#4e231b",
+    5.9
+   ]
+  ],
+  "C9": 38.7,
+  "yark9": 3.0,
+  "neytr9": 1.7,
+  "temn9": 76.2,
+  "dom9": [
+   [
+    "#232314",
+    61.5
+   ],
+   [
+    "#334126",
+    12.0
+   ],
+   [
+    "#7ea699",
+    10.9
+   ]
+  ],
+  "kegl": 5.56,
+  "keglpx": 80,
+  "gtext": "100% PURE AVOCADO OIL",
+  "gfont": "OracleRegular",
+  "bg": "#ffffff",
+  "ves": 49081,
+  "libs": [
+   "matter",
+   "shopify"
+  ],
+  "video": 16,
+  "canvas": 1,
+  "webgl": 1,
+  "img": 162,
+  "req": 396,
+  "h1font": "OracleRegular",
+  "h1px": "56px",
+  "fony": [
+   [
+    "#fefff6",
+    8413895
+   ],
+   [
+    "#ffffff",
+    4942917
+   ],
+   [
+    "#97d1f2",
+    3466575
+   ],
+   [
+    "#232314",
+    1894962
+   ]
+  ]
+ },
+ {
+  "host": "mrspringmrsfresh.com",
+  "url": "https://mrspringmrsfresh.com/",
+  "nisha": "ЕДА И НАПИТКИ",
+  "title": "Mr.Spring & Mrs.Fresh",
+  "nagr": "",
+  "podpis": "cgica PRO",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/mr-spring-mrs-fresh",
+  "C": 40.7,
+  "yark": 7.1,
+  "neytr": 28.7,
+  "temn": 20.3,
+  "L": 45.0,
+  "dom": [
+   [
+    "#f1eadb",
+    19.0
+   ],
+   [
+    "#65452a",
+    14.5
+   ],
+   [
+    "#34331e",
+    13.7
+   ],
+   [
+    "#716148",
+    12.2
+   ]
+  ],
+  "C9": 52.1,
+  "yark9": 12.7,
+  "neytr9": 9.0,
+  "temn9": 14.0,
+  "dom9": [
+   [
+    "#847055",
+    17.1
+   ],
+   [
+    "#4d3421",
+    15.1
+   ],
+   [
+    "#6f381c",
+    14.0
+   ]
+  ],
+  "kegl": 4.17,
+  "keglpx": 60,
+  "gtext": "Authentic",
+  "gfont": "Maiandra DmBd GD",
+  "bg": "#ffffff",
+  "ves": 17198,
+  "libs": [
+   "swiper",
+   "wordpress"
+  ],
+  "video": 0,
+  "canvas": 1,
+  "webgl": 0,
+  "img": 18,
+  "req": 98,
+  "h1font": "Maiandra DmBd GD",
+  "h1px": "60px",
+  "fony": [
+   [
+    "#f0e9da",
+    4321255
+   ],
+   [
+    "#294124",
+    1401590
+   ],
+   [
+    "#faa61c",
+    89273
+   ]
+  ]
+ },
+ {
+  "host": "cornrevolution.resn.global",
+  "url": "https://cornrevolution.resn.global/",
+  "nisha": "ЕДА И НАПИТКИ",
+  "title": "Pioneer – Corn. Revolutionized.",
+  "nagr": "SOTY DEV",
+  "podpis": "Resn PRO DEV SOTY",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/pioneer-corn-revolutionized",
+  "C": 30.1,
+  "yark": 1.9,
+  "neytr": 36.8,
+  "temn": 70.8,
+  "L": 25.5,
+  "dom": [
+   [
+    "#041609",
+    20.7
+   ],
+   [
+    "#ffffff",
+    14.2
+   ],
+   [
+    "#8c9aa6",
+    13.7
+   ],
+   [
+    "#020e09",
+    13.2
+   ]
+  ],
+  "C9": 60.2,
+  "yark9": 10.1,
+  "neytr9": 86.7,
+  "temn9": 46.3,
+  "dom9": [
+   [
+    "#000000",
+    46.1
+   ],
+   [
+    "#ffffff",
+    37.3
+   ],
+   [
+    "#0072ce",
+    9.2
+   ]
+  ],
+  "kegl": 5.21,
+  "keglpx": 75,
+  "gtext": "Sign up for Pioneer news.",
+  "gfont": "Manifold-CF-Extra-Bold",
+  "bg": "#000000",
+  "ves": 24920,
+  "libs": [],
+  "video": 0,
+  "canvas": 1,
+  "webgl": 1,
+  "img": 2,
+  "req": 110,
+  "h1font": "Manifold-CF-Extra-Bold",
+  "h1px": "67.4996px",
+  "fony": [
+   [
+    "#000000",
+    1545400
+   ],
+   [
+    "#ffffff",
+    226872
+   ]
+  ]
+ },
+ {
+  "host": "oasisfruitsparty.com",
+  "nisha": "ФРУКТЫ",
+  "bad": "Error: page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://oasisfr",
+  "status": null
+ },
+ {
+  "host": "fruitup.ru",
+  "nisha": "ФРУКТЫ",
+  "bad": "Error: page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://fruitup",
+  "status": null
+ },
+ {
+  "host": "caribfruits.com",
+  "nisha": "ФРУКТЫ",
+  "bad": "Error: page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://c",
+  "status": null
+ },
+ {
+  "host": "livressedufruitpago.fr",
+  "nisha": "ФРУКТЫ",
+  "bad": "Error: page.goto: net::ERR_NAME_NOT_RESOLVED at https://livressedufrui",
+  "status": null
+ },
+ {
+  "host": "minipreco.pt",
+  "nisha": "ФРУКТЫ",
+  "bad": "Error: page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.minipreco.",
+  "status": null
+ },
+ {
+  "host": "fruits-vaud-geneve.ch",
+  "url": "https://fruits-vaud-geneve.ch/",
+  "nisha": "ФРУКТЫ",
+  "title": "Accueil – Fruits Vaud Genève",
+  "nagr": "",
+  "podpis": "bebold",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/fruits-vaud-geneve",
+  "C": 33.6,
+  "yark": 3.4,
+  "neytr": 83.9,
+  "temn": 0.0,
+  "L": 93.6,
+  "dom": [
+   [
+    "#ffffff",
+    45.3
+   ],
+   [
+    "#f3f3f0",
+    13.8
+   ],
+   [
+    "#dbd8c0",
+    10.9
+   ],
+   [
+    "#c59791",
+    10.9
+   ]
+  ],
+  "C9": 36.8,
+  "yark9": 4.4,
+  "neytr9": 84.2,
+  "temn9": 0.0,
+  "dom9": [
+   [
+    "#ffffff",
+    44.8
+   ],
+   [
+    "#faf9f9",
+    18.3
+   ],
+   [
+    "#d4ceb9",
+    12.4
+   ]
+  ],
+  "kegl": 2.78,
+  "keglpx": 40,
+  "gtext": "Kaki",
+  "gfont": "Oswald",
+  "bg": "#ffffff",
+  "ves": 12749,
+  "libs": [
+   "swiper"
+  ],
+  "video": 0,
+  "canvas": 2,
+  "webgl": 0,
+  "img": 82,
+  "req": 123,
+  "h1font": "Oswald",
+  "h1px": "14px",
+  "fony": [
+   [
+    "#ffffff",
+    377512
+   ],
+   [
+    "#f8f8f8",
+    27103
+   ],
+   [
+    "#008300",
+    5782
+   ],
+   [
+    "#9c1a1a",
+    5439
+   ]
+  ]
+ },
+ {
+  "host": "vazzi.fun",
+  "url": "https://vazzi.fun/",
+  "nisha": "ФРУКТЫ",
+  "title": "Vazzi — Natural Water-Based Lubricant Made in Montreal 💦",
+  "nagr": "SOTD DEV",
+  "podpis": "Louis Paquet PRO DEV SOTD",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/vazzi",
+  "C": 119.0,
+  "yark": 54.1,
+  "neytr": 10.3,
+  "temn": 1.0,
+  "L": 71.4,
+  "dom": [
+   [
+    "#ffeb33",
+    25.1
+   ],
+   [
+    "#4b8f8c",
+    19.8
+   ],
+   [
+    "#5e9e9d",
+    16.2
+   ],
+   [
+    "#8aaa9f",
+    13.6
+   ]
+  ],
+  "C9": 116.1,
+  "yark9": 34.2,
+  "neytr9": 8.9,
+  "temn9": 1.5,
+  "dom9": [
+   [
+    "#88a99f",
+    51.2
+   ],
+   [
+    "#ffeb33",
+    28.5
+   ],
+   [
+    "#b1bea3",
+    9.4
+   ]
+  ],
+  "kegl": 3.38,
+  "keglpx": 49,
+  "gtext": "Stay wet",
+  "gfont": "Cardinal Fruit",
+  "bg": "#dedcd4",
+  "ves": 15111,
+  "libs": [],
+  "video": 2,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 60,
+  "req": 51,
+  "h1font": "Cardinal Fruit",
+  "h1px": "48.714px",
+  "fony": [
+   [
+    "#dedcd4",
+    2957795
+   ],
+   [
+    "#ffeb33",
+    1306318
+   ],
+   [
+    "#fdf186",
+    26437
+   ]
+  ]
+ },
+ {
+  "host": "arcadebeauty.com",
+  "url": "https://arcadebeauty.com/",
+  "nisha": "КОСМЕТИКА",
+  "title": "Arcade Beauty",
+  "nagr": "",
+  "podpis": "Ready Set Rocket",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/arcade-beauty",
+  "C": 72.4,
+  "yark": 51.0,
+  "neytr": 15.8,
+  "temn": 2.1,
+  "L": 59.9,
+  "dom": [
+   [
+    "#bf4f97",
+    15.3
+   ],
+   [
+    "#fefcfc",
+    14.6
+   ],
+   [
+    "#c861a4",
+    14.5
+   ],
+   [
+    "#ef88bb",
+    14.2
+   ]
+  ],
+  "C9": 85.7,
+  "yark9": 66.9,
+  "neytr9": 15.5,
+  "temn9": 0.1,
+  "dom9": [
+   [
+    "#bc529f",
+    27.5
+   ],
+   [
+    "#d14180",
+    18.7
+   ],
+   [
+    "#fffffe",
+    15.2
+   ]
+  ],
+  "kegl": 4.86,
+  "keglpx": 70,
+  "gtext": "Your global manufacturing partner f",
+  "gfont": "Signifier",
+  "bg": null,
+  "ves": 10817,
+  "libs": [
+   "swiper",
+   "wordpress"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 33,
+  "req": 101,
+  "h1font": "Signifier",
+  "h1px": "70px",
+  "fony": [
+   [
+    "#ffffff",
+    19558890
+   ],
+   [
+    "#fcf5f9",
+    5000828
+   ],
+   [
+    "#36074c",
+    2215049
+   ],
+   [
+    "#eebad8",
+    1882080
+   ]
+  ]
+ },
+ {
+  "host": "kncbeauty.com",
+  "url": "https://kncbeauty.com/",
+  "nisha": "КОСМЕТИКА",
+  "title": "Store unavailable",
+  "nagr": "HM",
+  "podpis": "Someone & Others PRO HM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/knc-beauty",
+  "C": 9.4,
+  "yark": 0.1,
+  "neytr": 1.5,
+  "temn": 97.5,
+  "L": 4.9,
+  "dom": [
+   [
+    "#000f0d",
+    93.5
+   ],
+   [
+    "#a1a8a5",
+    1.8
+   ],
+   [
+    "#172423",
+    1.8
+   ],
+   [
+    "#000b09",
+    1.3
+   ]
+  ],
+  "C9": 19.7,
+  "yark9": 1.2,
+  "neytr9": 1.9,
+  "temn9": 93.8,
+  "dom9": [
+   [
+    "#000f0d",
+    86.8
+   ],
+   [
+    "#bac3bc",
+    4.0
+   ],
+   [
+    "#2a3333",
+    3.1
+   ]
+  ],
+  "kegl": 4.15,
+  "keglpx": 60,
+  "gtext": "This store is currently unavailable",
+  "gfont": "Shopify Sans Regular",
+  "bg": "#000f0d",
+  "ves": 70,
+  "libs": [
+   "shopify"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 0,
+  "req": 4,
+  "h1font": "Shopify Sans Regular",
+  "h1px": "59.76px",
+  "fony": []
+ },
+ {
+  "host": "lusetabeauty.com",
+  "url": "https://lusetabeauty.com/",
+  "nisha": "КОСМЕТИКА",
+  "title": "Salon-Quality Haircare for Hydration, Repair & Shine | Luseta Beauty",
+  "nagr": "HM",
+  "podpis": "Huemor HM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/luseta-beauty",
+  "C": 50.1,
+  "yark": 13.4,
+  "neytr": 44.0,
+  "temn": 7.8,
+  "L": 79.8,
+  "dom": [
+   [
+    "#ffebe0",
+    26.4
+   ],
+   [
+    "#ffffff",
+    23.5
+   ],
+   [
+    "#592c1b",
+    16.5
+   ],
+   [
+    "#d4a385",
+    14.8
+   ]
+  ],
+  "C9": 26.6,
+  "yark9": 1.4,
+  "neytr9": 48.7,
+  "temn9": 4.7,
+  "dom9": [
+   [
+    "#ffebe0",
+    41.1
+   ],
+   [
+    "#f8f8f7",
+    20.0
+   ],
+   [
+    "#fff6f5",
+    18.6
+   ]
+  ],
+  "kegl": 5,
+  "keglpx": 72,
+  "gtext": "Meet Your New Everyday Scent Essent",
+  "gfont": "Cormorant Garamond",
+  "bg": null,
+  "ves": 6767,
+  "libs": [
+   "swiper",
+   "shopify"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 690,
+  "req": 643,
+  "h1font": "Cormorant Garamond",
+  "h1px": "72px",
+  "fony": [
+   [
+    "#ffffff",
+    1940990
+   ],
+   [
+    "#f8f8f8",
+    1017000
+   ],
+   [
+    "#ffebe0",
+    404348
+   ],
+   [
+    "#000000",
+    20700
+   ]
+  ]
+ },
+ {
+  "host": "rembeauty.com",
+  "url": "https://rembeauty.com/",
+  "nisha": "КОСМЕТИКА",
+  "title": "r.e.m. beauty - vegan & cruelty-free makeup by Ariana Grande – rem bea",
+  "nagr": "HM",
+  "podpis": "Pattern PRO HM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/r-e-m-beauty-by-ariana-grande",
+  "C": 30.2,
+  "yark": 0.7,
+  "neytr": 42.8,
+  "temn": 0.0,
+  "L": 83.1,
+  "dom": [
+   [
+    "#ffffff",
+    23.6
+   ],
+   [
+    "#c9d7e6",
+    17.5
+   ],
+   [
+    "#99a9b9",
+    15.5
+   ],
+   [
+    "#a9bbcc",
+    15.1
+   ]
+  ],
+  "C9": 28.8,
+  "yark9": 1.8,
+  "neytr9": 58.9,
+  "temn9": 0.1,
+  "dom9": [
+   [
+    "#ffffff",
+    24.6
+   ],
+   [
+    "#becedc",
+    17.9
+   ],
+   [
+    "#fafafa",
+    16.5
+   ]
+  ],
+  "kegl": 2.78,
+  "keglpx": 40,
+  "gtext": "your everyday encore",
+  "gfont": "ABC Favorit",
+  "bg": "#ffffff",
+  "ves": 5673,
+  "libs": [
+   "swiper",
+   "shopify"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 120,
+  "req": 479,
+  "h1font": "ABC Favorit",
+  "h1px": "40px",
+  "fony": [
+   [
+    "#e7e7e7",
+    4555845
+   ],
+   [
+    "#f3f3f3",
+    3313695
+   ],
+   [
+    "#ffffff",
+    2470787
+   ],
+   [
+    "#f0f4f8",
+    1376647
+   ]
+  ]
+ },
+ {
+  "host": "damngoodbeauty.com.au",
+  "url": "https://damngoodbeauty.com.au/",
+  "nisha": "КОСМЕТИКА",
+  "title": "Damn Good Beauty",
+  "nagr": "HM",
+  "podpis": "raakcreative HM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/damn-good-beauty",
+  "C": 44.9,
+  "yark": 7.0,
+  "neytr": 26.2,
+  "temn": 1.6,
+  "L": 84.1,
+  "dom": [
+   [
+    "#cbdced",
+    44.1
+   ],
+   [
+    "#fcfcfd",
+    22.6
+   ],
+   [
+    "#99c3c2",
+    20.6
+   ],
+   [
+    "#908e83",
+    6.3
+   ]
+  ],
+  "C9": 54.1,
+  "yark9": 8.8,
+  "neytr9": 20.1,
+  "temn9": 3.2,
+  "dom9": [
+   [
+    "#cbdced",
+    40.7
+   ],
+   [
+    "#93c5c2",
+    25.7
+   ],
+   [
+    "#f5f7f3",
+    12.5
+   ]
+  ],
+  "kegl": 5.28,
+  "keglpx": 76,
+  "gtext": "In beauty, we are obsessed.",
+  "gfont": "Ogg",
+  "bg": "#ffffff",
+  "ves": 1256,
+  "libs": [
+   "webflow"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 23,
+  "req": 20,
+  "h1font": "Ogg",
+  "h1px": "76px",
+  "fony": [
+   [
+    "#cbdced",
+    3249000
+   ],
+   [
+    "#bea1cb",
+    1295365
+   ],
+   [
+    "#ffd9f1",
+    564730
+   ],
+   [
+    "#000000",
+    27974
+   ]
+  ]
+ },
+ {
+  "host": "gxvebeauty.com",
+  "nisha": "КОСМЕТИКА",
+  "bad": "Error: page.goto: net::ERR_NAME_NOT_RESOLVED at https://gxvebeauty.com",
+  "status": null
+ },
+ {
+  "host": "deepbeautykikomilano.com",
+  "url": "https://deepbeautykikomilano.com/",
+  "nisha": "КОСМЕТИКА",
+  "title": "404 Not Found",
+  "nagr": "SOTD DEV",
+  "podpis": "AQuest PRO DEV SOTD",
+  "mertv": true,
+  "kartochka": "https://www.awwwards.com/sites/deep-beauty",
+  "C": 1.9,
+  "yark": 0.0,
+  "neytr": 99.8,
+  "temn": 0.1,
+  "L": 99.8,
+  "dom": [
+   [
+    "#ffffff",
+    99.2
+   ],
+   [
+    "#d1d1d0",
+    0.3
+   ],
+   [
+    "#f9f9f8",
+    0.3
+   ],
+   [
+    "#5f5e5f",
+    0.1
+   ]
+  ],
+  "C9": 5.2,
+  "yark9": 0.2,
+  "neytr9": 99.5,
+  "temn9": 0.3,
+  "dom9": [
+   [
+    "#ffffff",
+    98.7
+   ],
+   [
+    "#fafaf8",
+    0.3
+   ],
+   [
+    "#080509",
+    0.3
+   ]
+  ],
+  "kegl": 2.22,
+  "keglpx": 32,
+  "gtext": "404 Not Found",
+  "gfont": "Times New Roman",
+  "bg": null,
+  "ves": 0,
+  "libs": [],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 0,
+  "req": 1,
+  "h1font": "Times New Roman",
+  "h1px": "32px",
+  "fony": []
+ },
+ {
+  "host": "frenchbeautyco.com.au",
+  "url": "https://frenchbeautyco.com.au/",
+  "nisha": "КОСМЕТИКА",
+  "title": "Best French Beauty Products in Australia | French Beauty Co.",
+  "nagr": "",
+  "podpis": "Bone Digital",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/french-beauty-co",
+  "C": 55.6,
+  "yark": 45.1,
+  "neytr": 2.0,
+  "temn": 6.6,
+  "L": 54.1,
+  "dom": [
+   [
+    "#9d664b",
+    16.8
+   ],
+   [
+    "#b3876a",
+    16.3
+   ],
+   [
+    "#c7a58c",
+    15.7
+   ],
+   [
+    "#84503a",
+    13.6
+   ]
+  ],
+  "C9": 58.4,
+  "yark9": 43.4,
+  "neytr9": 2.6,
+  "temn9": 5.2,
+  "dom9": [
+   [
+    "#c39f84",
+    19.6
+   ],
+   [
+    "#82523e",
+    17.8
+   ],
+   [
+    "#a77257",
+    14.7
+   ]
+  ],
+  "kegl": 4.86,
+  "keglpx": 70,
+  "gtext": "National Brow Day",
+  "gfont": "Domaine Display Narrow Mediu",
+  "bg": null,
+  "ves": 4159,
+  "libs": [
+   "swiper",
+   "shopify"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 84,
+  "req": 379,
+  "h1font": "Domaine Display Narrow Mediu",
+  "h1px": "18px",
+  "fony": [
+   [
+    "#ffffff",
+    17410115
+   ],
+   [
+    "#e6d4cc",
+    16152927
+   ],
+   [
+    "#000000",
+    1296000
+   ],
+   [
+    "#fa5949",
+    247817
+   ]
+  ]
+ },
+ {
+  "host": "zeyraglow.com",
+  "url": "https://zeyraglow.com/",
+  "nisha": "КОСМЕТИКА",
+  "title": "Loading https://zeyraglow.com/",
+  "nagr": "",
+  "podpis": "",
+  "mertv": false,
+  "kartochka": "",
+  "C": null,
+  "yark": null,
+  "neytr": null,
+  "temn": null,
+  "L": null,
+  "dom": [],
+  "C9": null,
+  "yark9": null,
+  "neytr9": null,
+  "temn9": null,
+  "dom9": [],
+  "kegl": null,
+  "keglpx": null,
+  "gtext": "",
+  "gfont": "",
+  "bg": null,
+  "ves": null,
+  "libs": [],
+  "video": null,
+  "canvas": null,
+  "webgl": null,
+  "img": null,
+  "req": null,
+  "h1font": "",
+  "h1px": "",
+  "fony": []
+ },
+ {
+  "host": "theirnibs.com",
+  "url": "https://theirnibs.com/",
+  "nisha": "ДЕТСКИЕ ТОВАРЫ",
+  "title": "Their Nibs Ladies, Kids & Mens Pyjamas, Nightwear and Home – THEIR NIB",
+  "nagr": "HM",
+  "podpis": "Radiant HM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/their-nibs",
+  "C": 18.3,
+  "yark": 0.0,
+  "neytr": 17.2,
+  "temn": 69.3,
+  "L": 25.7,
+  "dom": [
+   [
+    "#3e2d27",
+    15.1
+   ],
+   [
+    "#321e18",
+    13.7
+   ],
+   [
+    "#271914",
+    13.3
+   ],
+   [
+    "#f3e7e0",
+    12.7
+   ]
+  ],
+  "C9": 34.7,
+  "yark9": 3.8,
+  "neytr9": 23.7,
+  "temn9": 36.0,
+  "dom9": [
+   [
+    "#f9eee6",
+    22.2
+   ],
+   [
+    "#967769",
+    16.2
+   ],
+   [
+    "#1f1b1c",
+    15.2
+   ]
+  ],
+  "kegl": 4.63,
+  "keglpx": 67,
+  "gtext": "Sophie Ellis-Bextor",
+  "gfont": "Instrument Serif",
+  "bg": "#ffffff",
+  "ves": 14456,
+  "libs": [
+   "swiper",
+   "shopify"
+  ],
+  "video": 1,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 70,
+  "req": 438,
+  "h1font": "Poppins",
+  "h1px": "34px",
+  "fony": [
+   [
+    "#ffffff",
+    20388496
+   ],
+   [
+    "#000000",
+    14435405
+   ],
+   [
+    "#f5f5f5",
+    4049768
+   ],
+   [
+    "#f2c1ae",
+    1833314
+   ]
+  ]
+ },
+ {
+  "host": "ivykids.com",
+  "url": "https://ivykids.com/",
+  "nisha": "ДЕТСКИЕ ТОВАРЫ",
+  "title": "Premier Preschool & Childcare Near You | Ivy Kids Early Learning Cente",
+  "nagr": "",
+  "podpis": "Craft & Root",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/ivy-kids",
+  "C": 33.5,
+  "yark": 4.5,
+  "neytr": 89.9,
+  "temn": 1.4,
+  "L": 92.2,
+  "dom": [
+   [
+    "#fffcf3",
+    75.3
+   ],
+   [
+    "#7a294f",
+    8.7
+   ],
+   [
+    "#ffffff",
+    5.5
+   ],
+   [
+    "#d7cfce",
+    4.3
+   ]
+  ],
+  "C9": 51.3,
+  "yark9": 12.0,
+  "neytr9": 80.9,
+  "temn9": 1.8,
+  "dom9": [
+   [
+    "#fffcf3",
+    47.5
+   ],
+   [
+    "#ffffff",
+    23.7
+   ],
+   [
+    "#901b4e",
+    15.5
+   ]
+  ],
+  "kegl": 5.83,
+  "keglpx": 84,
+  "gtext": "Get a Smarter Start at Our Early",
+  "gfont": "Mackinac Pro",
+  "bg": "#fffcf3",
+  "ves": 1158,
+  "libs": [
+   "gsap",
+   "swiper",
+   "wordpress"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 18,
+  "req": 92,
+  "h1font": "Mackinac Pro",
+  "h1px": "84px",
+  "fony": [
+   [
+    "#fffcf3",
+    7987473
+   ],
+   [
+    "#f6f0e3",
+    2842215
+   ],
+   [
+    "#000000",
+    1296000
+   ],
+   [
+    "#0c2754",
+    1121175
+   ]
+  ]
+ },
+ {
+  "host": "aardvarkbookclub.com",
+  "url": "https://aardvarkbookclub.com/",
+  "nisha": "ДЕТСКИЕ ТОВАРЫ",
+  "title": "Aardvark Book Club - Unbox stories worth talking about",
+  "nagr": "SOTD AH",
+  "podpis": "FUTURE THREE® PRO AH SOTD",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/aardvark-book-club",
+  "C": 126.5,
+  "yark": 86.3,
+  "neytr": 7.1,
+  "temn": 8.1,
+  "L": 70.4,
+  "dom": [
+   [
+    "#ffd24a",
+    29.2
+   ],
+   [
+    "#faed8e",
+    27.1
+   ],
+   [
+    "#222141",
+    21.5
+   ],
+   [
+    "#cb9a49",
+    17.6
+   ]
+  ],
+  "C9": 122.4,
+  "yark9": 79.4,
+  "neytr9": 7.1,
+  "temn9": 10.7,
+  "dom9": [
+   [
+    "#ffd24a",
+    44.4
+   ],
+   [
+    "#631039",
+    18.5
+   ],
+   [
+    "#faed8e",
+    18.4
+   ]
+  ],
+  "kegl": 8.33,
+  "keglpx": 120,
+  "gtext": "Unbox",
+  "gfont": "Champ",
+  "bg": "#ffffff",
+  "ves": 27105,
+  "libs": [
+   "gsap",
+   "lenis",
+   "barba",
+   "webflow"
+  ],
+  "video": 0,
+  "canvas": 2,
+  "webgl": 0,
+  "img": 89,
+  "req": 155,
+  "h1font": "Champ",
+  "h1px": "120px",
+  "fony": [
+   [
+    "#ffffff",
+    41535142
+   ],
+   [
+    "#ffd24a",
+    3333541
+   ],
+   [
+    "#fd48f2",
+    2738272
+   ],
+   [
+    "#faed8f",
+    1757792
+   ]
+  ]
+ },
+ {
+  "host": "littleplains.com",
+  "url": "https://littleplains.com/",
+  "nisha": "ДЕТСКИЕ ТОВАРЫ",
+  "title": "Little Plains | About",
+  "nagr": "",
+  "podpis": "LittlePlains",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/little-plains",
+  "C": 17.1,
+  "yark": 1.3,
+  "neytr": 92.9,
+  "temn": 0.6,
+  "L": 96.6,
+  "dom": [
+   [
+    "#ffffff",
+    90.0
+   ],
+   [
+    "#a0c5e7",
+    3.3
+   ],
+   [
+    "#374739",
+    3.0
+   ],
+   [
+    "#f9fbfb",
+    1.2
+   ]
+  ],
+  "C9": 27.8,
+  "yark9": 5.0,
+  "neytr9": 85.8,
+  "temn9": 1.7,
+  "dom9": [
+   [
+    "#ffffff",
+    79.3
+   ],
+   [
+    "#384845",
+    4.6
+   ],
+   [
+    "#a1bfe1",
+    4.5
+   ]
+  ],
+  "kegl": 3.75,
+  "keglpx": 54,
+  "gtext": "&",
+  "gfont": "Jjannon Display",
+  "bg": "#ffffff",
+  "ves": 30655,
+  "libs": [
+   "lottie",
+   "next"
+  ],
+  "video": 1,
+  "canvas": 6,
+  "webgl": 0,
+  "img": 88,
+  "req": 113,
+  "h1font": "Jjannon Display",
+  "h1px": "14px",
+  "fony": [
+   [
+    "#ffffff",
+    22028583
+   ],
+   [
+    "#0398fa",
+    327309
+   ],
+   [
+    "#48572c",
+    298150
+   ],
+   [
+    "#584627",
+    298150
+   ]
+  ]
+ },
+ {
+  "host": "drool.community",
+  "url": "https://drool.community/",
+  "nisha": "ДЕТСКИЕ ТОВАРЫ",
+  "title": "Drool Creative Community • for creatives, freelance designers & studio",
+  "nagr": "HM",
+  "podpis": "Drool Design Studio HM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/the-drool-creative-community",
+  "C": 22.7,
+  "yark": 1.7,
+  "neytr": 92.4,
+  "temn": 41.6,
+  "L": 48.5,
+  "dom": [
+   [
+    "#212121",
+    29.5
+   ],
+   [
+    "#f5f2ed",
+    22.1
+   ],
+   [
+    "#7c7c7b",
+    12.5
+   ],
+   [
+    "#c0c3bc",
+    11.5
+   ]
+  ],
+  "C9": 18.2,
+  "yark9": 0.5,
+  "neytr9": 91.7,
+  "temn9": 43.6,
+  "dom9": [
+   [
+    "#212121",
+    31.3
+   ],
+   [
+    "#f1f1eb",
+    30.2
+   ],
+   [
+    "#aaacaa",
+    17.6
+   ]
+  ],
+  "kegl": 1.11,
+  "keglpx": 16,
+  "gtext": "(self.__next_f=self.__next_f||[]).p",
+  "gfont": "poppins",
+  "bg": "#f4f1ec",
+  "ves": 1471,
+  "libs": [
+   "next"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 9,
+  "req": 44,
+  "h1font": "",
+  "h1px": "",
+  "fony": [
+   [
+    "#212121",
+    1296000
+   ],
+   [
+    "#f4f1ec",
+    53362
+   ],
+   [
+    "#aaf0ce",
+    4157
+   ]
+  ]
+ },
+ {
+  "host": "marinelayer.com",
+  "url": "https://www.marinelayer.com/",
+  "nisha": "МОДА ЯРКАЯ",
+  "title": "Marine Layer",
+  "nagr": "",
+  "podpis": "Pattern PRO",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/marine-layer",
+  "C": 35.8,
+  "yark": 12.2,
+  "neytr": 16.9,
+  "temn": 19.7,
+  "L": 49.1,
+  "dom": [
+   [
+    "#8f7f61",
+    15.0
+   ],
+   [
+    "#aa8d6d",
+    13.9
+   ],
+   [
+    "#fcfcfc",
+    13.7
+   ],
+   [
+    "#55473b",
+    13.7
+   ]
+  ],
+  "C9": 33.6,
+  "yark9": 6.1,
+  "neytr9": 44.7,
+  "temn9": 8.3,
+  "dom9": [
+   [
+    "#ffffff",
+    26.9
+   ],
+   [
+    "#b09776",
+    20.1
+   ],
+   [
+    "#5d4437",
+    13.1
+   ]
+  ],
+  "kegl": 5.56,
+  "keglpx": 80,
+  "gtext": "Welcome to a New Season",
+  "gfont": "Seriously Nostalgic",
+  "bg": "#ffffff",
+  "ves": 8158,
+  "libs": [
+   "swiper",
+   "shopify"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 157,
+  "req": 596,
+  "h1font": "Seriously Nostalgic",
+  "h1px": "80px",
+  "fony": [
+   [
+    "#ffffff",
+    4930966
+   ],
+   [
+    "#475569",
+    2332800
+   ],
+   [
+    "#000000",
+    1123200
+   ],
+   [
+    "#666447",
+    112320
+   ]
+  ]
+ },
+ {
+  "host": "halfdays.com",
+  "url": "https://halfdays.com/",
+  "nisha": "МОДА ЯРКАЯ",
+  "title": "Halfdays | Own the mountain.",
+  "nagr": "HM",
+  "podpis": "Verbal+Visual PRO HM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/halfdays",
+  "C": 22.9,
+  "yark": 2.0,
+  "neytr": 40.0,
+  "temn": 53.3,
+  "L": 40.6,
+  "dom": [
+   [
+    "#2a2a27",
+    15.8
+   ],
+   [
+    "#fffef0",
+    15.3
+   ],
+   [
+    "#201f1c",
+    12.8
+   ],
+   [
+    "#171a17",
+    12.7
+   ]
+  ],
+  "C9": 23.9,
+  "yark9": 1.9,
+  "neytr9": 52.9,
+  "temn9": 38.3,
+  "dom9": [
+   [
+    "#fffffe",
+    24.1
+   ],
+   [
+    "#2a2e2c",
+    14.7
+   ],
+   [
+    "#1d1e1b",
+    14.1
+   ]
+  ],
+  "kegl": 2.5,
+  "keglpx": 36,
+  "gtext": "Currency",
+  "gfont": "SuisseIntl",
+  "bg": "#ffffff",
+  "ves": 6557,
+  "libs": [
+   "swiper",
+   "shopify"
+  ],
+  "video": 1,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 80,
+  "req": 364,
+  "h1font": "SuisseIntl",
+  "h1px": "60px",
+  "fony": [
+   [
+    "#ffffff",
+    5258454
+   ],
+   [
+    "#000000",
+    1296000
+   ],
+   [
+    "#121212",
+    630097
+   ],
+   [
+    "#fff9bb",
+    92484
+   ]
+  ]
+ },
+ {
+  "host": "andieswim.com",
+  "url": "https://andieswim.com/",
+  "nisha": "МОДА ЯРКАЯ",
+  "title": "Andie Co. | Confidence in comfort. Everyday essentials & swimwear.",
+  "nagr": "",
+  "podpis": "Verbal+Visual PRO",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/andie-swim-1",
+  "C": 39.9,
+  "yark": 11.0,
+  "neytr": 70.4,
+  "temn": 4.9,
+  "L": 80.0,
+  "dom": [
+   [
+    "#f6efe7",
+    38.0
+   ],
+   [
+    "#fefefe",
+    21.1
+   ],
+   [
+    "#634e35",
+    20.4
+   ],
+   [
+    "#c3b59b",
+    14.5
+   ]
+  ],
+  "C9": 34.0,
+  "yark9": 4.3,
+  "neytr9": 53.9,
+  "temn9": 5.3,
+  "dom9": [
+   [
+    "#ffffff",
+    27.1
+   ],
+   [
+    "#898887",
+    21.3
+   ],
+   [
+    "#6b5f56",
+    20.1
+   ]
+  ],
+  "kegl": 4.79,
+  "keglpx": 69,
+  "gtext": "The Support Edit",
+  "gfont": "CircularStdBook",
+  "bg": null,
+  "ves": 6098,
+  "libs": [
+   "swiper",
+   "shopify"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 27,
+  "req": 596,
+  "h1font": "CircularStdBook",
+  "h1px": "69px",
+  "fony": [
+   [
+    "#ffffff",
+    3386629
+   ],
+   [
+    "#f6efe7",
+    530640
+   ],
+   [
+    "#ececec",
+    64800
+   ],
+   [
+    "#ba594c",
+    33177
+   ]
+  ]
+ },
+ {
+  "host": "dropdead.world",
+  "url": "https://dropdead.world/",
+  "nisha": "МОДА ЯРКАЯ",
+  "title": "DROP DEAD | The Original High-End Goth Brand – DROP DEAD CLOTHING",
+  "nagr": "HM",
+  "podpis": "WIRO PRO HM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/dropdead",
+  "C": 9.7,
+  "yark": 0.1,
+  "neytr": 49.7,
+  "temn": 71.9,
+  "L": 28.9,
+  "dom": [
+   [
+    "#000000",
+    20.4
+   ],
+   [
+    "#ffffff",
+    16.5
+   ],
+   [
+    "#252520",
+    15.1
+   ],
+   [
+    "#221f1b",
+    13.8
+   ]
+  ],
+  "C9": 17.7,
+  "yark9": 1.6,
+  "neytr9": 51.0,
+  "temn9": 42.4,
+  "dom9": [
+   [
+    "#ffffff",
+    24.7
+   ],
+   [
+    "#21221d",
+    16.8
+   ],
+   [
+    "#2b2e2b",
+    14.6
+   ]
+  ],
+  "kegl": 2.08,
+  "keglpx": 30,
+  "gtext": "10% OFF",
+  "gfont": "Helvetica-Now-Text",
+  "bg": "#ffffff",
+  "ves": 10041,
+  "libs": [
+   "splide",
+   "shopify"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 19,
+  "req": 451,
+  "h1font": "Helvetica-Now-Text-Regular",
+  "h1px": "36px",
+  "fony": [
+   [
+    "#ffffff",
+    6333324
+   ],
+   [
+    "#000000",
+    1939961
+   ],
+   [
+    "#242833",
+    1252449
+   ],
+   [
+    "#121212",
+    57600
+   ]
+  ]
+ },
+ {
+  "host": "lamalama.com",
+  "url": "https://lamalama.com/",
+  "nisha": "МОДА ЯРКАЯ",
+  "title": "Lama Lama | Creative Digital Agency Amsterdam",
+  "nagr": "SOTM AH DEV",
+  "podpis": "Lama Lama PRO AH DEV SOTM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/lama-lama-2",
+  "C": 33.3,
+  "yark": 5.7,
+  "neytr": 43.0,
+  "temn": 50.2,
+  "L": 35.3,
+  "dom": [
+   [
+    "#050506",
+    18.0
+   ],
+   [
+    "#8298a0",
+    14.2
+   ],
+   [
+    "#a7bec8",
+    13.9
+   ],
+   [
+    "#0d0c0e",
+    12.4
+   ]
+  ],
+  "C9": 1.8,
+  "yark9": 0.0,
+  "neytr9": 100.0,
+  "temn9": 96.7,
+  "dom9": [
+   [
+    "#000000",
+    96.7
+   ],
+   [
+    "#d6d2cb",
+    2.7
+   ],
+   [
+    "#5f5d5a",
+    0.2
+   ]
+  ],
+  "kegl": 5,
+  "keglpx": 72,
+  "gtext": "A",
+  "gfont": "SuisseBPIntl",
+  "bg": "#1a1c1c",
+  "ves": 21557,
+  "libs": [
+   "gsap",
+   "wordpress"
+  ],
+  "video": 24,
+  "canvas": 3,
+  "webgl": 2,
+  "img": 131,
+  "req": 141,
+  "h1font": "SuisseBPIntl",
+  "h1px": "72px",
+  "fony": [
+   [
+    "#000000",
+    1505685
+   ],
+   [
+    "#f9f4eb",
+    1243465
+   ],
+   [
+    "#ffffff",
+    181180
+   ],
+   [
+    "#d0ff7e",
+    438
+   ]
+  ]
+ },
+ {
+  "host": "breadandboxers.com",
+  "url": "https://breadandboxers.com/",
+  "nisha": "МОДА ЯРКАЯ",
+  "title": "Bread & Boxers - Your Perfect Base Wardrobe Essentials | Bread & Boxer",
+  "nagr": "",
+  "podpis": "Nordic Web Team PRO",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/bread-boxers",
+  "C": 5.0,
+  "yark": 0.0,
+  "neytr": 70.5,
+  "temn": 64.4,
+  "L": 37.2,
+  "dom": [
+   [
+    "#ffffff",
+    22.9
+   ],
+   [
+    "#2e2c2a",
+    17.5
+   ],
+   [
+    "#474747",
+    15.4
+   ],
+   [
+    "#1a1713",
+    13.2
+   ]
+  ],
+  "C9": 3.3,
+  "yark9": 0.0,
+  "neytr9": 92.7,
+  "temn9": 38.1,
+  "dom9": [
+   [
+    "#ffffff",
+    48.9
+   ],
+   [
+    "#3c3c3b",
+    16.2
+   ],
+   [
+    "#221e1b",
+    9.3
+   ]
+  ],
+  "kegl": 2.5,
+  "keglpx": 36,
+  "gtext": "Buy 2 pieces - 20% off your order",
+  "gfont": "Heldane Display",
+  "bg": null,
+  "ves": 3496,
+  "libs": [
+   "nuxt"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 57,
+  "req": 161,
+  "h1font": "Heldane Display",
+  "h1px": "30px",
+  "fony": [
+   [
+    "#000000",
+    1328922
+   ],
+   [
+    "#eae9e6",
+    1011353
+   ],
+   [
+    "#ffffff",
+    412155
+   ],
+   [
+    "#fcfcfc",
+    86400
+   ]
+  ]
+ },
+ {
+  "host": "unionboulangerie.com",
+  "url": "https://unionboulangerie.com/",
+  "nisha": "ДРУГИЕ ГАЛЕРЕИ",
+  "title": "UNION",
+  "nagr": "",
+  "podpis": "",
+  "mertv": false,
+  "kartochka": "",
+  "C": 31.3,
+  "yark": 3.2,
+  "neytr": 58.0,
+  "temn": 73.1,
+  "L": 28.4,
+  "dom": [
+   [
+    "#1d1e1e",
+    21.0
+   ],
+   [
+    "#f0efec",
+    14.7
+   ],
+   [
+    "#1a1d1d",
+    12.6
+   ],
+   [
+    "#1b1c1d",
+    12.2
+   ]
+  ],
+  "C9": 22.1,
+  "yark9": 0.7,
+  "neytr9": 72.1,
+  "temn9": 21.0,
+  "dom9": [
+   [
+    "#a1aba3",
+    17.7
+   ],
+   [
+    "#323533",
+    15.3
+   ],
+   [
+    "#757c78",
+    13.9
+   ]
+  ],
+  "kegl": 2.78,
+  "keglpx": 40,
+  "gtext": "UNE BOULANGERIE DE QUARTIER",
+  "gfont": "Serial Blur",
+  "bg": "#f2f0ed",
+  "ves": 125876,
+  "libs": [
+   "framer-motion",
+   "embla",
+   "shopify"
+  ],
+  "video": 3,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 40,
+  "req": 211,
+  "h1font": "Serial Blur",
+  "h1px": "40px",
+  "fony": [
+   [
+    "#2259ec",
+    1675548
+   ],
+   [
+    "#f2f0ed",
+    1503765
+   ],
+   [
+    "#2258ec",
+    19736
+   ],
+   [
+    "#000000",
+    8015
+   ]
+  ]
+ },
+ {
+  "host": "stereoscopecoffee.com",
+  "url": "https://stereoscopecoffee.com/",
+  "nisha": "ДРУГИЕ ГАЛЕРЕИ",
+  "title": "Stereoscope Coffee",
+  "nagr": "",
+  "podpis": "",
+  "mertv": false,
+  "kartochka": "",
+  "C": 3.5,
+  "yark": 0.0,
+  "neytr": 99.2,
+  "temn": 0.8,
+  "L": 83.7,
+  "dom": [
+   [
+    "#d9d9d9",
+    74.1
+   ],
+   [
+    "#9e9e9e",
+    10.8
+   ],
+   [
+    "#ffffff",
+    8.5
+   ],
+   [
+    "#767575",
+    3.1
+   ]
+  ],
+  "C9": 13.2,
+  "yark9": 1.2,
+  "neytr9": 95.9,
+  "temn9": 0.5,
+  "dom9": [
+   [
+    "#d9d9d9",
+    51.3
+   ],
+   [
+    "#ffffff",
+    29.6
+   ],
+   [
+    "#8e8d8e",
+    10.1
+   ]
+  ],
+  "kegl": 1.11,
+  "keglpx": 16,
+  "gtext": "Close",
+  "gfont": "Brunswick Grotesque",
+  "bg": "#ffffff",
+  "ves": 14394,
+  "libs": [
+   "three",
+   "lottie",
+   "shopify"
+  ],
+  "video": 1,
+  "canvas": 4,
+  "webgl": 4,
+  "img": 14,
+  "req": 114,
+  "h1font": "Brunswick Grotesque",
+  "h1px": "16px",
+  "fony": [
+   [
+    "#1d1d1b",
+    4378382
+   ],
+   [
+    "#d9d9d9",
+    4170026
+   ],
+   [
+    "#ffffff",
+    4088605
+   ],
+   [
+    "#f3f3f3",
+    2363536
+   ]
+  ]
+ },
+ {
+  "host": "ossa.wine",
+  "url": "https://ossa.wine/",
+  "nisha": "ДРУГИЕ ГАЛЕРЕИ",
+  "title": "Home - OSSA Wines Tasmania",
+  "nagr": "",
+  "podpis": "",
+  "mertv": false,
+  "kartochka": "",
+  "C": 0.6,
+  "yark": 0.0,
+  "neytr": 99.8,
+  "temn": 99.5,
+  "L": 0.5,
+  "dom": [
+   [
+    "#000000",
+    98.9
+   ],
+   [
+    "#303030",
+    0.4
+   ],
+   [
+    "#ffffff",
+    0.3
+   ],
+   [
+    "#100f10",
+    0.2
+   ]
+  ],
+  "C9": 9.0,
+  "yark9": 0.2,
+  "neytr9": 94.2,
+  "temn9": 93.7,
+  "dom9": [
+   [
+    "#000000",
+    88.7
+   ],
+   [
+    "#2b2a2c",
+    3.0
+   ],
+   [
+    "#666968",
+    2.6
+   ]
+  ],
+  "kegl": 1.4,
+  "keglpx": 20,
+  "gtext": "var agfocus = {\"focus\":null,\"elemen",
+  "gfont": "untitled",
+  "bg": "#000000",
+  "ves": 776,
+  "libs": [
+   "barba",
+   "wordpress"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 24,
+  "req": 37,
+  "h1font": "untitled",
+  "h1px": "14.4px",
+  "fony": [
+   [
+    "#000000",
+    12794475
+   ],
+   [
+    "#3c2329",
+    1296000
+   ],
+   [
+    "#323232",
+    2657
+   ]
+  ]
+ },
+ {
+  "host": "kokopako.fr",
+  "url": "https://kokopako.fr/",
+  "nisha": "ДРУГИЕ ГАЛЕРЕИ",
+  "title": "Kokopako",
+  "nagr": "",
+  "podpis": "",
+  "mertv": false,
+  "kartochka": "",
+  "C": 0.2,
+  "yark": 0.0,
+  "neytr": 100.0,
+  "temn": 5.8,
+  "L": 94.4,
+  "dom": [
+   [
+    "#ffffff",
+    91.0
+   ],
+   [
+    "#262627",
+    1.9
+   ],
+   [
+    "#2b2b2c",
+    1.6
+   ],
+   [
+    "#d6d6d6",
+    1.4
+   ]
+  ],
+  "C9": 0.0,
+  "yark9": 0.0,
+  "neytr9": 100.0,
+  "temn9": 100.0,
+  "dom9": [
+   [
+    "#0f0f0f",
+    99.7
+   ],
+   [
+    "#0e0e0e",
+    0.3
+   ],
+   [
+    "#0d0d0d",
+    0.0
+   ]
+  ],
+  "kegl": 2.5,
+  "keglpx": 36,
+  "gtext": "ABOUT",
+  "gfont": "F37 Beckett",
+  "bg": "#ffffff",
+  "ves": 5298,
+  "libs": [],
+  "video": 0,
+  "canvas": 49,
+  "webgl": 1,
+  "img": 43,
+  "req": 104,
+  "h1font": "",
+  "h1px": "",
+  "fony": [
+   [
+    "#0f0f0f",
+    3324
+   ],
+   [
+    "#ffffff",
+    196
+   ]
+  ]
+ },
+ {
+  "host": "careofchan.com",
+  "url": "https://careofchan.com/",
+  "nisha": "ДРУГИЕ ГАЛЕРЕИ",
+  "title": "Care of Chan",
+  "nagr": "",
+  "podpis": "",
+  "mertv": false,
+  "kartochka": "",
+  "C": 44.8,
+  "yark": 11.1,
+  "neytr": 6.0,
+  "temn": 73.3,
+  "L": 16.1,
+  "dom": [
+   [
+    "#030509",
+    17.0
+   ],
+   [
+    "#653e1a",
+    15.8
+   ],
+   [
+    "#010407",
+    15.6
+   ],
+   [
+    "#070b0c",
+    12.3
+   ]
+  ],
+  "C9": 86.0,
+  "yark9": 26.6,
+  "neytr9": 13.9,
+  "temn9": 26.0,
+  "dom9": [
+   [
+    "#fd6b54",
+    20.3
+   ],
+   [
+    "#353134",
+    15.7
+   ],
+   [
+    "#716566",
+    14.2
+   ]
+  ],
+  "kegl": 2.22,
+  "keglpx": 32,
+  "gtext": "GATHER WITH EASE.",
+  "gfont": "Monument Grotesk",
+  "bg": "#ffffff",
+  "ves": 8333,
+  "libs": [
+   "nuxt"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 17,
+  "req": 36,
+  "h1font": "Monument Grotesk",
+  "h1px": "32px",
+  "fony": [
+   [
+    "#000000",
+    1296000
+   ],
+   [
+    "#ffffff",
+    138240
+   ],
+   [
+    "#e2ff00",
+    7438
+   ]
+  ]
+ },
+ {
+  "host": "limlondon.com",
+  "url": "https://limlondon.com/",
+  "nisha": "ДРУГИЕ ГАЛЕРЕИ",
+  "title": "",
+  "nagr": "",
+  "podpis": "",
+  "mertv": false,
+  "kartochka": "",
+  "C": 22.0,
+  "yark": 0.1,
+  "neytr": 88.4,
+  "temn": 0.7,
+  "L": 97.2,
+  "dom": [
+   [
+    "#ffffff",
+    84.6
+   ],
+   [
+    "#b8e4fc",
+    10.3
+   ],
+   [
+    "#8b9095",
+    2.4
+   ],
+   [
+    "#e7f2f7",
+    1.1
+   ]
+  ],
+  "C9": 33.3,
+  "yark9": 1.6,
+  "neytr9": 75.7,
+  "temn9": 3.2,
+  "dom9": [
+   [
+    "#ffffff",
+    70.1
+   ],
+   [
+    "#b8e4fc",
+    18.6
+   ],
+   [
+    "#666970",
+    6.7
+   ]
+  ],
+  "kegl": 2.43,
+  "keglpx": 35,
+  "gtext": "limlondon.com",
+  "gfont": "GD Sherpa",
+  "bg": "#1d2a33",
+  "ves": 284,
+  "libs": [],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 0,
+  "req": 20,
+  "h1font": "",
+  "h1px": "",
+  "fony": [
+   [
+    "#ffffff",
+    1402560
+   ],
+   [
+    "#b8e4fc",
+    144466
+   ],
+   [
+    "#111111",
+    8388
+   ]
+  ]
+ },
+ {
+  "host": "beigeforce.com",
+  "url": "https://beigeforce.com/",
+  "nisha": "ДРУГИЕ ГАЛЕРЕИ",
+  "title": "BEIGE FORCE!!",
+  "nagr": "HM",
+  "podpis": "brandondurham HM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/beige-force",
+  "C": 32.0,
+  "yark": 1.0,
+  "neytr": 4.2,
+  "temn": 7.1,
+  "L": 72.0,
+  "dom": [
+   [
+    "#a5cfd6",
+    23.9
+   ],
+   [
+    "#a6cfd7",
+    18.0
+   ],
+   [
+    "#a5ced6",
+    16.9
+   ],
+   [
+    "#a4ced5",
+    16.1
+   ]
+  ],
+  "C9": 52.2,
+  "yark9": 97.0,
+  "neytr9": 0.0,
+  "temn9": 1.3,
+  "dom9": [
+   [
+    "#d36f56",
+    22.3
+   ],
+   [
+    "#d47057",
+    19.0
+   ],
+   [
+    "#d67158",
+    14.8
+   ]
+  ],
+  "kegl": 2.5,
+  "keglpx": 36,
+  "gtext": "Access Denied",
+  "gfont": "Kongtext",
+  "bg": "#aedae2",
+  "ves": 27331,
+  "libs": [],
+  "video": 0,
+  "canvas": 1,
+  "webgl": 1,
+  "img": 0,
+  "req": 55,
+  "h1font": "Monaspace Neon",
+  "h1px": "14px",
+  "fony": [
+   [
+    "#aedae2",
+    3193642
+   ],
+   [
+    "#000000",
+    3167424
+   ],
+   [
+    "#ffffff",
+    6329
+   ]
+  ]
+ },
+ {
+  "host": "flowjam.com",
+  "url": "https://flowjam.com/",
+  "nisha": "ДРУГИЕ ГАЛЕРЕИ",
+  "title": "Flowjam | Product Launch Videos For Founders",
+  "nagr": "",
+  "podpis": "",
+  "mertv": false,
+  "kartochka": "",
+  "C": 16.4,
+  "yark": 0.9,
+  "neytr": 96.3,
+  "temn": 1.6,
+  "L": 92.5,
+  "dom": [
+   [
+    "#edeeea",
+    20.5
+   ],
+   [
+    "#f8f8f6",
+    18.4
+   ],
+   [
+    "#fafaf9",
+    14.4
+   ],
+   [
+    "#fbfbfa",
+    13.5
+   ]
+  ],
+  "C9": 25.2,
+  "yark9": 2.1,
+  "neytr9": 94.7,
+  "temn9": 3.2,
+  "dom9": [
+   [
+    "#fdfdfc",
+    15.3
+   ],
+   [
+    "#f9f8f7",
+    15.0
+   ],
+   [
+    "#f7f7f5",
+    15.0
+   ]
+  ],
+  "kegl": 4.17,
+  "keglpx": 60,
+  "gtext": "W",
+  "gfont": "Gelica",
+  "bg": "#fdfdfc",
+  "ves": 4015,
+  "libs": [
+   "webflow"
+  ],
+  "video": 4,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 92,
+  "req": 131,
+  "h1font": "Gelica",
+  "h1px": "60px",
+  "fony": [
+   [
+    "#fdfdfc",
+    28788084
+   ],
+   [
+    "#eeeeee",
+    1176688
+   ],
+   [
+    "#f0f0f0",
+    889350
+   ],
+   [
+    "#0c0c0c",
+    793160
+   ]
+  ]
+ },
+ {
+  "host": "starpartysl.com",
+  "url": "https://starpartysl.com/",
+  "nisha": "ДРУГИЕ ГАЛЕРЕИ",
+  "title": "Star Party Silver Lake — Monthly Astronomy Events in Los Angeles – Sta",
+  "nagr": "",
+  "podpis": "",
+  "mertv": false,
+  "kartochka": "",
+  "C": 5.3,
+  "yark": 0.1,
+  "neytr": 91.5,
+  "temn": 93.7,
+  "L": 4.7,
+  "dom": [
+   [
+    "#000000",
+    83.1
+   ],
+   [
+    "#191515",
+    4.1
+   ],
+   [
+    "#050606",
+    3.8
+   ],
+   [
+    "#3b393c",
+    3.5
+   ]
+  ],
+  "C9": 5.8,
+  "yark9": 0.1,
+  "neytr9": 96.1,
+  "temn9": 83.2,
+  "dom9": [
+   [
+    "#000000",
+    75.6
+   ],
+   [
+    "#ffffff",
+    11.3
+   ],
+   [
+    "#0a0a0b",
+    7.0
+   ]
+  ],
+  "kegl": 3.33,
+  "keglpx": 48,
+  "gtext": "STARPARTY SILVERLAKE",
+  "gfont": "SF Mono",
+  "bg": "#ffffff",
+  "ves": 1942,
+  "libs": [
+   "matter",
+   "shopify"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 10,
+  "req": 410,
+  "h1font": "SF Mono",
+  "h1px": "48px",
+  "fony": [
+   [
+    "#000000",
+    3123844
+   ],
+   [
+    "#ffffff",
+    6640
+   ],
+   [
+    "#f0f0f0",
+    3775
+   ]
+  ]
+ },
+ {
+  "host": "pushkun.4wide.jp",
+  "url": "https://pushkun.4wide.jp/",
+  "nisha": "ДРУГИЕ ГАЛЕРЕИ",
+  "title": "Play with PushKun | 4WIDE",
+  "nagr": "",
+  "podpis": "",
+  "mertv": false,
+  "kartochka": "",
+  "C": 42.7,
+  "yark": 5.6,
+  "neytr": 1.3,
+  "temn": 81.7,
+  "L": 7.6,
+  "dom": [
+   [
+    "#020305",
+    20.7
+   ],
+   [
+    "#010102",
+    16.5
+   ],
+   [
+    "#03081d",
+    15.9
+   ],
+   [
+    "#04143a",
+    15.4
+   ]
+  ],
+  "C9": 51.8,
+  "yark9": 10.5,
+  "neytr9": 1.3,
+  "temn9": 69.0,
+  "dom9": [
+   [
+    "#03050e",
+    16.3
+   ],
+   [
+    "#03123b",
+    15.0
+   ],
+   [
+    "#060c22",
+    14.1
+   ]
+  ],
+  "kegl": 0.9,
+  "keglpx": 13,
+  "gtext": "???",
+  "gfont": "PP Neue Montreal Medium",
+  "bg": "#1b1b1b",
+  "ves": 407,
+  "libs": [],
+  "video": 0,
+  "canvas": 1,
+  "webgl": 1,
+  "img": 0,
+  "req": 9,
+  "h1font": "PP Neue Montreal Medium",
+  "h1px": "14px",
+  "fony": [
+   [
+    "#07090f",
+    1296000
+   ],
+   [
+    "#050505",
+    11804
+   ],
+   [
+    "#f0f0f0",
+    36
+   ]
+  ]
+ },
+ {
+  "host": "metamiao.com",
+  "url": "https://metamiao.com/",
+  "nisha": "ДРУГИЕ ГАЛЕРЕИ",
+  "title": "Mark Mishkin | UI/UX & Web Designer Portfolio",
+  "nagr": "",
+  "podpis": "",
+  "mertv": false,
+  "kartochka": "",
+  "C": 24.3,
+  "yark": 0.7,
+  "neytr": 71.3,
+  "temn": 55.9,
+  "L": 31.8,
+  "dom": [
+   [
+    "#141414",
+    46.8
+   ],
+   [
+    "#ccd1d1",
+    22.4
+   ],
+   [
+    "#415e68",
+    20.2
+   ],
+   [
+    "#16161b",
+    4.8
+   ]
+  ],
+  "C9": 2.9,
+  "yark9": 0.0,
+  "neytr9": 99.7,
+  "temn9": 99.2,
+  "dom9": [
+   [
+    "#0f0f0f",
+    98.9
+   ],
+   [
+    "#aeafae",
+    0.5
+   ],
+   [
+    "#e8e3d6",
+    0.2
+   ]
+  ],
+  "kegl": 19.11,
+  "keglpx": 275,
+  "gtext": "metamiao",
+  "gfont": "Funnel Sans",
+  "bg": "#141414",
+  "ves": 260,
+  "libs": [],
+  "video": 0,
+  "canvas": 6,
+  "webgl": 0,
+  "img": 20,
+  "req": 52,
+  "h1font": "Funnel Sans",
+  "h1px": "275.227px",
+  "fony": [
+   [
+    "#141414",
+    18314811
+   ],
+   [
+    "#0f0f0f",
+    1296000
+   ],
+   [
+    "#ece8df",
+    7696
+   ],
+   [
+    "#ede8df",
+    5760
+   ]
+  ]
+ },
+ {
+  "host": "painteddog.press",
+  "url": "https://painteddog.press/",
+  "nisha": "ДРУГИЕ ГАЛЕРЕИ",
+  "title": "Painted Dog Press | Independent South African Fiction",
+  "nagr": "",
+  "podpis": "",
+  "mertv": false,
+  "kartochka": "",
+  "C": 21.2,
+  "yark": 0.0,
+  "neytr": 8.4,
+  "temn": 1.1,
+  "L": 86.0,
+  "dom": [
+   [
+    "#e9d6bb",
+    22.4
+   ],
+   [
+    "#ebd9bf",
+    20.8
+   ],
+   [
+    "#ead7bc",
+    19.4
+   ],
+   [
+    "#ebd8bd",
+    17.1
+   ]
+  ],
+  "C9": 19.5,
+  "yark9": 0.0,
+  "neytr9": 0.8,
+  "temn9": 3.7,
+  "dom9": [
+   [
+    "#ecd9bf",
+    16.6
+   ],
+   [
+    "#e8d5ba",
+    16.5
+   ],
+   [
+    "#ebd8bd",
+    16.4
+   ]
+  ],
+  "kegl": 1.67,
+  "keglpx": 24,
+  "gtext": "NEWS",
+  "gfont": "fields",
+  "bg": "#e7d7bf",
+  "ves": 22678,
+  "libs": [
+   "next"
+  ],
+  "video": 1,
+  "canvas": 1,
+  "webgl": 1,
+  "img": 5,
+  "req": 92,
+  "h1font": "fields",
+  "h1px": "16px",
+  "fony": [
+   [
+    "#f2efe9",
+    754218
+   ],
+   [
+    "#ffffff",
+    600795
+   ],
+   [
+    "#f9f6f0",
+    510664
+   ],
+   [
+    "#000000",
+    2978
+   ]
+  ]
+ },
+ {
+  "host": "longhoang-lyo.com",
+  "url": "https://longhoang-lyo.com/",
+  "nisha": "ДРУГИЕ ГАЛЕРЕИ",
+  "title": "Long Hoang (Lyo) – Designer & Developer",
+  "nagr": "",
+  "podpis": "",
+  "mertv": false,
+  "kartochka": "",
+  "C": 1.3,
+  "yark": 0.0,
+  "neytr": 99.3,
+  "temn": 0.6,
+  "L": 99.3,
+  "dom": [
+   [
+    "#ffffff",
+    99.1
+   ],
+   [
+    "#11121a",
+    0.5
+   ],
+   [
+    "#ababac",
+    0.1
+   ],
+   [
+    "#44454c",
+    0.1
+   ]
+  ],
+  "C9": 10.0,
+  "yark9": 0.7,
+  "neytr9": 97.6,
+  "temn9": 1.6,
+  "dom9": [
+   [
+    "#ffffff",
+    96.9
+   ],
+   [
+    "#11121a",
+    1.3
+   ],
+   [
+    "#c9ff76",
+    0.6
+   ]
+  ],
+  "kegl": 1.56,
+  "keglpx": 23,
+  "gtext": "LET'S GO",
+  "gfont": "Crocante",
+  "bg": "#ffffff",
+  "ves": 103,
+  "libs": [],
+  "video": 0,
+  "canvas": 1,
+  "webgl": 1,
+  "img": 2,
+  "req": 32,
+  "h1font": "Barlow",
+  "h1px": "20px",
+  "fony": [
+   [
+    "#ffffff",
+    1296000
+   ]
+  ]
+ },
+ {
+  "host": "seewhateyesee.org",
+  "url": "https://seewhateyesee.org/",
+  "nisha": "ДРУГИЕ ГАЛЕРЕИ",
+  "title": "See What Eye See: Eye Condition Simulator in Your Browser | See What E",
+  "nagr": "",
+  "podpis": "",
+  "mertv": false,
+  "kartochka": "",
+  "C": 12.6,
+  "yark": 0.3,
+  "neytr": 67.3,
+  "temn": 97.5,
+  "L": 2.7,
+  "dom": [
+   [
+    "#000000",
+    58.7
+   ],
+   [
+    "#010101",
+    10.3
+   ],
+   [
+    "#060504",
+    9.5
+   ],
+   [
+    "#0e0b08",
+    9.2
+   ]
+  ],
+  "C9": 31.5,
+  "yark9": 5.4,
+  "neytr9": 25.1,
+  "temn9": 81.9,
+  "dom9": [
+   [
+    "#231710",
+    15.4
+   ],
+   [
+    "#3e281a",
+    13.9
+   ],
+   [
+    "#0b0907",
+    13.7
+   ]
+  ],
+  "kegl": 9.14,
+  "keglpx": 132,
+  "gtext": "EYE’VE SEEN",
+  "gfont": "brush-up-too",
+  "bg": "#f9f3e9",
+  "ves": 3359,
+  "libs": [
+   "nuxt"
+  ],
+  "video": 1,
+  "canvas": 2,
+  "webgl": 2,
+  "img": 1,
+  "req": 27,
+  "h1font": "exo-2-variable",
+  "h1px": "18.2278px",
+  "fony": [
+   [
+    "#000000",
+    1296000
+   ]
+  ]
+ },
+ {
+  "host": "nancysfancy.com",
+  "url": "https://nancysfancy.com/",
+  "nisha": "МОРОЖЕНОЕ И СЛАДОСТИ (Awwwards: gelato / candy)",
+  "title": "Nancy's Fancy",
+  "nagr": "",
+  "podpis": "AbbyRyanDesign",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/nancy-s-fancy-gelato",
+  "C": 26.4,
+  "yark": 3.2,
+  "neytr": 75.9,
+  "temn": 2.7,
+  "L": 73.0,
+  "dom": [
+   [
+    "#9a999a",
+    24.7
+   ],
+   [
+    "#ffffff",
+    18.2
+   ],
+   [
+    "#eee9e0",
+    14.8
+   ],
+   [
+    "#c5afa2",
+    10.0
+   ]
+  ],
+  "C9": 37.0,
+  "yark9": 10.3,
+  "neytr9": 63.2,
+  "temn9": 7.7,
+  "dom9": [
+   [
+    "#ebe7de",
+    21.5
+   ],
+   [
+    "#ffffff",
+    15.5
+   ],
+   [
+    "#959794",
+    15.4
+   ]
+  ],
+  "kegl": 3.61,
+  "keglpx": 52,
+  "gtext": "GELATO",
+  "gfont": "Montserrat",
+  "bg": "#ffffff",
+  "ves": 3208,
+  "libs": [
+   "wordpress"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 25,
+  "req": 77,
+  "h1font": "Montserrat",
+  "h1px": "26px",
+  "fony": [
+   [
+    "#ebe5db",
+    658720
+   ],
+   [
+    "#f8f5f2",
+    31390
+   ],
+   [
+    "#c6c2ba",
+    31284
+   ],
+   [
+    "#f5f2ed",
+    24096
+   ]
+  ]
+ },
+ {
+  "host": "sweetmagnoliagelato.com",
+  "url": "https://sweetmagnoliagelato.com/",
+  "nisha": "МОРОЖЕНОЕ И СЛАДОСТИ (Awwwards: gelato / candy)",
+  "title": "",
+  "nagr": "HM",
+  "podpis": "madgenius HM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/sweet-magnolia-gelato-company",
+  "C": 26.6,
+  "yark": 0.1,
+  "neytr": 82.9,
+  "temn": 0.9,
+  "L": 96.3,
+  "dom": [
+   [
+    "#ffffff",
+    78.9
+   ],
+   [
+    "#b8e4fc",
+    14.9
+   ],
+   [
+    "#888f95",
+    2.7
+   ],
+   [
+    "#e3f2f9",
+    1.2
+   ]
+  ],
+  "C9": 38.4,
+  "yark9": 1.7,
+  "neytr9": 65.7,
+  "temn9": 3.5,
+  "dom9": [
+   [
+    "#ffffff",
+    59.7
+   ],
+   [
+    "#b8e4fc",
+    27.8
+   ],
+   [
+    "#666b72",
+    7.2
+   ]
+  ],
+  "kegl": 2.43,
+  "keglpx": 35,
+  "gtext": "sweetmagnoliagelato.com",
+  "gfont": "GD Sherpa",
+  "bg": "#1d2a33",
+  "ves": 284,
+  "libs": [],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 0,
+  "req": 20,
+  "h1font": "",
+  "h1px": "",
+  "fony": [
+   [
+    "#ffffff",
+    1402560
+   ],
+   [
+    "#b8e4fc",
+    216699
+   ],
+   [
+    "#111111",
+    8388
+   ]
+  ]
+ },
+ {
+  "host": "anitagelato.com",
+  "nisha": "МОРОЖЕНОЕ И СЛАДОСТИ (Awwwards: gelato / candy)",
+  "bad": "Error: page.goto: net::ERR_CONNECTION_REFUSED at https://anitagelato.c",
+  "status": null
+ },
+ {
+  "host": "bombon.rs",
+  "url": "https://bombon.rs/",
+  "nisha": "МОРОЖЕНОЕ И СЛАДОСТИ (Awwwards: gelato / candy)",
+  "title": "Bombon",
+  "nagr": "AH",
+  "podpis": "Square43 Studio PRO AH",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/bombon-royal-swedish-candy",
+  "C": 28.3,
+  "yark": 3.6,
+  "neytr": 86.4,
+  "temn": 5.6,
+  "L": 84.4,
+  "dom": [
+   [
+    "#ece7f2",
+    59.6
+   ],
+   [
+    "#cfc4d9",
+    11.1
+   ],
+   [
+    "#f5f2f8",
+    10.2
+   ],
+   [
+    "#60475a",
+    9.5
+   ]
+  ],
+  "C9": 33.0,
+  "yark9": 6.2,
+  "neytr9": 87.2,
+  "temn9": 12.4,
+  "dom9": [
+   [
+    "#ece7f2",
+    54.6
+   ],
+   [
+    "#3d3136",
+    16.4
+   ],
+   [
+    "#c6c1c3",
+    9.9
+   ]
+  ],
+  "kegl": 5.71,
+  "keglpx": 82,
+  "gtext": "BOMBON",
+  "gfont": "akina",
+  "bg": "#ffffff",
+  "ves": 4387,
+  "libs": [
+   "next"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 227,
+  "req": 79,
+  "h1font": "akina",
+  "h1px": "82.17px",
+  "fony": [
+   [
+    "#ece7f2",
+    20422735
+   ],
+   [
+    "#af9ccc",
+    1517310
+   ],
+   [
+    "#ffffff",
+    1445648
+   ],
+   [
+    "#f686b3",
+    1296000
+   ]
+  ]
+ },
+ {
+  "host": "candykittens.co.uk",
+  "url": "https://candykittens.co.uk/",
+  "nisha": "МОРОЖЕНОЕ И СЛАДОСТИ (Awwwards: gelato / candy)",
+  "title": "Candy Kittens | Gourmet Vegan Sweets | No Nasties. All Good",
+  "nagr": "",
+  "podpis": "Show + Tell PRO",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/candy-kittens",
+  "C": 57.5,
+  "yark": 9.4,
+  "neytr": 59.2,
+  "temn": 4.5,
+  "L": 77.5,
+  "dom": [
+   [
+    "#e4f6f5",
+    34.7
+   ],
+   [
+    "#623d31",
+    24.1
+   ],
+   [
+    "#bfc3c2",
+    17.7
+   ],
+   [
+    "#fdfefe",
+    15.6
+   ]
+  ],
+  "C9": 55.3,
+  "yark9": 8.9,
+  "neytr9": 55.2,
+  "temn9": 5.7,
+  "dom9": [
+   [
+    "#ffffff",
+    41.2
+   ],
+   [
+    "#3a2b20",
+    13.2
+   ],
+   [
+    "#893936",
+    12.8
+   ]
+  ],
+  "kegl": 4.24,
+  "keglpx": 61,
+  "gtext": "Quick cart is currently empty",
+  "gfont": "Sailec",
+  "bg": "#ffffff",
+  "ves": 5079,
+  "libs": [
+   "swiper",
+   "shopify"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 65,
+  "req": 265,
+  "h1font": "Sailec",
+  "h1px": "16px",
+  "fony": [
+   [
+    "#ffffff",
+    11655829
+   ],
+   [
+    "#e4f6f5",
+    1803600
+   ],
+   [
+    "#f8f8f8",
+    1535835
+   ],
+   [
+    "#2cdcd4",
+    731440
+   ]
+  ]
+ },
+ {
+  "host": "dylanscandybar.com",
+  "url": "https://www.dylanscandybar.com/",
+  "nisha": "МОРОЖЕНОЕ И СЛАДОСТИ (Awwwards: gelato / candy)",
+  "title": "Dylan's Candy Bar",
+  "nagr": "",
+  "podpis": "Lounge Lizard",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/dylans-candy-bar",
+  "C": 60.7,
+  "yark": 4.7,
+  "neytr": 36.0,
+  "temn": 13.4,
+  "L": 45.3,
+  "dom": [
+   [
+    "#5e3910",
+    27.5
+   ],
+   [
+    "#858684",
+    19.2
+   ],
+   [
+    "#ffffff",
+    18.2
+   ],
+   [
+    "#3b3427",
+    10.4
+   ]
+  ],
+  "C9": 134.9,
+  "yark9": 64.9,
+  "neytr9": 11.6,
+  "temn9": 9.3,
+  "dom9": [
+   [
+    "#f2be15",
+    19.1
+   ],
+   [
+    "#e56b15",
+    14.1
+   ],
+   [
+    "#b99c1f",
+    14.0
+   ]
+  ],
+  "kegl": 2.22,
+  "keglpx": 32,
+  "gtext": "FEATURED COLLECTIONS",
+  "gfont": "Lato",
+  "bg": "#ffffff",
+  "ves": 11888,
+  "libs": [
+   "swiper",
+   "shopify"
+  ],
+  "video": 4,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 209,
+  "req": 555,
+  "h1font": "Lato",
+  "h1px": "40px",
+  "fony": [
+   [
+    "#121212",
+    10852501
+   ],
+   [
+    "#ffffff",
+    6223952
+   ],
+   [
+    "#000000",
+    4673491
+   ],
+   [
+    "#c9c9c9",
+    1296000
+   ]
+  ]
+ },
+ {
+  "host": "yumearth.com",
+  "url": "https://yumearth.com/",
+  "nisha": "МОРОЖЕНОЕ И СЛАДОСТИ (Awwwards: gelato / candy)",
+  "title": "YumEarth | Organic Candy | Allergy Friendly Candy",
+  "nagr": "",
+  "podpis": "electric enjin",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/yumearth-organic-candy",
+  "C": 106.0,
+  "yark": 33.1,
+  "neytr": 59.7,
+  "temn": 4.6,
+  "L": 77.5,
+  "dom": [
+   [
+    "#ffffff",
+    35.2
+   ],
+   [
+    "#f5f5f5",
+    17.5
+   ],
+   [
+    "#078896",
+    15.8
+   ],
+   [
+    "#fe7805",
+    12.8
+   ]
+  ],
+  "C9": 44.8,
+  "yark9": 6.6,
+  "neytr9": 86.0,
+  "temn9": 1.8,
+  "dom9": [
+   [
+    "#ffffff",
+    56.0
+   ],
+   [
+    "#f4f4f4",
+    16.8
+   ],
+   [
+    "#385a42",
+    14.1
+   ]
+  ],
+  "kegl": 3.33,
+  "keglpx": 48,
+  "gtext": "Seriously Delicious Chocolate",
+  "gfont": "houschka-rounded",
+  "bg": "#ffffff",
+  "ves": 4010,
+  "libs": [
+   "shopify"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 104,
+  "req": 355,
+  "h1font": "houschka-rounded",
+  "h1px": "48px",
+  "fony": [
+   [
+    "#ffffff",
+    10649238
+   ],
+   [
+    "#00838e",
+    2993283
+   ],
+   [
+    "#000000",
+    2594651
+   ],
+   [
+    "#f5f5f5",
+    1451048
+   ]
+  ]
+ },
+ {
+  "host": "spun-candy.com",
+  "url": "https://spun-candy.com/",
+  "nisha": "МОРОЖЕНОЕ И СЛАДОСТИ (Awwwards: gelato / candy)",
+  "title": "Account Suspended",
+  "nagr": "",
+  "podpis": "Boshanka",
+  "mertv": true,
+  "kartochka": "https://www.awwwards.com/sites/spun-candy",
+  "C": 15.4,
+  "yark": 0.1,
+  "neytr": 74.7,
+  "temn": 0.0,
+  "L": 80.7,
+  "dom": [
+   [
+    "#ffffff",
+    72.1
+   ],
+   [
+    "#293a4a",
+    22.3
+   ],
+   [
+    "#2c3a48",
+    1.9
+   ],
+   [
+    "#f9ffff",
+    1.7
+   ]
+  ],
+  "C9": 17.6,
+  "yark9": 0.5,
+  "neytr9": 73.7,
+  "temn9": 0.1,
+  "dom9": [
+   [
+    "#ffffff",
+    71.1
+   ],
+   [
+    "#293a4a",
+    22.9
+   ],
+   [
+    "#afb5b9",
+    2.0
+   ]
+  ],
+  "kegl": 1.94,
+  "keglpx": 28,
+  "gtext": "This Account has been suspended.",
+  "gfont": "Arial",
+  "bg": "#ffffff",
+  "ves": 38,
+  "libs": [],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 0,
+  "req": 4,
+  "h1font": "",
+  "h1px": "",
+  "fony": [
+   [
+    "#293a4a",
+    335520
+   ]
+  ]
+ },
+ {
+  "host": "jetsetcandy.com",
+  "url": "https://jetsetcandy.com/",
+  "nisha": "МОРОЖЕНОЕ И СЛАДОСТИ (Awwwards: gelato / candy)",
+  "title": "Jet Set Candy | Travel Charms – JET SET CANDY",
+  "nagr": "",
+  "podpis": "Elva",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/jet-set-candy",
+  "C": 46.1,
+  "yark": 9.8,
+  "neytr": 65.0,
+  "temn": 0.3,
+  "L": 83.0,
+  "dom": [
+   [
+    "#ffffff",
+    54.7
+   ],
+   [
+    "#dbbdbc",
+    12.0
+   ],
+   [
+    "#112b7c",
+    12.0
+   ],
+   [
+    "#e1f0e4",
+    7.6
+   ]
+  ],
+  "C9": 56.0,
+  "yark9": 5.0,
+  "neytr9": 51.5,
+  "temn9": 0.3,
+  "dom9": [
+   [
+    "#ffffff",
+    41.2
+   ],
+   [
+    "#0e2e7e",
+    18.8
+   ],
+   [
+    "#e8c7cb",
+    13.9
+   ]
+  ],
+  "kegl": 3.47,
+  "keglpx": 50,
+  "gtext": "The Ultimate Souvenir",
+  "gfont": "futura-pt",
+  "bg": "#ffffff",
+  "ves": 8557,
+  "libs": [
+   "swiper",
+   "shopify"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 134,
+  "req": 664,
+  "h1font": "futura-pt",
+  "h1px": "50px",
+  "fony": [
+   [
+    "#ffffff",
+    4966276
+   ],
+   [
+    "#dffef2",
+    1605015
+   ],
+   [
+    "#000000",
+    1315680
+   ],
+   [
+    "#f9f9f9",
+    1041999
+   ]
+  ]
+ },
+ {
+  "host": "lovecandycoat.com",
+  "url": "https://lovecandycoat.com/",
+  "nisha": "МОРОЖЕНОЕ И СЛАДОСТИ (Awwwards: gelato / candy)",
+  "title": "Candy Coat | Gel Nail Polish, Builder Gel & Nail Essentials – Pink Hou",
+  "nagr": "",
+  "podpis": "lantern-sol",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/candy-coat",
+  "C": 35.2,
+  "yark": 7.1,
+  "neytr": 80.2,
+  "temn": 55.8,
+  "L": 34.2,
+  "dom": [
+   [
+    "#2d2d2e",
+    26.3
+   ],
+   [
+    "#676666",
+    20.5
+   ],
+   [
+    "#2a2a2c",
+    14.4
+   ],
+   [
+    "#e7d0d0",
+    11.9
+   ]
+  ],
+  "C9": 60.2,
+  "yark9": 24.1,
+  "neytr9": 55.9,
+  "temn9": 13.2,
+  "dom9": [
+   [
+    "#ffffff",
+    31.6
+   ],
+   [
+    "#504f4d",
+    17.1
+   ],
+   [
+    "#2a191b",
+    14.8
+   ]
+  ],
+  "kegl": 2,
+  "keglpx": 29,
+  "gtext": "Your cart",
+  "gfont": "Funnel Sans",
+  "bg": null,
+  "ves": 3731,
+  "libs": [
+   "shopify"
+  ],
+  "video": 15,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 30,
+  "req": 449,
+  "h1font": "Funnel Sans",
+  "h1px": "48px",
+  "fony": [
+   [
+    "#000000",
+    13028723
+   ],
+   [
+    "#ffecf1",
+    799988
+   ],
+   [
+    "#fff6fb",
+    271751
+   ],
+   [
+    "#ffffff",
+    252943
+   ]
+  ]
+ },
+ {
+  "host": "lammes.com",
+  "url": "https://lammes.com/",
+  "nisha": "МОРОЖЕНОЕ И СЛАДОСТИ (Awwwards: gelato / candy)",
+  "title": "Lammes Candies",
+  "nagr": "",
+  "podpis": "Fahrenheit Marketing PRO",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/lammes-candies",
+  "C": 60.1,
+  "yark": 20.7,
+  "neytr": 7.9,
+  "temn": 10.0,
+  "L": 46.1,
+  "dom": [
+   [
+    "#9a6c7c",
+    19.2
+   ],
+   [
+    "#c57c75",
+    17.5
+   ],
+   [
+    "#424051",
+    15.5
+   ],
+   [
+    "#b77071",
+    13.1
+   ]
+  ],
+  "C9": 64.1,
+  "yark9": 26.7,
+  "neytr9": 24.2,
+  "temn9": 7.5,
+  "dom9": [
+   [
+    "#ffffff",
+    15.1
+   ],
+   [
+    "#464151",
+    13.5
+   ],
+   [
+    "#764026",
+    13.2
+   ]
+  ],
+  "kegl": 5,
+  "keglpx": 72,
+  "gtext": "Lammes Candies",
+  "gfont": "Arapey",
+  "bg": "#ffffff",
+  "ves": 5538,
+  "libs": [
+   "matter",
+   "shopify"
+  ],
+  "video": 1,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 16,
+  "req": 358,
+  "h1font": "Arapey",
+  "h1px": "72px",
+  "fony": [
+   [
+    "#282828",
+    2708080
+   ],
+   [
+    "#fff4ed",
+    2594042
+   ],
+   [
+    "#744529",
+    1168178
+   ],
+   [
+    "#ffffff",
+    99068
+   ]
+  ]
+ },
+ {
+  "host": "bonbouquetcafe.fr",
+  "url": "https://bonbouquetcafe.fr/",
+  "nisha": "ЦВЕТЫ",
+  "title": "Bon Bouquet Café | Brunch Paris 9 | The Hungry Family",
+  "nagr": "",
+  "podpis": "BLACKT PRO",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/bon-bouquet-cafe",
+  "C": 97.1,
+  "yark": 34.3,
+  "neytr": 12.8,
+  "temn": 0.7,
+  "L": 70.8,
+  "dom": [
+   [
+    "#f7ded7",
+    22.8
+   ],
+   [
+    "#d99f8c",
+    13.9
+   ],
+   [
+    "#c07958",
+    13.4
+   ],
+   [
+    "#e9cac0",
+    13.1
+   ]
+  ],
+  "C9": 79.9,
+  "yark9": 31.2,
+  "neytr9": 9.2,
+  "temn9": 1.0,
+  "dom9": [
+   [
+    "#f0e2d4",
+    19.9
+   ],
+   [
+    "#e3c8b5",
+    19.2
+   ],
+   [
+    "#e9938c",
+    18.3
+   ]
+  ],
+  "kegl": 9.17,
+  "keglpx": 132,
+  "gtext": "pancake",
+  "gfont": "Gastromond",
+  "bg": "#ffffff",
+  "ves": 22537,
+  "libs": [
+   "gsap",
+   "swiper"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 51,
+  "req": 162,
+  "h1font": "Gastromond",
+  "h1px": "100px",
+  "fony": [
+   [
+    "#ffffff",
+    4279973
+   ],
+   [
+    "#00966c",
+    2478674
+   ],
+   [
+    "#bdfbff",
+    1304640
+   ],
+   [
+    "#ffcade",
+    1020016
+   ]
+  ]
+ },
+ {
+  "host": "nbflowers.co.uk",
+  "url": "https://nbflowers.co.uk/",
+  "nisha": "ЦВЕТЫ",
+  "title": "Florist in London – NB Flowers",
+  "nagr": "HM",
+  "podpis": "HM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/nb-flowers",
+  "C": 34.7,
+  "yark": 4.6,
+  "neytr": 35.2,
+  "temn": 36.7,
+  "L": 44.1,
+  "dom": [
+   [
+    "#ffffff",
+    26.2
+   ],
+   [
+    "#4e2830",
+    17.4
+   ],
+   [
+    "#906f6e",
+    16.2
+   ],
+   [
+    "#1e1616",
+    13.1
+   ]
+  ],
+  "C9": 32.7,
+  "yark9": 4.6,
+  "neytr9": 51.4,
+  "temn9": 32.9,
+  "dom9": [
+   [
+    "#ffffff",
+    32.1
+   ],
+   [
+    "#3d1b2a",
+    15.5
+   ],
+   [
+    "#212021",
+    15.1
+   ]
+  ],
+  "kegl": 2.22,
+  "keglpx": 32,
+  "gtext": "NB FLOWERS IS A LEADING LUXURY FLOR",
+  "gfont": "Timeless",
+  "bg": "#f2f4f7",
+  "ves": 4888,
+  "libs": [
+   "wordpress"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 37,
+  "req": 90,
+  "h1font": "Timeless",
+  "h1px": "32px",
+  "fony": [
+   [
+    "#ffffff",
+    13182628
+   ],
+   [
+    "#bd9759",
+    743971
+   ],
+   [
+    "#202020",
+    90720
+   ],
+   [
+    "#ededed",
+    66240
+   ]
+  ]
+ },
+ {
+  "host": "meshelflowers.ru",
+  "nisha": "ЦВЕТЫ",
+  "bad": "Error: page.goto: net::ERR_NAME_NOT_RESOLVED at https://meshelflowers.",
+  "status": null
+ },
+ {
+  "host": "flowers-sim.ru",
+  "url": "https://flowers-sim.ru/",
+  "nisha": "ЦВЕТЫ",
+  "title": "Shop Flowers Sim",
+  "nagr": "",
+  "podpis": "Max Vasilyev",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/shop-flowers-sim",
+  "C": 75.6,
+  "yark": 60.5,
+  "neytr": 4.5,
+  "temn": 11.9,
+  "L": 41.2,
+  "dom": [
+   [
+    "#b35935",
+    19.4
+   ],
+   [
+    "#8d2b2f",
+    17.4
+   ],
+   [
+    "#3b342d",
+    16.1
+   ],
+   [
+    "#a33f34",
+    14.6
+   ]
+  ],
+  "C9": 48.1,
+  "yark9": 17.5,
+  "neytr9": 14.4,
+  "temn9": 38.4,
+  "dom9": [
+   [
+    "#1f2c28",
+    20.4
+   ],
+   [
+    "#a96239",
+    15.1
+   ],
+   [
+    "#2c342c",
+    14.8
+   ]
+  ],
+  "kegl": 3.47,
+  "keglpx": 50,
+  "gtext": "F",
+  "gfont": "VCGaramondCondensed",
+  "bg": null,
+  "ves": 23133,
+  "libs": [
+   "gsap"
+  ],
+  "video": 4,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 11,
+  "req": 117,
+  "h1font": "",
+  "h1px": "",
+  "fony": [
+   [
+    "#000000",
+    29580800
+   ],
+   [
+    "#ffffff",
+    6850780
+   ],
+   [
+    "#a72d25",
+    264000
+   ]
+  ]
+ },
+ {
+  "host": "heycubi.com",
+  "url": "https://heycubi.com/",
+  "nisha": "ДЕТСКИЕ ТОВАРЫ",
+  "title": "Credit Union Analytics & Community Bank BI Platform | Cubi",
+  "nagr": "",
+  "podpis": "Fu-Hsiang Chuang",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/cubi-communicator-for-smart-kids-1",
+  "C": 34.9,
+  "yark": 2.3,
+  "neytr": 85.5,
+  "temn": 80.6,
+  "L": 19.4,
+  "dom": [
+   [
+    "#0a0a0a",
+    55.7
+   ],
+   [
+    "#f0e4dc",
+    15.5
+   ],
+   [
+    "#0b0a0a",
+    10.9
+   ],
+   [
+    "#211914",
+    8.2
+   ]
+  ],
+  "C9": 78.9,
+  "yark9": 11.5,
+  "neytr9": 40.1,
+  "temn9": 82.2,
+  "dom9": [
+   [
+    "#160f0a",
+    31.1
+   ],
+   [
+    "#0a0a0a",
+    28.0
+   ],
+   [
+    "#0e0b0a",
+    19.6
+   ]
+  ],
+  "kegl": 3.75,
+  "keglpx": 54,
+  "gtext": "clearly understood.",
+  "gfont": "Inter",
+  "bg": "#ffffff",
+  "ves": 306,
+  "libs": [],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 70,
+  "req": 23,
+  "h1font": "Inter",
+  "h1px": "54px",
+  "fony": [
+   [
+    "#f7f8fa",
+    4124039
+   ],
+   [
+    "#0a0a0a",
+    3495283
+   ],
+   [
+    "#ffffff",
+    2789277
+   ],
+   [
+    "#060606",
+    535590
+   ]
+  ]
+ },
+ {
+  "host": "kidslovejetlag.com",
+  "nisha": "ДЕТСКИЕ ТОВАРЫ",
+  "bad": "Error: page.goto: net::ERR_CONNECTION_CLOSED at https://kidslovejetlag",
+  "status": null
+ },
+ {
+  "host": "flavorshookkids.org",
+  "url": "https://flavorshookkids.org/",
+  "nisha": "ДЕТСКИЕ ТОВАРЫ",
+  "title": "The Tobacco Industry is Addicting Kids - UNDO.org Topic Page",
+  "nagr": "",
+  "podpis": "Beyond",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/flavors-hook-kids",
+  "C": 13.9,
+  "yark": 0.0,
+  "neytr": 61.2,
+  "temn": 20.0,
+  "L": 56.5,
+  "dom": [
+   [
+    "#f3f3f0",
+    26.8
+   ],
+   [
+    "#777774",
+    21.1
+   ],
+   [
+    "#121110",
+    13.7
+   ],
+   [
+    "#362f28",
+    11.1
+   ]
+  ],
+  "C9": 17.0,
+  "yark9": 1.4,
+  "neytr9": 75.0,
+  "temn9": 19.1,
+  "dom9": [
+   [
+    "#f3f3f0",
+    41.9
+   ],
+   [
+    "#26211f",
+    27.0
+   ],
+   [
+    "#9d9794",
+    16.1
+   ]
+  ],
+  "kegl": 2.5,
+  "keglpx": 36,
+  "gtext": "References",
+  "gfont": "Cofo Kak",
+  "bg": "#ffffff",
+  "ves": 3041,
+  "libs": [
+   "swiper"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 82,
+  "req": 162,
+  "h1font": "Cofo Kak",
+  "h1px": "90px",
+  "fony": [
+   [
+    "#f3f3f0",
+    2210333
+   ],
+   [
+    "#0f0f0f",
+    1718347
+   ],
+   [
+    "#2d2b2a",
+    1597478
+   ],
+   [
+    "#ffffff",
+    1211159
+   ]
+  ]
+ },
+ {
+  "host": "minidil.com",
+  "url": "https://minidil.com/",
+  "nisha": "ДЕТСКИЕ ТОВАРЫ",
+  "title": "Çocuklara İngilizce Eğitiminde Doğru Adres: Minidil",
+  "nagr": "HM",
+  "podpis": "pixelatecreative HM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/minidil-kids-language-club",
+  "C": 82.4,
+  "yark": 17.3,
+  "neytr": 2.5,
+  "temn": 0.2,
+  "L": 48.9,
+  "dom": [
+   [
+    "#686f83",
+    53.4
+   ],
+   [
+    "#474c6d",
+    11.8
+   ],
+   [
+    "#bbab64",
+    11.3
+   ],
+   [
+    "#83615c",
+    6.7
+   ]
+  ],
+  "C9": 23.3,
+  "yark9": 0.0,
+  "neytr9": 0.7,
+  "temn9": 0.1,
+  "dom9": [
+   [
+    "#686f83",
+    64.4
+   ],
+   [
+    "#50485c",
+    16.7
+   ],
+   [
+    "#676f83",
+    8.1
+   ]
+  ],
+  "kegl": 4.17,
+  "keglpx": 60,
+  "gtext": "Çocuklara İngilizce",
+  "gfont": "Poetsen One",
+  "bg": "#f7f9fe",
+  "ves": 2181,
+  "libs": [],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 62,
+  "req": 131,
+  "h1font": "Poetsen One",
+  "h1px": "47px",
+  "fony": [
+   [
+    "#ffffff",
+    10031558
+   ],
+   [
+    "#6940d3",
+    1442716
+   ],
+   [
+    "#28324e",
+    1296000
+   ],
+   [
+    "#f7f9fe",
+    830858
+   ]
+  ]
+ },
+ {
+  "host": "nightkidz.shop",
+  "url": "https://nightkidz.shop/",
+  "nisha": "ДЕТСКИЕ ТОВАРЫ",
+  "title": "Nightkidz - Authentic JDM Parts & Lifestyle | Nightkidz",
+  "nagr": "",
+  "podpis": "zhenlong.design",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/nightkidz-shop",
+  "C": 10.7,
+  "yark": 0.0,
+  "neytr": 59.1,
+  "temn": 33.2,
+  "L": 54.0,
+  "dom": [
+   [
+    "#fefefe",
+    15.2
+   ],
+   [
+    "#e9e7e5",
+    13.7
+   ],
+   [
+    "#0a0b0d",
+    13.4
+   ],
+   [
+    "#2d343b",
+    12.7
+   ]
+  ],
+  "C9": 0.0,
+  "yark9": 0.0,
+  "neytr9": 100.0,
+  "temn9": 98.6,
+  "dom9": [
+   [
+    "#000000",
+    98.5
+   ],
+   [
+    "#ffffff",
+    1.1
+   ],
+   [
+    "#ababab",
+    0.1
+   ]
+  ],
+  "kegl": 3.33,
+  "keglpx": 48,
+  "gtext": "ピかラゅゅザょお",
+  "gfont": "Zen Maru Gothic",
+  "bg": "#000000",
+  "ves": 5948,
+  "libs": [
+   "next"
+  ],
+  "video": 0,
+  "canvas": 13,
+  "webgl": 0,
+  "img": 18,
+  "req": 316,
+  "h1font": "Zen Maru Gothic",
+  "h1px": "48px",
+  "fony": [
+   [
+    "#000000",
+    6785280
+   ],
+   [
+    "#e5e7eb",
+    3359232
+   ],
+   [
+    "#ffffff",
+    1298880
+   ]
+  ]
+ },
+ {
+  "host": "thetotemkids.com",
+  "nisha": "ДЕТСКИЕ ТОВАРЫ",
+  "bad": "Error: page.goto: net::ERR_NAME_NOT_RESOLVED at https://thetotemkids.c",
+  "status": null
+ },
+ {
+  "host": "littlepudsandco.co.uk",
+  "nisha": "ДЕТСКИЕ ТОВАРЫ",
+  "bad": "Error: page.goto: net::ERR_NAME_NOT_RESOLVED at https://littlepudsandc",
+  "status": null
+ },
+ {
+  "host": "indigokids.lt",
+  "url": "https://indigokids.lt/",
+  "nisha": "ДЕТСКИЕ ТОВАРЫ",
+  "title": "Welcome!",
+  "nagr": "",
+  "podpis": "Zbigniew Gieczys",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/indigo-kids",
+  "C": 68.8,
+  "yark": 20.3,
+  "neytr": 52.4,
+  "temn": 1.0,
+  "L": 87.8,
+  "dom": [
+   [
+    "#f6f2e6",
+    31.1
+   ],
+   [
+    "#def2fe",
+    21.3
+   ],
+   [
+    "#ebd19c",
+    19.5
+   ],
+   [
+    "#fdfdfb",
+    13.1
+   ]
+  ],
+  "C9": 44.4,
+  "yark9": 5.3,
+  "neytr9": 60.2,
+  "temn9": 0.8,
+  "dom9": [
+   [
+    "#f6f2e6",
+    38.5
+   ],
+   [
+    "#def1fe",
+    30.6
+   ],
+   [
+    "#b8a99c",
+    14.9
+   ]
+  ],
+  "kegl": 2.92,
+  "keglpx": 42,
+  "gtext": "Building a startup",
+  "gfont": "Open Sans",
+  "bg": "#f6f2e6",
+  "ves": 1172,
+  "libs": [],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 5,
+  "req": 31,
+  "h1font": "",
+  "h1px": "",
+  "fony": [
+   [
+    "#f6f2e6",
+    1742400
+   ],
+   [
+    "#3f4951",
+    381600
+   ],
+   [
+    "#dcf1ff",
+    306000
+   ],
+   [
+    "#fac266",
+    306000
+   ]
+  ]
+ },
+ {
+  "host": "freshegokid.com",
+  "url": "https://freshegokid.com/",
+  "nisha": "ДЕТСКИЕ ТОВАРЫ",
+  "title": "Fresh Ego Kid | Authentically Fresh Since 2010",
+  "nagr": "",
+  "podpis": "Matthew Bayliss",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/fresh-ego-kid-lookbook-ss13",
+  "C": 24.2,
+  "yark": 0.2,
+  "neytr": 82.0,
+  "temn": 64.5,
+  "L": 25.9,
+  "dom": [
+   [
+    "#0c0c0c",
+    44.1
+   ],
+   [
+    "#4c4624",
+    21.7
+   ],
+   [
+    "#cccbcc",
+    15.8
+   ],
+   [
+    "#080808",
+    8.3
+   ]
+  ],
+  "C9": 29.3,
+  "yark9": 3.2,
+  "neytr9": 83.8,
+  "temn9": 38.9,
+  "dom9": [
+   [
+    "#000000",
+    28.3
+   ],
+   [
+    "#ffffff",
+    23.8
+   ],
+   [
+    "#fffeff",
+    22.3
+   ]
+  ],
+  "kegl": 2.08,
+  "keglpx": 30,
+  "gtext": "FRESH EGO KID",
+  "gfont": "Helvetica",
+  "bg": "#ffffff",
+  "ves": 3402,
+  "libs": [
+   "shopify"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 26,
+  "req": 323,
+  "h1font": "Helvetica",
+  "h1px": "30px",
+  "fony": [
+   [
+    "#ffffff",
+    5674199
+   ],
+   [
+    "#141414",
+    1296000
+   ],
+   [
+    "#0f0f0f",
+    936000
+   ],
+   [
+    "#111111",
+    479542
+   ]
+  ]
+ },
+ {
+  "host": "kids.maplefromcanada.ca",
+  "url": "https://kids.maplefromcanada.ca/",
+  "nisha": "ДЕТСКИЕ ТОВАРЫ",
+  "title": "Kids | A fun place to learn about maple syrup and the sugar bush.",
+  "nagr": "HM",
+  "podpis": "Locomotive PRO HM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/maple-from-canada-kids",
+  "C": 92.9,
+  "yark": 24.9,
+  "neytr": 5.3,
+  "temn": 0.2,
+  "L": 83.9,
+  "dom": [
+   [
+    "#ffd3a1",
+    65.7
+   ],
+   [
+    "#fcc78d",
+    11.2
+   ],
+   [
+    "#efb914",
+    7.5
+   ],
+   [
+    "#977b65",
+    6.5
+   ]
+  ],
+  "C9": 104.8,
+  "yark9": 26.2,
+  "neytr9": 5.7,
+  "temn9": 0.2,
+  "dom9": [
+   [
+    "#ffd3a1",
+    63.6
+   ],
+   [
+    "#f3bd31",
+    9.5
+   ],
+   [
+    "#e2655c",
+    8.5
+   ]
+  ],
+  "kegl": 6.94,
+  "keglpx": 100,
+  "gtext": "Welcome",
+  "gfont": "Maax",
+  "bg": "#fff1e4",
+  "ves": 693,
+  "libs": [
+   "lottie"
+  ],
+  "video": 0,
+  "canvas": 3,
+  "webgl": 3,
+  "img": 27,
+  "req": 30,
+  "h1font": "Maax",
+  "h1px": "100px",
+  "fony": [
+   [
+    "#000000",
+    1296000
+   ],
+   [
+    "#fa6562",
+    1296000
+   ],
+   [
+    "#ffd3a1",
+    1296000
+   ],
+   [
+    "#02ae90",
+    145800
+   ]
+  ]
+ },
+ {
+  "host": "abelfragrance.com",
+  "url": "https://abelfragrance.com/",
+  "nisha": "КОСМЕТИКА И ПАРФЮМ",
+  "title": "Abel Fragrance - 100% Natural Perfume",
+  "nagr": "",
+  "podpis": "Studio Almond PRO",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/lujo",
+  "C": 22.5,
+  "yark": 0.6,
+  "neytr": 30.3,
+  "temn": 19.5,
+  "L": 39.5,
+  "dom": [
+   [
+    "#63737a",
+    18.3
+   ],
+   [
+    "#010102",
+    17.9
+   ],
+   [
+    "#50636e",
+    13.8
+   ],
+   [
+    "#a19b8a",
+    12.4
+   ]
+  ],
+  "C9": 14.1,
+  "yark9": 0.0,
+  "neytr9": 63.0,
+  "temn9": 5.6,
+  "dom9": [
+   [
+    "#757570",
+    17.3
+   ],
+   [
+    "#a19c8d",
+    15.9
+   ],
+   [
+    "#beb8a6",
+    14.8
+   ]
+  ],
+  "kegl": 1.94,
+  "keglpx": 28,
+  "gtext": "INTRODUCING: TIBI",
+  "gfont": "Founders Grotesk Mono",
+  "bg": null,
+  "ves": 57480,
+  "libs": [
+   "swiper",
+   "shopify"
+  ],
+  "video": 3,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 67,
+  "req": 339,
+  "h1font": "Founders Grotesk",
+  "h1px": "32px",
+  "fony": [
+   [
+    "#ffffff",
+    7410015
+   ],
+   [
+    "#000000",
+    6480000
+   ],
+   [
+    "#f6eada",
+    394973
+   ],
+   [
+    "#030303",
+    29906
+   ]
+  ]
+ },
+ {
+  "host": "mdebeauty.com",
+  "url": "https://mdebeauty.com/",
+  "nisha": "КОСМЕТИКА И ПАРФЮМ",
+  "title": "Maison des elites",
+  "nagr": "",
+  "podpis": "League Design Agency PRO",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/maison-des-elites",
+  "C": 33.3,
+  "yark": 6.2,
+  "neytr": 60.2,
+  "temn": 25.1,
+  "L": 56.3,
+  "dom": [
+   [
+    "#f9f2e9",
+    20.0
+   ],
+   [
+    "#3c414b",
+    13.6
+   ],
+   [
+    "#f1ece5",
+    12.9
+   ],
+   [
+    "#030405",
+    12.5
+   ]
+  ],
+  "C9": 32.1,
+  "yark9": 5.8,
+  "neytr9": 56.1,
+  "temn9": 32.7,
+  "dom9": [
+   [
+    "#ece9e4",
+    19.2
+   ],
+   [
+    "#1c1e22",
+    19.1
+   ],
+   [
+    "#f2ede7",
+    14.6
+   ]
+  ],
+  "kegl": 4.31,
+  "keglpx": 62,
+  "gtext": "Beauty for Every Skin",
+  "gfont": "Anstery Script",
+  "bg": "#ffffff",
+  "ves": 6457,
+  "libs": [
+   "shopify"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 91,
+  "req": 322,
+  "h1font": "PP Monument Extended",
+  "h1px": "18px",
+  "fony": [
+   [
+    "#f2efeb",
+    7031475
+   ],
+   [
+    "#e7e1d7",
+    5217075
+   ],
+   [
+    "#28130f",
+    3888000
+   ],
+   [
+    "#f9f2e9",
+    1456550
+   ]
+  ]
+ },
+ {
+  "host": "thehungryfamily.com",
+  "url": "https://thehungryfamily.com/",
+  "nisha": "ЕДА И НАПИТКИ",
+  "title": "Les meilleurs restaurants brunch à Paris | The Hungry Family",
+  "nagr": "",
+  "podpis": "BLACKT PRO",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/bon-bouquet-cafe-1",
+  "C": 75.5,
+  "yark": 32.5,
+  "neytr": 37.8,
+  "temn": 1.6,
+  "L": 72.8,
+  "dom": [
+   [
+    "#f4f4f4",
+    30.2
+   ],
+   [
+    "#e19872",
+    14.9
+   ],
+   [
+    "#be4e3a",
+    12.2
+   ],
+   [
+    "#f5d8b2",
+    12.1
+   ]
+  ],
+  "C9": 76.6,
+  "yark9": 31.9,
+  "neytr9": 28.0,
+  "temn9": 1.0,
+  "dom9": [
+   [
+    "#f8ede1",
+    18.0
+   ],
+   [
+    "#db8a7a",
+    16.0
+   ],
+   [
+    "#dccac5",
+    14.2
+   ]
+  ],
+  "kegl": 9.72,
+  "keglpx": 140,
+  "gtext": ".",
+  "gfont": "hwt-artz",
+  "bg": "#ffffff",
+  "ves": 11502,
+  "libs": [
+   "swiper",
+   "next",
+   "wordpress"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 22,
+  "req": 166,
+  "h1font": "hwt-artz",
+  "h1px": "140px",
+  "fony": [
+   [
+    "#090909",
+    3200543
+   ],
+   [
+    "#ffffff",
+    1335970
+   ],
+   [
+    "#131313",
+    1287923
+   ],
+   [
+    "#ffe9a5",
+    1238400
+   ]
+  ]
+ },
+ {
+  "host": "apocalypsecoffee.com",
+  "url": "https://apocalypsecoffee.com/",
+  "nisha": "ЕДА И НАПИТКИ",
+  "title": "Buy Organic Coffee Beans Online | Apocalypse Coffee Roasters",
+  "nagr": "",
+  "podpis": "design.benjaminsullivan",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/apocalypse-coffee-roasters",
+  "C": 33.6,
+  "yark": 3.4,
+  "neytr": 89.8,
+  "temn": 23.4,
+  "L": 36.6,
+  "dom": [
+   [
+    "#565452",
+    42.4
+   ],
+   [
+    "#151414",
+    17.0
+   ],
+   [
+    "#ccb5a6",
+    13.9
+   ],
+   [
+    "#433a33",
+    12.6
+   ]
+  ],
+  "C9": 103.2,
+  "yark9": 43.2,
+  "neytr9": 53.7,
+  "temn9": 11.8,
+  "dom9": [
+   [
+    "#e06d2d",
+    37.1
+   ],
+   [
+    "#f0ede8",
+    34.8
+   ],
+   [
+    "#423228",
+    15.2
+   ]
+  ],
+  "kegl": 8.5,
+  "keglpx": 122,
+  "gtext": "It's",
+  "gfont": "Lovely Mess",
+  "bg": "#090705",
+  "ves": 4884,
+  "libs": [
+   "lenis",
+   "shopify"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 52,
+  "req": 325,
+  "h1font": "Arnel",
+  "h1px": "122.4px",
+  "fony": [
+   [
+    "#080808",
+    16877700
+   ],
+   [
+    "#0d0d0d",
+    8273360
+   ],
+   [
+    "#f0ede8",
+    5336562
+   ],
+   [
+    "#e06d2d",
+    4224689
+   ]
+  ]
+ },
+ {
+  "host": "nomu.store",
+  "url": "https://nomu.store/",
+  "nisha": "ЕДА И НАПИТКИ",
+  "title": "Nomu - Create your merch in 5 minutes at the best price",
+  "nagr": "HM",
+  "podpis": "Nomu HM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/nomu-custom-merch-platform",
+  "C": 29.4,
+  "yark": 2.4,
+  "neytr": 95.3,
+  "temn": 1.8,
+  "L": 95.1,
+  "dom": [
+   [
+    "#fff9f6",
+    70.7
+   ],
+   [
+    "#fbf5f2",
+    10.4
+   ],
+   [
+    "#ffffff",
+    7.3
+   ],
+   [
+    "#ba958a",
+    5.6
+   ]
+  ],
+  "C9": 39.8,
+  "yark9": 4.5,
+  "neytr9": 91.9,
+  "temn9": 2.8,
+  "dom9": [
+   [
+    "#fff9f6",
+    64.5
+   ],
+   [
+    "#ae7b6c",
+    9.3
+   ],
+   [
+    "#f5efec",
+    8.2
+   ]
+  ],
+  "kegl": 22,
+  "keglpx": 317,
+  "gtext": ".",
+  "gfont": "Inter",
+  "bg": "#fff9f6",
+  "ves": 239,
+  "libs": [
+   "next"
+  ],
+  "video": 0,
+  "canvas": 1,
+  "webgl": 0,
+  "img": 50,
+  "req": 62,
+  "h1font": "Inter",
+  "h1px": "103.68px",
+  "fony": [
+   [
+    "#fff9f6",
+    12591057
+   ],
+   [
+    "#0d1117",
+    3893400
+   ],
+   [
+    "#0f151d",
+    3657924
+   ],
+   [
+    "#ff7448",
+    1075298
+   ]
+  ]
+ },
+ {
+  "host": "fermliving.com",
+  "url": "https://fermliving.com/",
+  "nisha": "ЕДА И НАПИТКИ",
+  "title": "Ferm Living | Deens design | Meubels, accessoires en lampen",
+  "nagr": "HM",
+  "podpis": "Signifly PRO HM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/ferm-living",
+  "C": 17.8,
+  "yark": 0.4,
+  "neytr": 25.8,
+  "temn": 57.5,
+  "L": 24.8,
+  "dom": [
+   [
+    "#18120e",
+    15.6
+   ],
+   [
+    "#6a635c",
+    14.1
+   ],
+   [
+    "#3b3027",
+    13.9
+   ],
+   [
+    "#4e3e30",
+    12.8
+   ]
+  ],
+  "C9": 31.2,
+  "yark9": 2.5,
+  "neytr9": 27.1,
+  "temn9": 47.0,
+  "dom9": [
+   [
+    "#fffefa",
+    17.1
+   ],
+   [
+    "#241511",
+    16.1
+   ],
+   [
+    "#472f23",
+    15.3
+   ]
+  ],
+  "kegl": 1.67,
+  "keglpx": 24,
+  "gtext": "Shop",
+  "gfont": "teka",
+  "bg": "#fffefa",
+  "ves": 5601,
+  "libs": [
+   "shopify"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 153,
+  "req": 377,
+  "h1font": "canela",
+  "h1px": "32px",
+  "fony": [
+   [
+    "#000000",
+    2592000
+   ],
+   [
+    "#fffefa",
+    453600
+   ],
+   [
+    "#ffffff",
+    377696
+   ],
+   [
+    "#f6f4ee",
+    46080
+   ]
+  ]
+ },
+ {
+  "host": "wildbran.pt",
+  "url": "https://wildbran.pt/",
+  "nisha": "ЕДА И НАПИТКИ",
+  "title": "WildBran",
+  "nagr": "HM",
+  "podpis": "Duall Studio PRO HM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/wildbran",
+  "C": 29.2,
+  "yark": 3.3,
+  "neytr": 46.9,
+  "temn": 7.1,
+  "L": 61.8,
+  "dom": [
+   [
+    "#ffffff",
+    20.5
+   ],
+   [
+    "#9ca1b0",
+    16.6
+   ],
+   [
+    "#939aa9",
+    13.3
+   ],
+   [
+    "#7a8190",
+    13.1
+   ]
+  ],
+  "C9": 57.8,
+  "yark9": 10.1,
+  "neytr9": 49.4,
+  "temn9": 9.6,
+  "dom9": [
+   [
+    "#ffffff",
+    31.7
+   ],
+   [
+    "#97807a",
+    28.8
+   ],
+   [
+    "#2e2a27",
+    11.0
+   ]
+  ],
+  "kegl": 6.53,
+  "keglpx": 94,
+  "gtext": "Live the Wild",
+  "gfont": "Pppangaia",
+  "bg": "#faf7f2",
+  "ves": 59870,
+  "libs": [
+   "gsap",
+   "lenis",
+   "swiper"
+  ],
+  "video": 4,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 30,
+  "req": 68,
+  "h1font": "Pppangaia",
+  "h1px": "94px",
+  "fony": [
+   [
+    "#292929",
+    4253100
+   ],
+   [
+    "#ffffff",
+    1434166
+   ],
+   [
+    "#e4e0d4",
+    1042865
+   ],
+   [
+    "#1863dc",
+    45130
+   ]
+  ]
+ },
+ {
+  "host": "matarellis.gr",
+  "url": "https://matarellis.gr/",
+  "nisha": "ЕДА И НАПИТКИ",
+  "title": "Ούζο Ματαρέλλη",
+  "nagr": "HM",
+  "podpis": "WHY HM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/ouzo-matarellis",
+  "C": 35.1,
+  "yark": 1.4,
+  "neytr": 3.7,
+  "temn": 77.6,
+  "L": 26.5,
+  "dom": [
+   [
+    "#163122",
+    25.8
+   ],
+   [
+    "#04351f",
+    18.7
+   ],
+   [
+    "#162f20",
+    16.2
+   ],
+   [
+    "#14412b",
+    13.3
+   ]
+  ],
+  "C9": 51.4,
+  "yark9": 6.9,
+  "neytr9": 19.2,
+  "temn9": 38.3,
+  "dom9": [
+   [
+    "#063721",
+    18.4
+   ],
+   [
+    "#245037",
+    17.9
+   ],
+   [
+    "#f8f7f8",
+    16.4
+   ]
+  ],
+  "kegl": 11.4,
+  "keglpx": 164,
+  "gtext": "ΕΧΟΥΜΕ",
+  "gfont": "PFDinTextCompPro",
+  "bg": "#f5f5f5",
+  "ves": 94198,
+  "libs": [
+   "gsap",
+   "swiper",
+   "wordpress"
+  ],
+  "video": 0,
+  "canvas": 2,
+  "webgl": 0,
+  "img": 28,
+  "req": 211,
+  "h1font": "PFDinTextCompPro",
+  "h1px": "164.16px",
+  "fony": [
+   [
+    "#000000",
+    4212000
+   ],
+   [
+    "#0e2c1d",
+    1518259
+   ],
+   [
+    "#212121",
+    576000
+   ],
+   [
+    "#f5f5f5",
+    248395
+   ]
+  ]
+ },
+ {
+  "host": "pizza-amici.nl",
+  "url": "https://pizza-amici.nl/",
+  "nisha": "ЕДА И НАПИТКИ",
+  "title": "Pizza foodtruck | Wheely good pizzas op locatie, dagvers gemaakt",
+  "nagr": "HM",
+  "podpis": "Dylan Brouwer PRO HM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/pizza-amici",
+  "C": 42.6,
+  "yark": 6.3,
+  "neytr": 53.1,
+  "temn": 17.4,
+  "L": 64.4,
+  "dom": [
+   [
+    "#f2ede8",
+    22.8
+   ],
+   [
+    "#302624",
+    16.3
+   ],
+   [
+    "#ffffff",
+    15.4
+   ],
+   [
+    "#58555f",
+    12.1
+   ]
+  ],
+  "C9": 59.3,
+  "yark9": 8.4,
+  "neytr9": 51.5,
+  "temn9": 9.2,
+  "dom9": [
+   [
+    "#ffffff",
+    25.1
+   ],
+   [
+    "#2a2f3e",
+    22.6
+   ],
+   [
+    "#c3dfef",
+    17.7
+   ]
+  ],
+  "kegl": 4.58,
+  "keglpx": 66,
+  "gtext": "O",
+  "gfont": "salo-variable",
+  "bg": "#f2ede9",
+  "ves": 20317,
+  "libs": [
+   "gsap",
+   "locomotive",
+   "swiper",
+   "webflow"
+  ],
+  "video": 1,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 128,
+  "req": 111,
+  "h1font": "salo-variable",
+  "h1px": "66px",
+  "fony": [
+   [
+    "#c0deee",
+    4109047
+   ],
+   [
+    "#0f2c56",
+    3160502
+   ],
+   [
+    "#4f3c2c",
+    2796660
+   ],
+   [
+    "#f2ede9",
+    2546618
+   ]
+  ]
+ },
+ {
+  "host": "burritomadre.rs",
+  "url": "https://burritomadre.rs/",
+  "nisha": "ЕДА И НАПИТКИ",
+  "title": "Dobrodošli u Burrito Madre | Uvek Dobra Roba",
+  "nagr": "HM",
+  "podpis": "General Condition Studio HM",
+  "mertv": false,
+  "kartochka": "https://www.awwwards.com/sites/burrito-madre",
+  "C": 99.8,
+  "yark": 29.0,
+  "neytr": 28.3,
+  "temn": 2.1,
+  "L": 64.6,
+  "dom": [
+   [
+    "#fae8df",
+    27.7
+   ],
+   [
+    "#eacbb0",
+    17.6
+   ],
+   [
+    "#fd5e0e",
+    17.0
+   ],
+   [
+    "#4c1009",
+    14.2
+   ]
+  ],
+  "C9": 66.0,
+  "yark9": 17.4,
+  "neytr9": 36.4,
+  "temn9": 11.4,
+  "dom9": [
+   [
+    "#fae8df",
+    32.3
+   ],
+   [
+    "#9d5c37",
+    25.2
+   ],
+   [
+    "#471d0c",
+    22.7
+   ]
+  ],
+  "kegl": 2.78,
+  "keglpx": 40,
+  "gtext": "Dobrodošli u Burrito Madre",
+  "gfont": "Figtree",
+  "bg": "#fae8df",
+  "ves": 6477,
+  "libs": [
+   "lottie",
+   "wordpress"
+  ],
+  "video": 0,
+  "canvas": 0,
+  "webgl": 0,
+  "img": 28,
+  "req": 91,
+  "h1font": "Figtree",
+  "h1px": "40px",
+  "fony": [
+   [
+    "#f83e1c",
+    2066014
+   ],
+   [
+    "#fae8df",
+    2049974
+   ],
+   [
+    "#053626",
+    840668
+   ],
+   [
+    "#ffffff",
+    600795
+   ]
+  ]
+ },
+ {
+  "host": "houmahani.com",
+  "url": "https://houmahani.com/",
+  "nisha": "ДРУГИЕ ГАЛЕРЕИ (CSSDA, FWA, OPL)",
+  "title": "Houmahani Kane · Freelance Creative Developer",
+  "nagr": "",
+  "podpis": "",
+  "mertv": false,
+  "kartochka": "",
+  "C": 11.9,
+  "yark": 0.0,
+  "neytr": 95.4,
+  "temn": 0.0,
+  "L": 94.2,
+  "dom": [
+   [
+    "#efebe5",
+    18.1
+   ],
+   [
+    "#f0eeec",
+    17.3
+   ],
+   [
+    "#f7fcf5",
+    14.2
+   ],
+   [
+    "#f2f4ef",
+    13.7
+   ]
+  ],
+  "C9": 11.9,
+  "yark9": 0.0,
+  "neytr9": 95.4,
+  "temn9": 0.0,
+  "dom9": [
+   [
+    "#f0eeec",
+    17.3
+   ],
+   [
+    "#efebe5",
+    17.1
+   ],
+   [
+    "#f7fcf5",
+    14.2
+   ]
+  ],
+  "kegl": 3.33,
+  "keglpx": 48,
+  "gtext": "00",
+  "gfont": "Instrument Sans",
+  "bg": null,
+  "ves": 464,
+  "libs": [],
+  "video": 4,
+  "canvas": 1,
+  "webgl": 1,
+  "img": 1,
+  "req": 14,
+  "h1font": "DM Mono",
+  "h1px": "11px",
+  "fony": [
+   [
+    "#241f19",
+    14058
+   ],
+   [
+    "#ffffff",
+    8080
+   ],
+   [
+    "#001d82",
+    3352
+   ]
+  ]
+ },
+ {
+  "host": "kinoria.studio",
+  "url": "https://kinoria.studio/",
+  "nisha": "ДРУГИЕ ГАЛЕРЕИ (CSSDA, FWA, OPL)",
+  "title": "KINORIA",
+  "nagr": "",
+  "podpis": "",
+  "mertv": false,
+  "kartochka": "",
+  "C": 19.3,
+  "yark": 1.2,
+  "neytr": 0.2,
+  "temn": 74.5,
+  "L": 15.4,
+  "dom": [
+   [
+    "#493a27",
+    16.7
+   ],
+   [
+    "#1f180e",
+    13.8
+   ],
+   [
+    "#372a1b",
+    13.2
+   ],
+   [
+    "#282015",
+    12.2
+   ]
+  ],
+  "C9": null,
+  "yark9": null,
+  "neytr9": null,
+  "temn9": null,
+  "dom9": [],
+  "kegl": 1.11,
+  "keglpx": 16,
+  "gtext": "loading  100%",
+  "gfont": "Times New Roman",
+  "bg": "#000000",
+  "ves": 7911,
+  "libs": [
+   "three"
+  ],
+  "video": 0,
+  "canvas": 4,
+  "webgl": 2,
+  "img": 0,
+  "req": 211,
+  "h1font": "",
+  "h1px": "",
+  "fony": []
+ },
+ {
+  "host": "mildsugardesign.jp",
+  "url": "https://mildsugardesign.jp/",
+  "nisha": "ДРУГИЕ ГАЛЕРЕИ (CSSDA, FWA, OPL)",
+  "title": "Mildsugar Design",
+  "nagr": "",
+  "podpis": "",
+  "mertv": false,
+  "kartochka": "",
+  "C": 49.8,
+  "yark": 9.4,
+  "neytr": 35.8,
+  "temn": 8.4,
+  "L": 65.4,
+  "dom": [
+   [
+    "#7db0ae",
+    17.2
+   ],
+   [
+    "#609497",
+    16.8
+   ],
+   [
+    "#f5f7ee",
+    16.0
+   ],
+   [
+    "#342c2d",
+    11.7
+   ]
+  ],
+  "C9": 51.0,
+  "yark9": 88.8,
+  "neytr9": 2.2,
+  "temn9": 0.0,
+  "dom9": [
+   [
+    "#baa96f",
+    19.8
+   ],
+   [
+    "#e2b979",
+    15.1
+   ],
+   [
+    "#93672e",
+    13.5
+   ]
+  ],
+  "kegl": 8.33,
+  "keglpx": 120,
+  "gtext": "Hey! 🤝",
+  "gfont": "Righteous",
+  "bg": "#f7f5f1",
+  "ves": 29492,
+  "libs": [],
+  "video": 1,
+  "canvas": 1,
+  "webgl": 0,
+  "img": 1,
+  "req": 29,
+  "h1font": "LINE Seed JP",
+  "h1px": "14.4px",
+  "fony": [
+   [
+    "#f7f5f1",
+    3240000
+   ],
+   [
+    "#fea831",
+    27008
+   ],
+   [
+    "#ffffff",
+    108
+   ]
+  ]
+ },
+ {
+  "host": "no.merci-michel.com",
+  "url": "https://no.merci-michel.com/",
+  "nisha": "ДРУГИЕ ГАЛЕРЕИ (CSSDA, FWA, OPL)",
+  "title": "No Mercy Michel",
+  "nagr": "",
+  "podpis": "",
+  "mertv": false,
+  "kartochka": "",
+  "C": 36.1,
+  "yark": 1.8,
+  "neytr": 0.3,
+  "temn": 85.8,
+  "L": 11.5,
+  "dom": [
+   [
+    "#041727",
+    27.6
+   ],
+   [
+    "#072138",
+    26.8
+   ],
+   [
+    "#061d32",
+    22.2
+   ],
+   [
+    "#051a2b",
+    14.7
+   ]
+  ],
+  "C9": 25.0,
+  "yark9": 0.0,
+  "neytr9": 0.0,
+  "temn9": 77.0,
+  "dom9": [
+   [
+    "#041727",
+    29.0
+   ],
+   [
+    "#061e33",
+    14.0
+   ],
+   [
+    "#072139",
+    13.9
+   ]
+  ],
+  "kegl": 3.11,
+  "keglpx": 45,
+  "gtext": "s",
+  "gfont": "UnitedSansRegular",
+  "bg": "#3ea0f1",
+  "ves": 11484,
+  "libs": [],
+  "video": 0,
+  "canvas": 1,
+  "webgl": 1,
+  "img": 2,
+  "req": 215,
+  "h1font": "",
+  "h1px": "",
+  "fony": [
+   [
+    "#ffffff",
+    684350
+   ],
+   [
+    "#7a412e",
+    382803
+   ],
+   [
+    "#59a7d3",
+    5113
+   ]
+  ]
+ },
+ {
+  "host": "flshfrm.com",
+  "url": "https://flshfrm.com/",
+  "nisha": "ДРУГИЕ ГАЛЕРЕИ (CSSDA, FWA, OPL)",
+  "title": "Flashfom: the fastest and easiest way to connect with your customer",
+  "nagr": "",
+  "podpis": "",
+  "mertv": false,
+  "kartochka": "",
+  "C": 23.1,
+  "yark": 2.2,
+  "neytr": 0.0,
+  "temn": 97.5,
+  "L": 8.1,
+  "dom": [
+   [
+    "#111606",
+    96.3
+   ],
+   [
+    "#add83e",
+    1.2
+   ],
+   [
+    "#0e1205",
+    0.7
+   ],
+   [
+    "#b0dc3f",
+    0.6
+   ]
+  ],
+  "C9": 6.5,
+  "yark9": 0.0,
+  "neytr9": 0.0,
+  "temn9": 99.9,
+  "dom9": [
+   [
+    "#111606",
+    99.7
+   ],
+   [
+    "#101506",
+    0.1
+   ],
+   [
+    "#435518",
+    0.1
+   ]
+  ],
+  "kegl": 7.81,
+  "keglpx": 113,
+  "gtext": "forms",
+  "gfont": "Recife",
+  "bg": "#111606",
+  "ves": 1876,
+  "libs": [
+   "gsap",
+   "nuxt"
+  ],
+  "video": 3,
+  "canvas": 3,
+  "webgl": 2,
+  "img": 6,
+  "req": 64,
+  "h1font": "Aeonik",
+  "h1px": "112.5px",
+  "fony": [
+   [
+    "#111606",
+    34925985
+   ],
+   [
+    "#b1dd40",
+    2367335
+   ],
+   [
+    "#ffffff",
+    432788
+   ],
+   [
+    "#6b6b6b",
+    229
+   ]
+  ]
+ },
+ {
+  "host": "askmidnight.com",
+  "url": "https://askmidnight.com/",
+  "nisha": "ДРУГИЕ ГАЛЕРЕИ (CSSDA, FWA, OPL)",
+  "title": "Midnight | An AI voice advisor for founders",
+  "nagr": "",
+  "podpis": "",
+  "mertv": false,
+  "kartochka": "",
+  "C": 22.6,
+  "yark": 0.1,
+  "neytr": 36.7,
+  "temn": 15.6,
+  "L": 46.8,
+  "dom": [
+   [
+    "#767870",
+    16.9
+   ],
+   [
+    "#8d8479",
+    14.2
+   ],
+   [
+    "#8c796a",
+    13.9
+   ],
+   [
+    "#5c6269",
+    13.5
+   ]
+  ],
+  "C9": 21.4,
+  "yark9": 0.0,
+  "neytr9": 30.8,
+  "temn9": 22.7,
+  "dom9": [
+   [
+    "#958170",
+    13.8
+   ],
+   [
+    "#888d81",
+    13.6
+   ],
+   [
+    "#191e20",
+    13.5
+   ]
+  ],
+  "kegl": 3.33,
+  "keglpx": 48,
+  "gtext": "Stop going in circles",
+  "gfont": "Public Sans",
+  "bg": "#07172a",
+  "ves": 59,
+  "libs": [
+   "next"
+  ],
+  "video": 0,
+  "canvas": 3,
+  "webgl": 3,
+  "img": 2,
+  "req": 32,
+  "h1font": "Public Sans",
+  "h1px": "48px",
+  "fony": [
+   [
+    "#07172a",
+    12282685
+   ],
+   [
+    "#f4efe6",
+    7148160
+   ],
+   [
+    "#faf7f1",
+    3886560
+   ],
+   [
+    "#fffefa",
+    52866
+   ]
+  ]
+ },
+ {
+  "host": "chair.ua",
+  "url": "https://chair.ua/",
+  "nisha": "ДРУГИЕ ГАЛЕРЕИ (CSSDA, FWA, OPL)",
+  "title": "Головна - Chair | Для тих, хто цінує кожну деталь",
+  "nagr": "",
+  "podpis": "",
+  "mertv": false,
+  "kartochka": "",
+  "C": 28.6,
+  "yark": 1.7,
+  "neytr": 14.0,
+  "temn": 74.4,
+  "L": 16.4,
+  "dom": [
+   [
+    "#0e0704",
+    27.9
+   ],
+   [
+    "#3a302d",
+    14.9
+   ],
+   [
+    "#2e2824",
+    14.3
+   ],
+   [
+    "#453e3a",
+    13.8
+   ]
+  ],
+  "C9": 33.6,
+  "yark9": 2.5,
+  "neytr9": 12.2,
+  "temn9": 77.3,
+  "dom9": [
+   [
+    "#0e0704",
+    29.2
+   ],
+   [
+    "#1c1612",
+    25.7
+   ],
+   [
+    "#3b3230",
+    16.0
+   ]
+  ],
+  "kegl": 5.28,
+  "keglpx": 76,
+  "gtext": "Диван,",
+  "gfont": "Wix Madefor Display",
+  "bg": "#0e0704",
+  "ves": 722,
+  "libs": [
+   "wordpress"
+  ],
+  "video": 0,
+  "canvas": 3,
+  "webgl": 1,
+  "img": 54,
+  "req": 26,
+  "h1font": "Wix Madefor Display",
+  "h1px": "75.9999px",
+  "fony": [
+   [
+    "#000000",
+    5184000
+   ],
+   [
+    "#0e0704",
+    4063626
+   ],
+   [
+    "#ecede8",
+    824069
+   ],
+   [
+    "#bd1534",
+    152190
+   ]
+  ]
+ },
+ {
+  "host": "grandecharte.co",
+  "url": "https://grandecharte.co/",
+  "nisha": "ДРУГИЕ ГАЛЕРЕИ (CSSDA, FWA, OPL)",
+  "title": "Agence UX | Web | Mobile & Ecommerce ✦ Casablanca, Maroc",
+  "nagr": "",
+  "podpis": "",
+  "mertv": false,
+  "kartochka": "",
+  "C": 4.2,
+  "yark": 0.0,
+  "neytr": 100.0,
+  "temn": 0.1,
+  "L": 90.1,
+  "dom": [
+   [
+    "#e6e2df",
+    33.7
+   ],
+   [
+    "#edebe9",
+    29.3
+   ],
+   [
+    "#e9e5e1",
+    13.7
+   ],
+   [
+    "#d0d1cb",
+    13.3
+   ]
+  ],
+  "C9": null,
+  "yark9": null,
+  "neytr9": null,
+  "temn9": null,
+  "dom9": [],
+  "kegl": 5.42,
+  "keglpx": 78,
+  "gtext": "ⴰⵣⵓⵍ",
+  "gfont": "Georgia",
+  "bg": "#e0dbd9",
+  "ves": 714,
+  "libs": [
+   "next"
+  ],
+  "video": 1,
+  "canvas": 6,
+  "webgl": 6,
+  "img": 52,
+  "req": 109,
+  "h1font": "Open Sans",
+  "h1px": "16px",
+  "fony": [
+   [
+    "#000000",
+    1666709
+   ],
+   [
+    "#dfdbd8",
+    1296000
+   ],
+   [
+    "#2b2b2b",
+    506499
+   ],
+   [
+    "#ffffff",
+    342630
+   ]
+  ]
+ }
+]
