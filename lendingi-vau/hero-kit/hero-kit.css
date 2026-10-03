@@ -1,0 +1,227 @@
+/* ============================================================================
+   hero-kit.css — слои «кино-героя» (VideoFreezeHero + FilmLayers + OrbitParticles
+   + HairlineUI). Токены переопределяются на странице (как tokens.css у Scrolltide).
+   ============================================================================ */
+
+:root {
+  --hk-bg: #0a0a0b;            /* грунт героя (под постером) */
+  --hk-text: #f4f1ec;          /* цвет заголовка */
+  --hk-accent: #f5c400;        /* единственный акцент (CTA, точки-частицы) */
+  --hk-accent-ink: #111;       /* текст на акценте */
+  --hk-bloom: color-mix(in oklab, var(--hk-accent) 55%, transparent);
+  --hk-hairline: rgba(255 255 255 / 0.22);  /* волосяные линии */
+  --hk-mono: ui-monospace, 'JetBrains Mono Variable', monospace;
+  --hk-grain-opacity: 0.04;    /* 3–5% — как «Grain overlay at 3.5%» у Scrolltide */
+  --hk-scrim-top: rgba(0 0 0 / 0.45);
+  --hk-scrim-bottom: rgba(0 0 0 / 0.55);
+  --hk-ui-pad: clamp(16px, 2.6vw, 40px);
+}
+
+/* ---- каркас ---------------------------------------------------------------- */
+.hk-hero {
+  position: relative;
+  height: 100svh;              /* замер галерей: на телефоне герой во весь экран */
+  overflow: hidden;
+  background: var(--hk-bg);
+  isolation: isolate;          /* blend-режимы не утекают наружу */
+}
+.hk-layer { position: absolute; inset: 0; }
+
+/* ---- z0–z2: стилл / видео / canvas-страховка ------------------------------- */
+.hk-poster { z-index: 0; width: 100%; height: 100%; object-fit: cover; user-select: none; }
+.hk-video {
+  z-index: 1; width: 100%; height: 100%; object-fit: cover;
+  transition: opacity 140ms linear;
+}
+.hk-freeze-canvas {
+  z-index: 2; width: 100%; height: 100%; object-fit: cover;
+  opacity: 0; pointer-events: none; transition: opacity 140ms linear;
+}
+/* невидимый стык: видео гаснет, под ним тот же кадр (постер) + canvas с последним кадром */
+.hk-frozen .hk-video { opacity: 0; }
+.hk-frozen .hk-freeze-canvas { opacity: 1; }
+
+/* ---- z3: заголовок ЗА предметом -------------------------------------------- */
+.hk-headline {
+  z-index: 3;
+  display: grid; place-items: center;
+  padding-inline: 4vw;
+  text-align: center;
+  color: var(--hk-text);
+  opacity: 0.58;                               /* пока ролик играет — приглушён */
+  transition: opacity 700ms cubic-bezier(0.22, 1, 0.36, 1);
+  pointer-events: none;
+}
+.hk-frozen .hk-headline { opacity: 1; }
+.hk-headline h1 {
+  font-size: clamp(3rem, 12.5vw, 11.5rem);     /* во всю ширину, как COFFEE COLLISION */
+  line-height: 0.92;
+  letter-spacing: -0.015em;
+  margin: 0;
+  text-wrap: balance;
+}
+
+/* ---- z4: вырезка предмета (текст уходит ЗА него) ---------------------------- */
+.hk-cutout {
+  z-index: 4; width: 100%; height: 100%; object-fit: cover;
+  opacity: 0; transition: opacity 260ms linear 60ms;
+  pointer-events: none; user-select: none;
+}
+.hk-frozen .hk-cutout { opacity: 1; }
+
+/* ---- z5: частицы-орбита ------------------------------------------------------ */
+.hk-particles { z-index: 5; opacity: 0; transition: opacity 900ms ease 150ms; pointer-events: none; }
+.hk-frozen .hk-particles { opacity: 1; }
+
+.hk-orbit-field { position: absolute; inset: 0; }
+.hk-orbit {
+  position: absolute;
+  left: var(--hk-ox, 50%); top: var(--hk-oy, 58%);
+  width: 0; height: 0;
+  transform: rotate(var(--hk-angle, 0deg));
+  animation: hk-orbit var(--hk-dur, 90s) linear infinite;
+  animation-delay: var(--hk-delay, 0s);
+}
+.hk-orbit-img, .hk-orbit-dot {
+  position: absolute;
+  /* вынос частицы на радиус орбиты (vmin задаёт OrbitParticles) */
+  transform: translate(var(--hk-radius, 26vmin), -50%);
+  display: block;
+}
+.hk-orbit-dot { border-radius: 50%; box-shadow: 0 0 10px 1px var(--hk-accent); }
+@keyframes hk-orbit {
+  from { transform: rotate(var(--hk-angle, 0deg)); }
+  to   { transform: rotate(calc(var(--hk-angle, 0deg) + 360deg)); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .hk-orbit { animation: none; }
+}
+
+/* ---- z6: киноплёнка (mask/spot/bloom/rings/scrim/grain) ---------------------- */
+.hk-film { z-index: 6; pointer-events: none; }
+.hk-film > div { position: absolute; inset: 0; }
+
+/* spot — пятно света, собирает взгляд */
+.hk-spot {
+  background: radial-gradient(
+    ellipse 52% 46% at var(--hk-cx, 50%) var(--hk-cy, 58%),
+    rgba(255 255 255 / 0.10), transparent 70%);
+  mix-blend-mode: screen;
+}
+
+/* bloom — цветное свечение за предметом */
+.hk-bloom {
+  background: radial-gradient(
+    circle 34% at var(--hk-cx, 50%) var(--hk-cy, 58%),
+    var(--hk-bloom), transparent 72%);
+  filter: blur(28px);
+  mix-blend-mode: screen;
+  opacity: 0.5;
+}
+
+/* rings — тонкие концентрические окружности вокруг предмета */
+.hk-ring {
+  inset: auto;
+  left: var(--hk-cx, 50%); top: var(--hk-cy, 58%);
+  translate: -50% -50%;
+  border: 1px solid var(--hk-hairline);
+  border-radius: 50%;
+  aspect-ratio: 1;
+}
+.hk-ring-1 { width: 46vmin; opacity: 0.8; }
+.hk-ring-2 { width: 64vmin; opacity: 0.45; }
+.hk-ring-3 { width: 84vmin; opacity: 0.25; }
+
+/* scrim — читаемость UI сверху и текста снизу */
+.hk-scrim {
+  background:
+    linear-gradient(to bottom, var(--hk-scrim-top), transparent 22%),
+    linear-gradient(to top, var(--hk-scrim-bottom), transparent 30%);
+}
+
+/* vignette — «mask» Scrolltide: мягкая кино-виньетка по краям кадра */
+.hk-vignette {
+  background: radial-gradient(ellipse 120% 100% at 50% 50%, transparent 62%, rgba(0 0 0 / 0.38));
+}
+
+/* grain — зерно плёнки: feTurbulence, дрожит steps-анимацией */
+.hk-grain {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  background-size: 240px 240px;
+  opacity: var(--hk-grain-opacity);
+  mix-blend-mode: overlay;
+  animation: hk-grain 0.9s steps(4) infinite;
+}
+@keyframes hk-grain {
+  0% { background-position: 0 0; }
+  25% { background-position: -60px 40px; }
+  50% { background-position: 40px -60px; }
+  75% { background-position: -40px -40px; }
+  100% { background-position: 60px 60px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .hk-grain { animation: none; }
+}
+
+/* ---- z7: hairline-UI ---------------------------------------------------------- */
+.hk-ui { z-index: 7; pointer-events: none; }
+.hk-ui a { pointer-events: auto; }
+
+.hk-nav {
+  position: absolute; inset: 0 0 auto 0;
+  display: flex; align-items: center; gap: clamp(14px, 2vw, 32px);
+  padding: calc(var(--hk-ui-pad) * 0.6) var(--hk-ui-pad);
+  border-bottom: 1px solid var(--hk-hairline);
+  color: var(--hk-text);
+}
+.hk-brand { font-weight: 600; letter-spacing: 0.02em; }
+.hk-links { display: flex; gap: clamp(12px, 1.6vw, 26px); margin-left: auto; }
+.hk-link {
+  color: var(--hk-text); text-decoration: none; font-size: 0.86rem; opacity: 0.8;
+}
+.hk-link:hover { opacity: 1; }
+/* ЕДИНСТВЕННАЯ залитая панель на экране */
+.hk-cta {
+  background: var(--hk-accent); color: var(--hk-accent-ink);
+  padding: 0.6em 1.25em; border-radius: 999px;
+  font-size: 0.9rem; font-weight: 600; text-decoration: none;
+  transition: transform 180ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+.hk-cta:hover { transform: translateY(-1px); }
+
+.hk-bar {
+  position: absolute; inset: auto 0 0 0;
+  display: flex; align-items: flex-end; justify-content: space-between;
+  padding: var(--hk-ui-pad);
+  border-top: 1px solid var(--hk-hairline);
+  color: var(--hk-text);
+}
+.hk-hint { font-family: var(--hk-mono); font-size: 0.72rem; opacity: 0.65; max-width: 34ch; }
+.hk-scroll { display: flex; align-items: center; gap: 10px; }
+.hk-scroll-label { font-family: var(--hk-mono); font-size: 0.72rem; opacity: 0.65; }
+.hk-scroll-line {
+  width: 1px; height: 44px; background: var(--hk-hairline); position: relative; overflow: hidden;
+}
+.hk-scroll-line::after {
+  content: ''; position: absolute; left: 0; top: -40%;
+  width: 100%; height: 40%; background: var(--hk-text);
+  animation: hk-scroll-drip 2.2s cubic-bezier(0.22, 1, 0.36, 1) infinite;
+}
+@keyframes hk-scroll-drip { to { top: 110%; } }
+
+.hk-corner {
+  position: absolute; width: 14px; height: 14px; opacity: 0.55;
+  border-color: var(--hk-hairline); border-style: solid; border-width: 0;
+}
+.hk-tl { top: 74px; left: var(--hk-ui-pad); border-top-width: 1px; border-left-width: 1px; }
+.hk-tr { top: 74px; right: var(--hk-ui-pad); border-top-width: 1px; border-right-width: 1px; }
+.hk-bl { bottom: 86px; left: var(--hk-ui-pad); border-bottom-width: 1px; border-left-width: 1px; }
+.hk-br { bottom: 86px; right: var(--hk-ui-pad); border-bottom-width: 1px; border-right-width: 1px; }
+
+/* ---- телефон ------------------------------------------------------------------ */
+@media (max-width: 640px) {
+  .hk-links { display: none; }
+  .hk-hint { display: none; }
+  .hk-ring-3 { display: none; }
+  .hk-headline h1 { font-size: clamp(2.6rem, 15vw, 5rem); }
+}
