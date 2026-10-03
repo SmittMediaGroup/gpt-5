@@ -1,0 +1,524 @@
+@import 'tailwindcss';
+
+@import '@fontsource-variable/unbounded';
+@import '@fontsource-variable/golos-text';
+
+@theme {
+  /* КРАСОЧНАЯ ПАЛИТРА (02.10.2026, решение владельца: «не надо тёмных сайтов,
+     нужны красочные, с яркими красками»). Цветы — самый цветной предмет на
+     свете, а страница была коричнево-янтарной и монохромной. Имена токенов
+     прежние: на них завязаны все секции. */
+  /* фон страницы: светлый тёплый лепесток */
+  --color-velvet: #fff5ea;
+  /* вторая поверхность: тёплый розовый */
+  --color-soot: #ffe7ea;
+  /* основной текст: глубокий сливовый, не чёрный */
+  --color-bone: #2b1320;
+  /* приглушённый: проходит AA на светлом */
+  --color-smoke: #7d5260;
+  /* акцент: сочный пион */
+  --color-peony: #e5386b;
+  /* зелень стебля */
+  --color-stem: #2fa06a;
+  /* солнечная пыльца */
+  --color-pollen: #f5a524;
+  /* подложка под кадрами: тёмная остаётся только ТАМ, где её закрывает
+     картинка, — чтобы не мигало белым до загрузки */
+  --color-stage: #3a1330;
+
+  --font-display: 'Unbounded Variable', system-ui, sans-serif;
+  --font-body: 'Golos Text Variable', system-ui, sans-serif;
+}
+
+@layer base {
+  html {
+    scrollbar-width: none;
+  }
+  html::-webkit-scrollbar {
+    display: none;
+  }
+
+  body {
+    background: var(--color-velvet);
+    color: var(--color-bone);
+    font-family: var(--font-body);
+    line-height: 1.6;
+    /* clip, а не hidden — hidden ломает position:sticky у потомков */
+    overflow-x: clip;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  ::selection {
+    background: var(--color-peony);
+    color: var(--color-velvet);
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-peony);
+    outline-offset: 3px;
+  }
+}
+
+@utility display {
+  font-family: var(--font-display);
+  font-weight: 500;
+  letter-spacing: -0.01em;
+  line-height: 1.04;
+  font-variant-numeric: lining-nums;
+}
+
+/* ---- Первый экран, третья редакция (03.10.2026) --------------------------
+   Поле — круг одного тона на кремовом: 30–45 % экрана, а не 90 %.
+   Геометрия круга — три переменные, ими же пользуются клякса, пион, имя,
+   печать и обрезка кремового экземпляра имени (clip-path в Hero.tsx),
+   поэтому всё стоит в одной системе координат и не разъезжается.
+   Высота 100svh и на телефоне: иначе поле схлопывается в полосу
+   (замер галерей: у заливочных сайтов доля цвета на 390 падает вдвое). */
+.g3-hero {
+  --pole: #d81b60;
+  /* клякса на шаг светлее поля — глубина, а не второй цвет */
+  /* замер круга 3: #e8457f под тенью пиона давал грязный #d0396f — светлее */
+  --pole-svet: #f06496;
+  --cx: 50%;
+  --cy: 40%;
+  --R: min(56vw, 30svh);
+  height: 100svh;
+  min-height: 600px;
+  /* под цветным полем iOS в тёмной теме перекрашивает системные элементы */
+  color-scheme: only light;
+}
+@media (min-width: 768px) {
+  .g3-hero {
+    --cx: 66%;
+    --cy: 55%;
+    --R: min(48svh, 33vw);
+    min-height: 620px;
+  }
+}
+
+.g3-field {
+  background: var(--pole);
+}
+
+.g3-klyaksa {
+  position: absolute;
+  left: var(--cx);
+  top: calc(var(--cy) - var(--R) * 0.12);
+  width: calc(var(--R) * 1.34);
+  height: calc(var(--R) * 1.24);
+  transform: translate(-50%, -50%) rotate(-8deg);
+  background: var(--pole-svet);
+  border-radius: 42% 58% 63% 37% / 45% 38% 62% 55%;
+}
+
+/* Имя во всю ширину. Два экземпляра в одной точке: нижний малиновый,
+   верхний кремовый и обрезан кругом поля. */
+.g3-word-row {
+  position: absolute;
+  z-index: 3;
+  inset-inline: 0;
+  top: calc(var(--cy) + var(--R) * 0.6);
+  text-align: center;
+  pointer-events: none;
+}
+@media (min-width: 768px) {
+  .g3-word-row {
+    top: calc(var(--cy) + var(--R) * 0.34);
+  }
+}
+.g3-word {
+  display: inline-block;
+  font-family: var(--font-display);
+  font-weight: 700;
+  text-transform: uppercase;
+  white-space: nowrap;
+  letter-spacing: -0.05em;
+  line-height: 0.82;
+  /* слово в Unbounded ≈ 6,4 кегля шириной: 14,2vw даёт 91 % ширины экрана */
+  font-size: 14.2vw;
+}
+@media (min-width: 768px) {
+  .g3-word {
+    font-size: min(14.2vw, 25svh);
+  }
+}
+.g3-word-clip {
+  z-index: 3;
+}
+
+/* Пион стоит на имени. Тень статична: drop-shadow на большой картинке
+   дорог на каждом кадре, поэтому сам слой с тенью не анимируется —
+   двигается только обёртка (transform). */
+.g3-pion-pos {
+  position: absolute;
+  z-index: 4;
+  left: var(--cx);
+  top: calc(var(--cy) - var(--R) * 0.2);
+  width: calc(var(--R) * 1.42);
+  aspect-ratio: 1616 / 1676;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+}
+.g3-pion {
+  filter: drop-shadow(0 16px 22px rgba(110, 8, 48, 0.2));
+}
+
+/* Лепестки: рисованные, дышат на месте. Петля длиннее 5 с — поэтому
+   есть стоп-кнопка и полная остановка под reduced-motion. */
+@keyframes g3-bob {
+  from {
+    transform: translate3d(0, -10px, 0) rotate(calc(var(--pr) - 7deg));
+  }
+  to {
+    transform: translate3d(6px, 12px, 0) rotate(calc(var(--pr) + 7deg));
+  }
+}
+@keyframes g3-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.g3-petal {
+  position: absolute;
+  left: var(--pxm);
+  top: var(--pym);
+  margin: -1.5rem 0 0 -1rem;
+  pointer-events: none;
+  transform: rotate(var(--pr));
+  animation:
+    g3-in 0.7s 2.6s both,
+    g3-bob var(--pt) ease-in-out var(--pd) infinite alternate;
+  will-change: transform;
+}
+
+/* Печать с ценой на кромке поля: кремовый диск, текст по кругу */
+.g3-seal {
+  position: absolute;
+  z-index: 5;
+  width: 10.5rem;
+  height: 10.5rem;
+  margin: -5.25rem 0 0 -5.25rem;
+  left: calc(var(--cx) + var(--R) * 0.74);
+  top: calc(var(--cy) - var(--R) * 0.7);
+  border-radius: 999px;
+  background: #fff5ea;
+  box-shadow: 0 14px 40px -18px rgba(110, 8, 48, 0.55);
+}
+@media (min-width: 768px) {
+  .g3-petal {
+    left: var(--pxd);
+    top: var(--pyd);
+  }
+}
+@keyframes g3-spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+.g3-seal-ring {
+  animation: g3-spin 26s linear infinite;
+  pointer-events: none;
+}
+.g3-seal:hover .g3-seal-ring {
+  animation-play-state: paused;
+}
+.g3-seal-text {
+  font-family: var(--font-body);
+  font-size: 12.5px;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  fill: #d81b60;
+}
+
+/* Текст: на телефоне — под именем, на десктопе — колонкой слева от поля */
+.g3-copy {
+  position: absolute;
+  z-index: 5;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 0 1.25rem 6.25rem;
+}
+@media (min-width: 768px) {
+  .g3-copy {
+    left: 6vw;
+    right: auto;
+    bottom: auto;
+    top: 21%;
+    width: min(27rem, 31vw);
+    padding: 0;
+  }
+}
+
+.g3-pause {
+  position: absolute;
+  z-index: 7;
+  right: 0.75rem;
+  top: 4.25rem;
+  display: grid;
+  place-items: center;
+  width: 2.75rem;
+  height: 2.75rem;
+  border-radius: 999px;
+  color: #9e0f45;
+  background: color-mix(in srgb, #fff5ea 82%, transparent);
+  border: 1px solid rgba(158, 15, 69, 0.22);
+  transition: background-color 0.18s ease-out;
+}
+.g3-pause:hover {
+  background: #fff5ea;
+}
+@media (min-width: 768px) {
+  .g3-pause {
+    right: 1.5rem;
+    top: auto;
+    bottom: 1.5rem;
+  }
+}
+
+.g3-still .g3-petal,
+.g3-still .g3-seal-ring {
+  animation-play-state: paused;
+}
+@media (prefers-reduced-motion: reduce) {
+  .g3-petal {
+    animation: none !important;
+  }
+  .g3-seal-ring {
+    animation: none !important;
+  }
+}
+
+/* Ночная полоса: непрозрачная тёмная подложка для секций, внутри которых
+   лежит слой с mix-blend-mode: screen.
+   ЗАЧЕМ. Страница кремовая (#f7ece0). Screen на кремовом даёт почти чистый
+   белый — ровно так 02.10 забелило секцию «руки» и могло забелить финал
+   (грабля 9 с обратным знаком). Полупрозрачный градиент сверху не лечит:
+   под ним всё равно кремовое. Лечит только НЕПРОЗРАЧНЫЙ тёмный фон самой
+   секции — он и есть то, с чем screen смешивается.
+   Заодно утилита переворачивает текстовые токены, как candle-light в герое,
+   поэтому разметку секции менять не приходится. Кремовой заливки у этой
+   утилиты нет сознательно: любой кремовый пиксель под blend снова забелит. */
+@utility night-band {
+  /* Была ночная полоса под слоем с mix-blend-screen. Решение владельца
+     02.10 — страница красочная, а не тёмная, поэтому полоса стала цветной,
+     а ролики в ней больше не на чёрном и blend им не нужен. Непрозрачность
+     фона всё равно обязательна: полупрозрачная секция снова поймала бы
+     грабли с наложением. */
+  --color-velvet: #ffe7ea;
+  --color-soot: #ffd9df;
+  color: var(--color-bone);
+  background-color: #ffe7ea;
+}
+
+/* Зерно полотна: лёгкий шум, чтобы бархат не был плоским цифровым чёрным */
+@utility canvas-grain {
+  position: relative;
+}
+.canvas-grain::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.05;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='140' height='140' filter='url(%23n)' opacity='0.6'/%3E%3C/svg%3E");
+}
+
+/* Мерцание свечи: яркость света едва дышит. Автономика — гасится
+   под reduced-motion (грабля 10: движение от скролла оставляем) */
+@keyframes candle-breathe {
+  0%,
+  100% {
+    opacity: 0.85;
+  }
+  46% {
+    opacity: 1;
+  }
+  52% {
+    opacity: 0.9;
+  }
+  70% {
+    opacity: 0.97;
+  }
+}
+.candle-flicker {
+  animation: candle-breathe 6.5s ease-in-out infinite;
+}
+
+/* Стебель встаёт в вазу пружиной (сборка букета). Поворот веера — SVG
+   transform вокруг корня; CSS только поднимает и раскрывает от низа */
+@keyframes stem-rise {
+  0% {
+    transform: translateY(22px) scale(0.55);
+    opacity: 0;
+  }
+  60% {
+    transform: translateY(-3px) scale(1.04);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(0) scale(1);
+    opacity: 1;
+  }
+}
+.stem-enter {
+  transform-box: fill-box;
+  transform-origin: 50% 100%;
+  animation: stem-rise 0.7s cubic-bezier(0.34, 1.45, 0.55, 1) both;
+}
+
+/* Лепестки, падающие сквозь темноту в финале: каждый ловит свет.
+   Чистая автономика — под reduced-motion компонент не рендерится */
+@keyframes petal-drift {
+  0% {
+    transform: translate3d(0, -8vh, 0) rotate(0deg);
+    opacity: 0;
+  }
+  10% {
+    opacity: var(--petal-o, 0.7);
+  }
+  90% {
+    opacity: var(--petal-o, 0.7);
+  }
+  100% {
+    transform: translate3d(var(--petal-dx, 40px), 108vh, 0) rotate(var(--petal-r, 280deg));
+    opacity: 0;
+  }
+}
+.petal-dark {
+  position: absolute;
+  top: 0;
+  border-radius: 100% 4px 100% 4px;
+  background: linear-gradient(135deg, #f2e6da, var(--color-peony));
+  animation: petal-drift var(--petal-t, 12s) linear infinite;
+  animation-delay: var(--petal-d, 0s);
+  will-change: transform;
+}
+
+/* ---- Влёт внутрь цветка (02.10.2026) ------------------------------------
+   «Ноктюрн» — пьеса для фортепиано, музыка ночи. Поэтому прокрутка не просто
+   раскрывает бутон: дальше камера идёт в сердцевину, и там ночная комната с
+   роялем, свечами и дождём за высоким окном. Цветок перестаёт быть картинкой
+   и становится входом.
+
+   Слои внутри sticky-кадра снизу вверх:
+     bg-stage (непрозрачный)  ->  комната  ->  ролик пиона (screen)
+     ->  тёплое свечение сердцевины  ->  виньетка  ->  подпись.
+   Масштаб ролика пишется ПРЯМО В ЭЛЕМЕНТ: transform на обёртке создал бы
+   контекст наложения, и screen перестал бы видеть комнату под собой
+   (грабля, дорого поймана 02.10 на первом экране). */
+
+/* Дождь по стеклу: тонкие косые полосы, видимые только в верхней половине
+   кадра, где в генерации окно. Очень слабый — это воздух, а не эффект. */
+@keyframes room-rain {
+  0% {
+    background-position:
+      0 0,
+      0 0;
+  }
+  100% {
+    background-position:
+      -60px 900px,
+      40px 1300px;
+  }
+}
+.room-rain {
+  pointer-events: none;
+  opacity: 0.5;
+  background-image:
+    repeating-linear-gradient(
+      101deg,
+      transparent 0 9px,
+      rgba(232, 192, 143, 0.085) 9px 10px,
+      transparent 10px 23px
+    ),
+    repeating-linear-gradient(
+      99deg,
+      transparent 0 17px,
+      rgba(246, 236, 223, 0.055) 17px 18px,
+      transparent 18px 41px
+    );
+  mask-image: linear-gradient(to bottom, #000 0%, #000 42%, transparent 72%);
+  animation: room-rain 7s linear infinite;
+  will-change: background-position;
+}
+
+/* Пылинки в тёплом луче: редкие, медленные, разного размера */
+@keyframes room-dust {
+  0% {
+    transform: translate3d(0, 14vh, 0);
+    opacity: 0;
+  }
+  18% {
+    opacity: var(--rd-o, 0.5);
+  }
+  82% {
+    opacity: var(--rd-o, 0.5);
+  }
+  100% {
+    transform: translate3d(var(--rd-dx, 3vw), -22vh, 0);
+    opacity: 0;
+  }
+}
+.room-dust {
+  position: absolute;
+  bottom: 0;
+  border-radius: 999px;
+  background: #f1d6ad;
+  filter: blur(0.3px);
+  animation: room-dust var(--rd-t, 17s) linear infinite;
+  animation-delay: var(--rd-d, 0s);
+  will-change: transform;
+}
+
+/* Сердцевина как вход: тёплое пятно, которое разгорается на влёте */
+.core-glow {
+  pointer-events: none;
+  background: radial-gradient(
+    closest-side,
+    color-mix(in srgb, #fff0c4 46%, transparent) 0%,
+    color-mix(in srgb, #ff9ec0 18%, transparent) 46%,
+    transparent 78%
+  );
+}
+
+/* Виньетка кадра: держит глаз в середине и прячет края кропа */
+.stage-vignette {
+  pointer-events: none;
+  /* мягкая тёплая виньетка вместо чёрной: держит глаз, но не гасит цвет */
+  background: radial-gradient(
+    86% 70% at 50% 48%,
+    transparent 0%,
+    transparent 58%,
+    color-mix(in srgb, #4a1c33 22%, transparent) 100%
+  );
+}
+
+/* Линия прокрутки: единственный интерфейс на кинокадре */
+.scrub-rail {
+  background: color-mix(in srgb, #2b1320 16%, transparent);
+}
+.scrub-rail span {
+  display: block;
+  height: 100%;
+  background: linear-gradient(90deg, #f5a524, #e5386b);
+  transform-origin: 0 50%;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .room-rain,
+  .room-dust {
+    animation: none !important;
+  }
+  .candle-flicker {
+    animation: none !important;
+    opacity: 1;
+  }
+  .stem-enter {
+    animation: none !important;
+  }
+}

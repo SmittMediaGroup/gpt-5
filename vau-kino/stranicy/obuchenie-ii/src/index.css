@@ -1,0 +1,158 @@
+@import 'tailwindcss';
+
+/*
+ * Палитра «Маркер»: одна семья жёлтого (тон ~95° OKLCH) + бумага + чернила.
+ * Чернила — только текст, контуры и одна кнопка; тёмного на экране <10 %.
+ */
+@theme {
+  --color-pole: #ffd43b;      /* поле: главный цвет страницы */
+  --color-pole-2: #ffe680;    /* тот же жёлтый светлее — вторая поверхность */
+  --color-pole-3: #f2b705;    /* тот же жёлтый глубже — плашки, тени, кончик маркера */
+  --color-pole-4: #a86f00;    /* глубина для контуров на жёлтом */
+  --color-krem: #fff7da;      /* бумага */
+  --color-krem-2: #fdeeb8;
+  --color-ink: #17140a;       /* чернила — текст, контраст к полю ≈ 14:1 */
+  --color-ink-2: #4a4024;     /* приглушённый текст, к полю ≈ 7:1 */
+
+  --font-display: 'Geologica Variable', 'Arial Black', system-ui, sans-serif;
+  --font-sans: 'Onest Variable', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  --ease-out-quint: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-in-out-quart: cubic-bezier(0.76, 0, 0.24, 1);
+}
+
+:root {
+  color-scheme: only light;
+  background: var(--color-pole);
+  color: var(--color-ink);
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  scroll-padding-top: 72px;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  font-size: 17px;
+  line-height: 1.55;
+  background: var(--color-pole);
+  color: var(--color-ink);
+  overflow-x: clip;
+  -webkit-font-smoothing: antialiased;
+}
+
+.display {
+  font-family: var(--font-display);
+  font-weight: 850;
+  letter-spacing: -0.035em;
+  line-height: 0.95;
+}
+
+.h2 {
+  font-family: var(--font-display);
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  line-height: 1;
+  font-size: clamp(2.1rem, 5.2vw, 5rem);
+}
+
+.eyebrow {
+  font-size: 0.8125rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.num {
+  font-variant-numeric: lining-nums tabular-nums;
+}
+
+/* Полоса маркера: кремовая «краска» под словом */
+.mark {
+  position: relative;
+  white-space: nowrap;
+  isolation: isolate;
+}
+.mark > .mark-ink {
+  position: absolute;
+  left: -0.08em;
+  right: -0.08em;
+  top: 0.18em;
+  bottom: 0.02em;
+  z-index: -1;
+  background: var(--mark-color, var(--color-krem));
+  border-radius: 0.08em 0.22em 0.12em 0.3em;
+  transform-origin: left center;
+}
+
+/* Полоса от клиновидного кончика: скошенные концы, неровный край */
+.mark > .mark-ink--chisel {
+  left: -0.14em;
+  right: -0.1em;
+  top: 0.22em;
+  bottom: 0;
+  border-radius: 0;
+  background: var(--color-krem);
+  clip-path: polygon(3% 4%, 99% 0%, 100% 88%, 97% 100%, 0% 96%, 1.5% 50%);
+  transform: rotate(-1.2deg);
+}
+
+/* Строчный маркер: красит каждую строку отдельно, как настоящий выделитель */
+.hl {
+  background-image: linear-gradient(var(--hl, #ffd43b), var(--hl, #ffd43b));
+  background-repeat: no-repeat;
+  background-position: 0 85%;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  padding: 0 0.15em;
+}
+
+/* Чёрно-жёлтая лента шлагбаума */
+.hazard {
+  background: repeating-linear-gradient(
+    -45deg,
+    var(--color-ink) 0 14px,
+    var(--color-pole) 14px 28px
+  );
+}
+
+/* Бумажное зерно на больших полях: убирает «пластик» без веса картинок */
+.grain::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.05;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.1 0 0 0 0 0.08 0 0 0 0 0 0 0 0 1 0'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+@keyframes beg {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+.marquee {
+  animation: beg 38s linear infinite;
+}
+.marquee-wrap:hover .marquee,
+.marquee-wrap:focus-within .marquee {
+  animation-play-state: paused;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .marquee { animation: none; }
+  html { scroll-behavior: auto; }
+}
+
+details > summary { list-style: none; cursor: pointer; }
+details > summary::-webkit-details-marker { display: none; }
+
+input[type='range'] {
+  accent-color: var(--color-ink);
+}
+
+:focus-visible {
+  outline: 3px solid var(--color-ink);
+  outline-offset: 3px;
+}

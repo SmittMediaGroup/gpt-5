@@ -1,0 +1,114 @@
+@import '@fontsource-variable/tektur/standard.css';
+@import '@fontsource-variable/onest';
+@import '@fontsource-variable/jetbrains-mono';
+@import 'tailwindcss';
+
+/* Одна цветовая семья — сигнальный «сурик», тон ~45° в OKLCH.
+   Тёмный (choc) — только для текста и контуров. */
+@theme {
+  --color-pole: oklch(0.70 0.19 45);      /* главное поле */
+  --color-pole2: oklch(0.78 0.15 55);     /* клякса светлее поля */
+  --color-peach: oklch(0.88 0.085 62);    /* светлое поле */
+  --color-rust: oklch(0.50 0.165 37);     /* глубокий сурик */
+  --color-krem: oklch(0.975 0.02 75);     /* воздух */
+  --color-krem2: oklch(0.94 0.04 70);
+  --color-choc: oklch(0.24 0.05 40);      /* текст */
+  --color-choc2: oklch(0.38 0.07 42);
+
+  --font-display: 'Tektur Variable', 'Arial Narrow', sans-serif;
+  --font-sans: 'Onest Variable', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono Variable', ui-monospace, monospace;
+
+  --ease-out-quint: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+:root {
+  color-scheme: only light;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--color-krem);
+  color: var(--color-choc);
+  font-family: var(--font-sans);
+  font-feature-settings: 'lnum' 1;
+  overflow-x: clip;
+  -webkit-font-smoothing: antialiased;
+}
+
+.display {
+  font-family: var(--font-display);
+  font-stretch: 85%;
+  letter-spacing: -0.02em;
+  line-height: 0.98;
+}
+
+.mono {
+  font-family: var(--font-mono);
+}
+
+/* Штриховка ручного шага — «здесь работает человек» */
+.hatch {
+  background-image: repeating-linear-gradient(
+    -45deg,
+    oklch(0.24 0.05 40 / 0.07) 0 6px,
+    transparent 6px 12px
+  );
+}
+
+.focus-ring:focus-visible {
+  outline: 3px solid var(--color-choc);
+  outline-offset: 3px;
+}
+
+/* Тонкое зерно на больших заливках — против полос */
+.grain::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.05;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+/* Табло сцены 1: цифра щёлкает сверху вниз при смене */
+.flap {
+  animation: flap 0.32s cubic-bezier(0.22, 1, 0.36, 1);
+}
+@keyframes flap {
+  0% { transform: rotateX(-88deg); opacity: 0.4; }
+  60% { transform: rotateX(8deg); opacity: 1; }
+  100% { transform: rotateX(0deg); }
+}
+.tick-ai {
+  background: var(--color-krem2);
+  outline: 2px solid var(--color-choc);
+  outline-offset: -2px;
+  transition: background-color 0.2s, outline-color 0.2s;
+}
+.tick-ai[data-on='1'] {
+  background: var(--color-krem);
+  outline-color: var(--color-krem);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+.line-dot {
+  background: var(--color-krem);
+  box-shadow: 0 0 0 2px var(--color-choc);
+}
+.line-dot[data-on='1'] {
+  background: var(--color-choc);
+}
